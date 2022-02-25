@@ -93,9 +93,9 @@ section article h2, section article p {
     /*margin:auto;*/
   }
 
-/* #position {
+#position {
     position: fixed;
-}  */
+} 
 
 @media (min-width: 992px) {
 	.inline {
