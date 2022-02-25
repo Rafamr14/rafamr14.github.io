@@ -90,18 +90,16 @@ section article h2, section article p {
 
 .flex-container {
     background-color: #f1f1f1;
-    margin: 0 auto;
     display: flex;
-    /*margin:auto;*/
+    margin: auto;
+    width: 100%;
+    justify-content: center;
 }
 
 #izquierda {
     width: 400px;
 }
 
-#centro {
-    width: 600px;
-}
 
 #derecha {
     width: 400px;
