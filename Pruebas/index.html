@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Web en progreso</title>
+    <!-- 
+        Las etiquetas detrás de las llaves se verán afectadas por los
+        datos que yo ponga entre las llaves
+    -->
+    <style>
+        table, th, td {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <!--
+        Cuando se agregan estilos se acaba la frase con ;
+    -->
+    <table style="width: 500px;">
+        <!--
+            thead es para agrupar las cabeceras
+            tbody es para agrupar todas las filas
+            Esto sirve para que si la tabla es muy grande la cabecera
+            se mantenga cuando scrolleas para abajo como en los sheets
+        -->
+        <thead>
+            <tr>
+                <th>Producto</th>
+                <th>Precio</th> 
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Ordenador</td>
+                <td>200</td>
+            </tr>
+            <tr>
+                <td>Monitor</td>
+                <td>300</td>
+            </tr>
+            <tr>
+                <td>Ordeandor Gaming Pro 2022</td>
+                <td>900</td>
+            </tr>
+            <tfoot>
+                <!--
+                    SE PONE LA PRIMERA TD PARA QUE LA COLUMNA DE PRODUCTO
+                    ESTE VACIA Y SE RELLENE LA DE PRECIO
+                -->
+                <td></td>
+                <td>Total: 1400</td>
+            </tfoot>
+        </tbody>
+    </table>
+    <!-- 
+        ul es lista no ordenada
+        ol es lista ordenada
+        li para los elementos a poner en la lista
+        Si pones value="X" en un li todos los siguientes empezarán por ese value
+    -->
+    <ul>
+        <li>Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+        <li>Elemento 4</li>
+    </ul>
+    <ol>
+        <li value="50">Elemento 1</li>
+        <li>Elemento 2</li>
+        <li>Elemento 3</li>
+        <li>Elemento 4</li>
+        <li>
+            <!-- 
+                ctrl + espacio para que salga la lista de style 
+            -->
+            <ol>
+                <li style="list-style-type: lower-roman;" >SubElemento 1</li>
+                <li style="list-style-type: lower-roman;" >SubElemento 2</li>
+            </ol>
+        </li>
+    </ol>
+
+    <!-- Para definir donde se envia el formulario se hace en la
+    etiqueta form
+    el method GET envía los valores puestos en la url
+    el method POST envía un archivo con los datos
+    -->
+    <form action="/formulario" method="POST">
+        <!-- Para que cuando pinches en el texto del form el cursor se 
+            ponga en el cuadrado para rellena se pone el for y el id.
+            "name" es para que en los formularios se identifique la respuesta
+            al form.
+            "Placeholder" es el texto gris de los recuadros a rellenar.
+            "type" es para definir qué es el input, si texto, botón de enviar...
+            type="file" es para que puedas subir archivos al servidor.
+            value="XXX" para poner un valor predeterminado en cada recuadro.
+        -->
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" name="nombre" placeholder="Nombre" />
+        <br>
+        <label for="apellido">Apellido</label>
+        <input type="text" id="apellido" name="apellido" placeholder="Apellido" />
+        <br>
+        <label for="comentario">Comentario</label>
+        <br>
+        <textarea cols="50" rows="10" id="comentario" placeholder="Ingresa tu comentario" name="comentario"></textarea>
+        <br>
+        <input type="submit" />
+        <!-- 
+            Hay que indicar siempre el tipo de botón en las etiquetas button
+        -->
+        <br>
+        <button type="button"><img src="img/Honkai.png" width="200">Tipo Botón</button>
+        <button type="reset">Tipo reset</button>
+        <button type="submit">Tipo submit</button>
+    </form>
+
+    <!-- Los headings van del h1 al h6 -->
+    <h1>Primer heading</h1> 
+    <!-- Los párrafos van entre sus etiquetas-->
+    <p>Primer párrafo</p>   
+    <p>Segundo párrafo</p>
+    <!-- la etiqueta hr genera una linea separatoria -->
+    <hr>
+    <h2>SEGUNDO HEADING</h2>
+    <!-- El objetivo de span es para referencia textos o incluso cambiar color -->
+    <p>
+        Más párrafos de prueba y <span style="color:deeppink">mucho mas largos</span>
+        para ver como funciona <br> 
+        <!-- br funciona para pasar texto a otra línea -->
+        la etiqueta span
+    </p>
+    <a target="_blank" href="https://www.google.es">Ir a Google</a> <br>
+    <img src="https://c.tenor.com/OQiJiZ0MzycAAAAC/honkai-star-rail.gif" />
+    <img src="img/Honkai.png" width="800px"/>
+   
+</body>
+</html>

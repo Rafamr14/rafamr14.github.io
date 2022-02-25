@@ -1,0 +1,75 @@
+#titulo {
+    color:brown;
+}
+
+p.texto {
+    color:slateblue;
+}
+
+p.especial {
+    color: mediumaquamarine;
+}
+
+div p {
+    color:darkgoldenrod;
+}
+
+div h2, div h3 {
+    color:bisque;
+}
+* {
+    font-size: 24px;
+    color:black;
+}
+
+.color {
+    color:gold;
+}
+
+.color {
+    /* border: 5px red outset; */
+    /*
+    dotted, dashed, solid, double, groove, ridge, inset, outset, none, hidden
+    */
+    border-style:solid;
+    border-color: blue;
+    border-radius: 5px;
+    border-width: 5px;
+}
+
+#fondo {
+    background-color: rgba(255,0,0);
+    /* opacity: 0.3; */
+    /* background-image: url('Story PV.jpg'); */ 
+    /*
+    background: #f00 url('Story PV.jpg') repeat-y center bottom;
+    */
+    background: #f00 url('Story PV.jpg') repeat-y center bottom /100px 100px;
+    background-size: 800px 400px;
+    /* background-repeat: repeat-y;
+    background-position: center top;*/
+    height: 800px;   
+
+    /* 
+    rgba para cambiar el color del subrayado, el cuarto dígito es para
+    cambiar la opacidad
+    opacity da transparencia a todo el elemento
+    */
+}
+
+.margen {
+    background-color: aqua;
+    margin: 15px 20px 25px 30px;
+    padding: 30px 25px 20px 15px;
+}
+
+
+/*
+ p.texto
+       - p indica que busca en los párrafos
+       - texto indica que aplica a las etiquetas que tengan esa palabra.
+       el estilo de después sobreescribe al anterior.
+       div h2, div h3 - se pone siempre div hx porque sino se aplicaría a
+       todos los hx
+       * solo modifica todas las propiedades si no han sido escritas ya 
+*/

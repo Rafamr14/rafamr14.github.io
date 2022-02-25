@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <!-- los atributos id y class nos permiten seleccionarlos
+        mediante javascript y css
+        para poner el mismo atributo a muchas etiquetas se usa class y no id
+        -->
+        <h1 id="titulo">Blog personal en progreso</h1>
+    </header>
+    <!-- 
+        div tiene la misma función de section pero se usa para 
+        dividir y agrupar el contenido, se usaba mucho antes de la etiqueta
+        section.
+    -->
+    <div>
+        <p>Párrafo dentro de un div</p>
+    </div>
+    <section>
+        <!--
+            La etiqueta article viene bien para definir posts de la web
+        -->
+        <article class="post">
+            <h2>Título de los posts</h2>
+            <p>Descripción de los posts</p>
+            <img src="img/Honkai.png" width="500px" />
+            <p>Texto de debajo de la foto del Honkai Star Rail</p>
+        </article>
+        <article class="post">
+            <h2>Título de los post 2</h2>
+            <p>Descripción de los post 2</p>
+            <img src="img/Akane SSR.png" width="500px" />
+            <p>Texto de debajo de la foto de Azur Lane de Akane</p>
+        </article>
+        <article class="post">
+            <h2>Título de los posts3</h2>
+            <p>Descripción de los post3</p>
+            <img src="img/DormAkane.png" width="500px" />
+            <p>Texto de debajo de la foto del dorm del Azur Lane de 
+                Akane con la otra de SSSGridman</p>
+        </article>
+    </section>
+    <footer>
+        <!-- 
+            #titulo te lleva al id donde pertenece ese nombre
+        -->
+        <a href="#titulo">Volver al principio</a>
+        <a href="mailto:rafamenaromo@gmail.com">Contáctame aquí</a>
+        <p>Copyright 2022</p>
+    </footer>
+</body>
+</html>
