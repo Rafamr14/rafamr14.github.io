@@ -75,9 +75,9 @@ section article h2, section article p {
     margin: 1rem;
 }
 
-/* .inline {
+.inline {
     display: inline;
-} */
+} 
 
 .flex-container {
     display: flex;
