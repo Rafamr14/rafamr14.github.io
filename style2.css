@@ -68,7 +68,6 @@ section article:hover {
 
 .left {
     margin: 15px;
-
 }
 
 section article h2, section article p {
@@ -97,6 +96,14 @@ section article h2, section article p {
 /* #position {
     position: fixed;
 }  */
+
+@media (min-width: 992px) {
+	.inline {
+		padding:24px 16px;
+		margin:0 0 0 16px;
+		display:block;
+	}
+}
 
 /* Portrait and Landscape */
 @media only screen 
