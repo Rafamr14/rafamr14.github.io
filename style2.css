@@ -93,7 +93,19 @@ section article h2, section article p {
     margin: 0 auto;
     display: flex;
     /*margin:auto;*/
-  }
+}
+
+#izquierda {
+    width: 400px;
+}
+
+#centro {
+    width: 600px;
+}
+
+#derecha {
+    width: 400px;
+}
 
 #position {
     position: fixed;
