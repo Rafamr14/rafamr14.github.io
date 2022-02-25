@@ -71,8 +71,8 @@ section article:hover {
     border-radius: 0.5rem;
     padding: 2rem;
     margin: 15px;
+    
 }
-
 section article h2, section article p {
     margin: 1rem;
 }
