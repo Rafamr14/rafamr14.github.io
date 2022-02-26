@@ -70,7 +70,7 @@ section article:hover {
     background-color: #2BE6F2;
     border-radius: 0.5rem;
     padding: 2rem;
-    margin: 15px;
+    margin: 1%;
     
 }
 section article h2, section article p {
@@ -97,19 +97,22 @@ section article h2, section article p {
 }
 
 #izquierda {
-    width: 400px;
+    width: 40%;
 }
 
+#centro {
+    width: 100%;
+}
 
 #derecha {
-    width: 400px;
+    width: 40%;
 }
 
 #position {
     position: fixed;
 } 
 
-@media (max-width: 992px) {
+@media (max-width: 250px) {
 	.flex-container {
 		padding:24px 16px;
 		margin:0 0 0 16px;
