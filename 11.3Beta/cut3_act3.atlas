@@ -1,0 +1,55 @@
+
+cut3_act3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4bj_0
+  rotate: false
+  xy: 952, 1272
+  size: 1078, 767
+  orig: 1078, 767
+  offset: 0, 0
+  index: -1
+4bj_1
+  rotate: false
+  xy: 2, 787
+  size: 948, 1252
+  orig: 948, 1252
+  offset: 0, 0
+  index: -1
+4bj_2
+  rotate: true
+  xy: 1443, 1075
+  size: 195, 561
+  orig: 195, 561
+  offset: 0, 0
+  index: -1
+4bj_3
+  rotate: true
+  xy: 766, 595
+  size: 190, 162
+  orig: 190, 162
+  offset: 0, 0
+  index: -1
+4bj_4
+  rotate: true
+  xy: 952, 986
+  size: 284, 489
+  orig: 284, 489
+  offset: 0, 0
+  index: -1
+4bj_5
+  rotate: true
+  xy: 952, 773
+  size: 211, 232
+  orig: 211, 232
+  offset: 0, 0
+  index: -1
+4bj_6
+  rotate: false
+  xy: 2, 2
+  size: 762, 783
+  orig: 762, 783
+  offset: 0, 0
+  index: -1

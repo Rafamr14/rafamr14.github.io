@@ -1,0 +1,118 @@
+
+guancai_bianfu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+guancai_0
+  rotate: false
+  xy: 613, 173
+  size: 35, 73
+  orig: 35, 73
+  offset: 0, 0
+  index: -1
+guancai_1
+  rotate: false
+  xy: 252, 88
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+guancai_10
+  rotate: false
+  xy: 2, 75
+  size: 248, 460
+  orig: 248, 460
+  offset: 0, 0
+  index: -1
+guancai_11
+  rotate: false
+  xy: 504, 562
+  size: 248, 460
+  orig: 248, 460
+  offset: 0, 0
+  index: -1
+guancai_12
+  rotate: false
+  xy: 2, 537
+  size: 500, 485
+  orig: 500, 485
+  offset: 0, 0
+  index: -1
+guancai_13
+  rotate: false
+  xy: 754, 590
+  size: 264, 432
+  orig: 264, 432
+  offset: 0, 0
+  index: -1
+guancai_14
+  rotate: false
+  xy: 252, 103
+  size: 264, 432
+  orig: 264, 432
+  offset: 0, 0
+  index: -1
+guancai_2
+  rotate: false
+  xy: 613, 248
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+guancai_3
+  rotate: true
+  xy: 655, 253
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+guancai_4
+  rotate: true
+  xy: 184, 2
+  size: 71, 45
+  orig: 71, 45
+  offset: 0, 0
+  index: -1
+guancai_5
+  rotate: false
+  xy: 754, 568
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+guancai_6
+  rotate: true
+  xy: 2, 5
+  size: 68, 180
+  orig: 68, 180
+  offset: 0, 0
+  index: -1
+guancai_7
+  rotate: false
+  xy: 613, 324
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+guancai_8
+  rotate: false
+  xy: 518, 282
+  size: 93, 163
+  orig: 93, 163
+  offset: 0, 0
+  index: -1
+guancai_9
+  rotate: false
+  xy: 518, 117
+  size: 93, 163
+  orig: 93, 163
+  offset: 0, 0
+  index: -1
+ying
+  rotate: false
+  xy: 518, 447
+  size: 215, 113
+  orig: 215, 113
+  offset: 0, 0
+  index: -1

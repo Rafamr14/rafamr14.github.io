@@ -1,0 +1,76 @@
+
+xiaotu.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiaotu_00
+  rotate: false
+  xy: 403, 198
+  size: 60, 112
+  orig: 60, 112
+  offset: 0, 0
+  index: -1
+xiaotu_10
+  rotate: true
+  xy: 327, 312
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1
+xiaotu_20
+  rotate: false
+  xy: 2, 167
+  size: 147, 343
+  orig: 147, 343
+  offset: 0, 0
+  index: -1
+xiaotu_30
+  rotate: true
+  xy: 327, 412
+  size: 98, 183
+  orig: 98, 183
+  offset: 0, 0
+  index: -1
+xiaotu_40
+  rotate: true
+  xy: 118, 8
+  size: 153, 198
+  orig: 153, 198
+  offset: 0, 0
+  index: -1
+xiaotu_50
+  rotate: false
+  xy: 2, 21
+  size: 114, 144
+  orig: 114, 144
+  offset: 0, 0
+  index: -1
+xiaotu_60
+  rotate: false
+  xy: 318, 21
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+xiaotu_70
+  rotate: false
+  xy: 151, 327
+  size: 174, 183
+  orig: 174, 183
+  offset: 0, 0
+  index: -1
+xiaotu_80
+  rotate: true
+  xy: 151, 163
+  size: 162, 171
+  orig: 162, 171
+  offset: 0, 0
+  index: -1
+xiaotu_90
+  rotate: false
+  xy: 324, 108
+  size: 77, 202
+  orig: 77, 202
+  offset: 0, 0
+  index: -1

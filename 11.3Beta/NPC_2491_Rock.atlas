@@ -1,0 +1,27 @@
+
+NPC_2491_Rock.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bp_12
+  rotate: true
+  xy: 829, 353
+  size: 432, 181
+  orig: 432, 181
+  offset: 0, 0
+  index: -1
+bp_13
+  rotate: false
+  xy: 413, 293
+  size: 414, 492
+  orig: 414, 492
+  offset: 0, 0
+  index: -1
+bp_14
+  rotate: false
+  xy: 2, 2
+  size: 409, 783
+  orig: 409, 783
+  offset: 0, 0
+  index: -1

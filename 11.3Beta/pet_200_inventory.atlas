@@ -1,0 +1,48 @@
+
+pet_200_inventory.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qingdan_1
+  rotate: false
+  xy: 167, 199
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+qingdan_2
+  rotate: true
+  xy: 167, 132
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+qingdan_3
+  rotate: false
+  xy: 2, 2
+  size: 65, 25
+  orig: 65, 25
+  offset: 0, 0
+  index: -1
+qingdan_4
+  rotate: false
+  xy: 69, 4
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+qingdan_5
+  rotate: true
+  xy: 167, 65
+  size: 65, 23
+  orig: 65, 23
+  offset: 0, 0
+  index: -1
+qingdan_6
+  rotate: false
+  xy: 2, 29
+  size: 163, 217
+  orig: 163, 217
+  offset: 0, 0
+  index: -1

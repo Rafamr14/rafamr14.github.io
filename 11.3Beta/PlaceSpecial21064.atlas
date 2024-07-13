@@ -1,0 +1,41 @@
+
+PlaceSpecial21064.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hx_0
+  rotate: false
+  xy: 2, 2
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+hx_1
+  rotate: false
+  xy: 198, 68
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+hx_2
+  rotate: false
+  xy: 355, 191
+  size: 6, 23
+  orig: 6, 23
+  offset: 0, 0
+  index: -1
+hx_4
+  rotate: false
+  xy: 198, 89
+  size: 155, 125
+  orig: 155, 125
+  offset: 0, 0
+  index: -1
+hx_5
+  rotate: false
+  xy: 2, 31
+  size: 194, 183
+  orig: 194, 183
+  offset: 0, 0
+  index: -1

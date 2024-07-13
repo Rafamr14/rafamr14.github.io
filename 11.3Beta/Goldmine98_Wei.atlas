@@ -1,0 +1,27 @@
+
+Goldmine98_Wei.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+youda_10
+  rotate: false
+  xy: 125, 408
+  size: 172, 56
+  orig: 172, 56
+  offset: 0, 0
+  index: -1
+youda_8
+  rotate: false
+  xy: 2, 176
+  size: 121, 288
+  orig: 121, 288
+  offset: 0, 0
+  index: -1
+youda_9
+  rotate: true
+  xy: 2, 2
+  size: 172, 56
+  orig: 172, 56
+  offset: 0, 0
+  index: -1

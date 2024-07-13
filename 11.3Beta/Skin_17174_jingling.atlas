@@ -1,0 +1,104 @@
+
+Skin_17174_jingling.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jingl1
+  rotate: false
+  xy: 1, 1
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+jingl10
+  rotate: false
+  xy: 1, 341
+  size: 142, 127
+  orig: 142, 127
+  offset: 0, 0
+  index: -1
+jingl11
+  rotate: false
+  xy: 1, 188
+  size: 110, 152
+  orig: 110, 152
+  offset: 0, 0
+  index: -1
+jingl12
+  rotate: true
+  xy: 1, 64
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+jingl13
+  rotate: false
+  xy: 277, 354
+  size: 87, 114
+  orig: 87, 114
+  offset: 0, 0
+  index: -1
+jingl14
+  rotate: false
+  xy: 112, 238
+  size: 31, 102
+  orig: 31, 102
+  offset: 0, 0
+  index: -1
+jingl2
+  rotate: false
+  xy: 204, 334
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+jingl3
+  rotate: false
+  xy: 144, 352
+  size: 132, 116
+  orig: 132, 116
+  offset: 0, 0
+  index: -1
+jingl4
+  rotate: true
+  xy: 84, 150
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+jingl5
+  rotate: false
+  xy: 1, 12
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+jingl6
+  rotate: false
+  xy: 365, 429
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+jingl7
+  rotate: false
+  xy: 144, 279
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+jingl8
+  rotate: false
+  xy: 112, 202
+  size: 31, 35
+  orig: 31, 35
+  offset: 0, 0
+  index: -1
+jingl9
+  rotate: false
+  xy: 144, 303
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1

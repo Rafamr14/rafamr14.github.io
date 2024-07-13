@@ -1,0 +1,83 @@
+
+whiteFoxUI_book.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shu_0
+  rotate: false
+  xy: 2, 307
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+shu_1
+  rotate: false
+  xy: 2, 665
+  size: 273, 356
+  orig: 273, 356
+  offset: 0, 0
+  index: -1
+shu_10
+  rotate: false
+  xy: 277, 658
+  size: 264, 363
+  orig: 264, 363
+  offset: 0, 0
+  index: -1
+shu_11
+  rotate: false
+  xy: 543, 658
+  size: 261, 363
+  orig: 261, 363
+  offset: 0, 0
+  index: -1
+shu_2
+  rotate: false
+  xy: 709, 51
+  size: 218, 251
+  orig: 218, 251
+  offset: 0, 0
+  index: -1
+shu_3
+  rotate: false
+  xy: 803, 405
+  size: 218, 251
+  orig: 218, 251
+  offset: 0, 0
+  index: -1
+shu_5
+  rotate: false
+  xy: 806, 965
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+shu_6
+  rotate: false
+  xy: 277, 307
+  size: 265, 349
+  orig: 265, 349
+  offset: 0, 0
+  index: -1
+shu_7
+  rotate: true
+  xy: 2, 42
+  size: 263, 349
+  orig: 263, 349
+  offset: 0, 0
+  index: -1
+shu_8
+  rotate: false
+  xy: 544, 304
+  size: 257, 352
+  orig: 257, 352
+  offset: 0, 0
+  index: -1
+shu_9
+  rotate: true
+  xy: 353, 51
+  size: 251, 354
+  orig: 251, 354
+  offset: 0, 0
+  index: -1

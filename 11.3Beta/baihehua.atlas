@@ -1,0 +1,279 @@
+
+baihehua.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+12
+  rotate: true
+  xy: 301, 33
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+baihehua_0
+  rotate: true
+  xy: 439, 57
+  size: 13, 39
+  orig: 13, 39
+  offset: 0, 0
+  index: -1
+baihehua_1
+  rotate: false
+  xy: 327, 160
+  size: 80, 86
+  orig: 80, 86
+  offset: 0, 0
+  index: -1
+baihehua_10
+  rotate: false
+  xy: 128, 16
+  size: 106, 14
+  orig: 106, 14
+  offset: 0, 0
+  index: -1
+baihehua_11
+  rotate: true
+  xy: 286, 216
+  size: 115, 36
+  orig: 115, 36
+  offset: 0, 0
+  index: -1
+baihehua_12
+  rotate: true
+  xy: 290, 100
+  size: 115, 36
+  orig: 115, 36
+  offset: 0, 0
+  index: -1
+baihehua_13
+  rotate: true
+  xy: 56, 1
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+baihehua_14
+  rotate: true
+  xy: 286, 206
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+baihehua_16
+  rotate: false
+  xy: 439, 71
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+baihehua_17
+  rotate: false
+  xy: 229, 58
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+baihehua_18
+  rotate: false
+  xy: 129, 332
+  size: 190, 179
+  orig: 190, 179
+  offset: 0, 0
+  index: -1
+baihehua_19
+  rotate: true
+  xy: 397, 333
+  size: 81, 102
+  orig: 81, 102
+  offset: 0, 0
+  index: -1
+baihehua_2
+  rotate: true
+  xy: 1, 1
+  size: 43, 54
+  orig: 43, 62
+  offset: 0, 8
+  index: -1
+baihehua_20
+  rotate: true
+  xy: 397, 110
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+baihehua_21
+  rotate: true
+  xy: 383, 255
+  size: 77, 92
+  orig: 77, 92
+  offset: 0, 0
+  index: -1
+baihehua_22
+  rotate: true
+  xy: 323, 247
+  size: 95, 59
+  orig: 95, 59
+  offset: 0, 0
+  index: -1
+baihehua_23
+  rotate: false
+  xy: 490, 476
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+baihehua_24
+  rotate: false
+  xy: 443, 181
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+baihehua_25
+  rotate: false
+  xy: 235, 1
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+baihehua_26
+  rotate: false
+  xy: 476, 247
+  size: 34, 85
+  orig: 34, 85
+  offset: 0, 0
+  index: -1
+baihehua_27
+  rotate: true
+  xy: 369, 52
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+baihehua_28
+  rotate: false
+  xy: 490, 440
+  size: 19, 35
+  orig: 19, 35
+  offset: 0, 0
+  index: -1
+baihehua_29
+  rotate: true
+  xy: 56, 14
+  size: 30, 71
+  orig: 30, 71
+  offset: 0, 0
+  index: -1
+baihehua_3
+  rotate: true
+  xy: 443, 143
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+baihehua_30
+  rotate: false
+  xy: 408, 168
+  size: 34, 86
+  orig: 34, 86
+  offset: 0, 0
+  index: -1
+baihehua_31
+  rotate: true
+  xy: 443, 95
+  size: 47, 52
+  orig: 47, 59
+  offset: 0, 7
+  index: -1
+baihehua_32
+  rotate: false
+  xy: 399, 59
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+baihehua_33
+  rotate: false
+  xy: 280, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+baihehua_34
+  rotate: false
+  xy: 1, 45
+  size: 127, 466
+  orig: 128, 466
+  offset: 0, 0
+  index: -1
+baihehua_35
+  rotate: true
+  xy: 327, 97
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+baihehua_36
+  rotate: false
+  xy: 316, 59
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+baihehua_37
+  rotate: false
+  xy: 320, 343
+  size: 76, 168
+  orig: 76, 168
+  offset: 0, 0
+  index: -1
+baihehua_38
+  rotate: false
+  xy: 129, 165
+  size: 156, 166
+  orig: 156, 166
+  offset: 0, 0
+  index: -1
+baihehua_4
+  rotate: false
+  xy: 290, 65
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+baihehua_5
+  rotate: false
+  xy: 397, 415
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+baihehua_6
+  rotate: true
+  xy: 129, 31
+  size: 36, 99
+  orig: 36, 99
+  offset: 0, 0
+  index: -1
+baihehua_7
+  rotate: false
+  xy: 129, 68
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+baihehua_8
+  rotate: true
+  xy: 476, 181
+  size: 65, 28
+  orig: 65, 28
+  offset: 0, 0
+  index: -1
+baihehua_9
+  rotate: false
+  xy: 229, 32
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1

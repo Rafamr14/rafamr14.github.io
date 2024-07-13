@@ -1,0 +1,160 @@
+
+GoldenMining.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fd_0
+  rotate: true
+  xy: 207, 242
+  size: 167, 149
+  orig: 167, 149
+  offset: 0, 0
+  index: -1
+fd_1
+  rotate: false
+  xy: 194, 53
+  size: 127, 111
+  orig: 127, 111
+  offset: 0, 0
+  index: -1
+fd_10
+  rotate: true
+  xy: 133, 1
+  size: 51, 94
+  orig: 51, 94
+  offset: 0, 0
+  index: -1
+fd_11
+  rotate: true
+  xy: 311, 410
+  size: 101, 135
+  orig: 101, 135
+  offset: 0, 0
+  index: -1
+fd_12
+  rotate: true
+  xy: 207, 165
+  size: 76, 136
+  orig: 76, 136
+  offset: 0, 0
+  index: -1
+fd_13
+  rotate: false
+  xy: 456, 301
+  size: 53, 112
+  orig: 53, 112
+  offset: 0, 0
+  index: -1
+fd_14
+  rotate: false
+  xy: 456, 262
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+fd_15
+  rotate: false
+  xy: 1, 65
+  size: 192, 147
+  orig: 192, 147
+  offset: 0, 0
+  index: -1
+fd_16
+  rotate: false
+  xy: 403, 88
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+fd_17
+  rotate: false
+  xy: 403, 48
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+fd_18
+  rotate: false
+  xy: 1, 410
+  size: 309, 101
+  orig: 309, 101
+  offset: 0, 0
+  index: -1
+fd_19
+  rotate: false
+  xy: 228, 11
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+fd_2
+  rotate: false
+  xy: 322, 55
+  size: 80, 109
+  orig: 80, 109
+  offset: 0, 0
+  index: -1
+fd_20
+  rotate: true
+  xy: 357, 258
+  size: 151, 98
+  orig: 151, 98
+  offset: 0, 0
+  index: -1
+fd_21
+  rotate: false
+  xy: 1, 213
+  size: 205, 196
+  orig: 205, 196
+  offset: 0, 0
+  index: -1
+fd_3
+  rotate: true
+  xy: 403, 185
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+fd_4
+  rotate: true
+  xy: 489, 161
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+fd_5
+  rotate: false
+  xy: 467, 68
+  size: 23, 17
+  orig: 23, 17
+  offset: 0, 0
+  index: -1
+fd_6
+  rotate: false
+  xy: 467, 86
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+fd_7
+  rotate: false
+  xy: 1, 1
+  size: 131, 63
+  orig: 131, 63
+  offset: 0, 0
+  index: -1
+fd_8
+  rotate: false
+  xy: 403, 128
+  size: 85, 56
+  orig: 85, 56
+  offset: 0, 0
+  index: -1
+fd_9
+  rotate: true
+  xy: 447, 414
+  size: 97, 50
+  orig: 97, 50
+  offset: 0, 0
+  index: -1

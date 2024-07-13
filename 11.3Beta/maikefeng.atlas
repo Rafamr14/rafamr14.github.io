@@ -1,0 +1,27 @@
+
+maikefeng.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+maikefeng_01
+  rotate: false
+  xy: 2, 595
+  size: 863, 270
+  orig: 863, 270
+  offset: 0, 0
+  index: -1
+maikefeng_02
+  rotate: false
+  xy: 2, 177
+  size: 260, 236
+  orig: 260, 236
+  offset: 0, 0
+  index: -1
+maikefeng_03
+  rotate: false
+  xy: 2, 415
+  size: 420, 178
+  orig: 420, 178
+  offset: 0, 0
+  index: -1

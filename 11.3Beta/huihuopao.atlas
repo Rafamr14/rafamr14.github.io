@@ -1,0 +1,41 @@
+
+huihuopao.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yaosai_0
+  rotate: false
+  xy: 2, 648
+  size: 303, 74
+  orig: 303, 74
+  offset: 0, 0
+  index: -1
+yaosai_1
+  rotate: false
+  xy: 2, 724
+  size: 313, 70
+  orig: 313, 70
+  offset: 0, 0
+  index: -1
+yaosai_3
+  rotate: false
+  xy: 317, 758
+  size: 165, 36
+  orig: 165, 36
+  offset: 0, 0
+  index: -1
+yaosai_4
+  rotate: false
+  xy: 2, 599
+  size: 106, 47
+  orig: 106, 47
+  offset: 0, 0
+  index: -1
+yaosai_7
+  rotate: false
+  xy: 2, 796
+  size: 1019, 225
+  orig: 1021, 227
+  offset: 1, 0
+  index: -1

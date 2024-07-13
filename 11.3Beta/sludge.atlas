@@ -1,0 +1,41 @@
+
+sludge.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj_2
+  rotate: true
+  xy: 183, 40
+  size: 179, 264
+  orig: 179, 264
+  offset: 0, 0
+  index: -1
+dj_3
+  rotate: false
+  xy: 183, 251
+  size: 80, 23
+  orig: 80, 23
+  offset: 0, 0
+  index: -1
+dj_4
+  rotate: false
+  xy: 2, 10
+  size: 179, 264
+  orig: 179, 264
+  offset: 0, 0
+  index: -1
+wn1
+  rotate: true
+  xy: 282, 221
+  size: 285, 224
+  orig: 285, 224
+  offset: 0, 0
+  index: -1
+wn2
+  rotate: false
+  xy: 2, 276
+  size: 278, 230
+  orig: 278, 230
+  offset: 0, 0
+  index: -1

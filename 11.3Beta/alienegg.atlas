@@ -1,0 +1,48 @@
+
+alienegg.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj_10
+  rotate: false
+  xy: 2, 300
+  size: 121, 207
+  orig: 121, 207
+  offset: 0, 0
+  index: -1
+dj_11
+  rotate: false
+  xy: 197, 467
+  size: 96, 40
+  orig: 96, 40
+  offset: 0, 0
+  index: -1
+dj_5
+  rotate: false
+  xy: 125, 311
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+dj_6
+  rotate: false
+  xy: 125, 387
+  size: 70, 120
+  orig: 70, 120
+  offset: 0, 0
+  index: -1
+dj_8
+  rotate: false
+  xy: 2, 2
+  size: 61, 99
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+dj_9
+  rotate: false
+  xy: 2, 103
+  size: 105, 195
+  orig: 105, 195
+  offset: 0, 0
+  index: -1

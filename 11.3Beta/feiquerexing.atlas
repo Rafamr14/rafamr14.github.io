@@ -1,0 +1,145 @@
+
+feiquerexing.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+feiquerexing_0
+  rotate: false
+  xy: 66, 61
+  size: 72, 81
+  orig: 72, 81
+  offset: 0, 0
+  index: -1
+feiquerexing_1
+  rotate: false
+  xy: 135, 188
+  size: 90, 66
+  orig: 90, 66
+  offset: 0, 0
+  index: -1
+feiquerexing_2
+  rotate: false
+  xy: 2, 14
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+feiquerexing_3
+  rotate: false
+  xy: 190, 100
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+feiquerexing_4
+  rotate: false
+  xy: 2, 144
+  size: 131, 110
+  orig: 131, 110
+  offset: 0, 0
+  index: -1
+feiquerexing_5
+  rotate: false
+  xy: 140, 67
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+feiquerexing_6
+  rotate: true
+  xy: 66, 10
+  size: 49, 84
+  orig: 49, 84
+  offset: 0, 0
+  index: -1
+feiquerexing_7
+  rotate: false
+  xy: 2, 42
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+feiquerexing_8
+  rotate: false
+  xy: 210, 140
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+feiquerexing_9
+  rotate: false
+  xy: 140, 131
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+
+jiazi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/3-1
+  rotate: false
+  xy: 2, 38
+  size: 99, 81
+  orig: 99, 81
+  offset: 0, 0
+  index: -1
+images/3-2
+  rotate: false
+  xy: 193, 247
+  size: 30, 254
+  orig: 30, 254
+  offset: 0, 0
+  index: -1
+images/3-3
+  rotate: false
+  xy: 2, 121
+  size: 189, 380
+  orig: 189, 380
+  offset: 0, 0
+  index: -1
+images/3-4
+  rotate: false
+  xy: 225, 419
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+images/3-5
+  rotate: false
+  xy: 225, 356
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+images/3-6
+  rotate: false
+  xy: 2, 2
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+images/3-7
+  rotate: true
+  xy: 103, 53
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+images/3-8
+  rotate: false
+  xy: 293, 440
+  size: 56, 61
+  orig: 56, 61
+  offset: 0, 0
+  index: -1
+images/3-9
+  rotate: true
+  xy: 225, 294
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1

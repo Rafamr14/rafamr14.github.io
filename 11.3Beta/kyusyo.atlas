@@ -1,0 +1,48 @@
+
+kyusyo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bsjj_0
+  rotate: false
+  xy: 2, 170
+  size: 191, 82
+  orig: 191, 82
+  offset: 0, 0
+  index: -1
+bsjj_1
+  rotate: true
+  xy: 195, 136
+  size: 54, 57
+  orig: 54, 57
+  offset: 0, 0
+  index: -1
+bsjj_2
+  rotate: false
+  xy: 2, 50
+  size: 86, 118
+  orig: 86, 118
+  offset: 0, 0
+  index: -1
+bsjj_24
+  rotate: true
+  xy: 90, 35
+  size: 133, 75
+  orig: 133, 75
+  offset: 0, 0
+  index: -1
+bsjj_25
+  rotate: false
+  xy: 195, 192
+  size: 53, 60
+  orig: 53, 60
+  offset: 0, 0
+  index: -1
+bsjj_26
+  rotate: false
+  xy: 167, 19
+  size: 82, 115
+  orig: 82, 115
+  offset: 0, 0
+  index: -1

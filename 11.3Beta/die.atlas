@@ -1,0 +1,90 @@
+
+die.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sw_0
+  rotate: false
+  xy: 2, 530
+  size: 388, 356
+  orig: 388, 356
+  offset: 0, 0
+  index: -1
+sw_1
+  rotate: false
+  xy: 2, 53
+  size: 227, 54
+  orig: 227, 54
+  offset: 0, 0
+  index: -1
+sw_10
+  rotate: false
+  xy: 392, 592
+  size: 114, 128
+  orig: 114, 128
+  offset: 0, 0
+  index: -1
+sw_11
+  rotate: false
+  xy: 392, 794
+  size: 273, 92
+  orig: 273, 92
+  offset: 0, 0
+  index: -1
+sw_2
+  rotate: true
+  xy: 235, 110
+  size: 209, 32
+  orig: 209, 32
+  offset: 0, 0
+  index: -1
+sw_3
+  rotate: false
+  xy: 580, 747
+  size: 59, 45
+  orig: 59, 45
+  offset: 0, 0
+  index: -1
+sw_4
+  rotate: false
+  xy: 667, 833
+  size: 202, 53
+  orig: 202, 53
+  offset: 0, 0
+  index: -1
+sw_5
+  rotate: false
+  xy: 2, 2
+  size: 206, 49
+  orig: 206, 49
+  offset: 0, 0
+  index: -1
+sw_6
+  rotate: true
+  xy: 235, 321
+  size: 207, 68
+  orig: 207, 68
+  offset: 0, 0
+  index: -1
+sw_7
+  rotate: true
+  xy: 305, 342
+  size: 186, 51
+  orig: 186, 51
+  offset: 0, 0
+  index: -1
+sw_8
+  rotate: false
+  xy: 392, 722
+  size: 186, 70
+  orig: 186, 70
+  offset: 0, 0
+  index: -1
+sw_9
+  rotate: true
+  xy: 2, 109
+  size: 419, 231
+  orig: 419, 231
+  offset: 0, 0
+  index: -1

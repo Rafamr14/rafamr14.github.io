@@ -1,0 +1,48 @@
+
+R15Block.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dj_10
+  rotate: false
+  xy: 2, 144
+  size: 209, 357
+  orig: 209, 357
+  offset: 0, 0
+  index: -1
+dj_11
+  rotate: true
+  xy: 396, 163
+  size: 166, 70
+  orig: 166, 70
+  offset: 0, 0
+  index: -1
+dj_5
+  rotate: true
+  xy: 213, 68
+  size: 94, 128
+  orig: 94, 128
+  offset: 0, 0
+  index: -1
+dj_6
+  rotate: true
+  xy: 2, 22
+  size: 120, 207
+  orig: 120, 207
+  offset: 0, 0
+  index: -1
+dj_8
+  rotate: false
+  xy: 396, 331
+  size: 105, 170
+  orig: 105, 170
+  offset: 0, 0
+  index: -1
+dj_9
+  rotate: false
+  xy: 213, 164
+  size: 181, 337
+  orig: 181, 337
+  offset: 0, 0
+  index: -1

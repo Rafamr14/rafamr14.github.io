@@ -1,0 +1,27 @@
+
+Skin_17988_book.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book_1
+  rotate: false
+  xy: 2, 2
+  size: 284, 246
+  orig: 284, 246
+  offset: 0, 0
+  index: -1
+book_2
+  rotate: false
+  xy: 288, 62
+  size: 131, 186
+  orig: 131, 186
+  offset: 0, 0
+  index: -1
+book_3
+  rotate: false
+  xy: 421, 121
+  size: 74, 127
+  orig: 74, 127
+  offset: 0, 0
+  index: -1

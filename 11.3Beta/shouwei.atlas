@@ -1,0 +1,97 @@
+
+shouwei.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouwei_1
+  rotate: false
+  xy: 230, 26
+  size: 120, 67
+  orig: 120, 67
+  offset: 0, 0
+  index: -1
+shouwei_10
+  rotate: false
+  xy: 235, 95
+  size: 173, 69
+  orig: 173, 69
+  offset: 0, 0
+  index: -1
+shouwei_11
+  rotate: false
+  xy: 2, 20
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+shouwei_12
+  rotate: false
+  xy: 29, 32
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+shouwei_13
+  rotate: false
+  xy: 416, 184
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+shouwei_2
+  rotate: false
+  xy: 416, 201
+  size: 86, 35
+  orig: 86, 35
+  offset: 0, 0
+  index: -1
+shouwei_3
+  rotate: false
+  xy: 2, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+shouwei_4
+  rotate: false
+  xy: 2, 97
+  size: 231, 139
+  orig: 231, 139
+  offset: 0, 0
+  index: -1
+shouwei_5
+  rotate: false
+  xy: 372, 80
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+shouwei_6
+  rotate: false
+  xy: 2, 42
+  size: 226, 53
+  orig: 226, 53
+  offset: 0, 0
+  index: -1
+shouwei_7
+  rotate: false
+  xy: 352, 54
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+shouwei_8
+  rotate: false
+  xy: 235, 166
+  size: 179, 70
+  orig: 179, 70
+  offset: 0, 0
+  index: -1
+shouwei_9
+  rotate: false
+  xy: 352, 69
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1

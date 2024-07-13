@@ -1,0 +1,167 @@
+
+sm_chiyuan.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bq1
+  rotate: false
+  xy: 201, 75
+  size: 84, 44
+  orig: 84, 44
+  offset: 0, 0
+  index: -1
+bq2
+  rotate: false
+  xy: 190, 31
+  size: 83, 42
+  orig: 83, 42
+  offset: 0, 0
+  index: -1
+bq3
+  rotate: true
+  xy: 423, 412
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+bq4
+  rotate: true
+  xy: 296, 219
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+bq5
+  rotate: true
+  xy: 293, 137
+  size: 80, 48
+  orig: 80, 48
+  offset: 0, 0
+  index: -1
+bq6
+  rotate: false
+  xy: 2, 2
+  size: 102, 79
+  orig: 102, 79
+  offset: 0, 0
+  index: -1
+bq7
+  rotate: false
+  xy: 106, 31
+  size: 82, 50
+  orig: 82, 50
+  offset: 0, 0
+  index: -1
+cb1
+  rotate: false
+  xy: 201, 403
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+cb1_5
+  rotate: false
+  xy: 201, 301
+  size: 121, 100
+  orig: 121, 100
+  offset: 0, 0
+  index: -1
+cb2
+  rotate: false
+  xy: 201, 220
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+cb2_5
+  rotate: false
+  xy: 324, 321
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+cb3
+  rotate: false
+  xy: 201, 121
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+cb3_5
+  rotate: false
+  xy: 247, 121
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+cb4
+  rotate: false
+  xy: 346, 256
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+cb4_5
+  rotate: false
+  xy: 346, 191
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+han
+  rotate: false
+  xy: 324, 301
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+han1
+  rotate: true
+  xy: 423, 402
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+j1
+  rotate: true
+  xy: 106, 12
+  size: 17, 47
+  orig: 17, 47
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 476, 458
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: false
+  xy: 324, 402
+  size: 97, 101
+  orig: 97, 101
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 294
+  size: 197, 209
+  orig: 197, 209
+  offset: 0, 0
+  index: -1
+st_5
+  rotate: false
+  xy: 2, 83
+  size: 197, 209
+  orig: 197, 209
+  offset: 0, 0
+  index: -1
+wb
+  rotate: false
+  xy: 343, 147
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1

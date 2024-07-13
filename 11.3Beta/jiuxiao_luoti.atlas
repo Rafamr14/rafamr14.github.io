@@ -1,0 +1,118 @@
+
+jiuxiao_luoti.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jiuxiao_luoti_0
+  rotate: false
+  xy: 146, 50
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_1
+  rotate: false
+  xy: 2, 47
+  size: 142, 146
+  orig: 142, 146
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_10
+  rotate: false
+  xy: 253, 79
+  size: 70, 123
+  orig: 73, 123
+  offset: 3, 0
+  index: -1
+jiuxiao_luoti_11
+  rotate: true
+  xy: 441, 62
+  size: 96, 50
+  orig: 96, 51
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_12
+  rotate: false
+  xy: 2, 360
+  size: 191, 150
+  orig: 199, 150
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_13
+  rotate: true
+  xy: 399, 388
+  size: 122, 111
+  orig: 122, 111
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_14
+  rotate: false
+  xy: 325, 30
+  size: 114, 112
+  orig: 114, 112
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_15
+  rotate: false
+  xy: 195, 264
+  size: 140, 119
+  orig: 140, 119
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_2
+  rotate: false
+  xy: 325, 144
+  size: 96, 117
+  orig: 96, 117
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_3
+  rotate: false
+  xy: 2, 195
+  size: 175, 163
+  orig: 175, 163
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_4
+  rotate: true
+  xy: 195, 385
+  size: 125, 202
+  orig: 125, 202
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_5
+  rotate: false
+  xy: 179, 204
+  size: 107, 58
+  orig: 107, 58
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_6
+  rotate: false
+  xy: 416, 271
+  size: 86, 115
+  orig: 86, 115
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_7
+  rotate: false
+  xy: 337, 263
+  size: 77, 120
+  orig: 77, 120
+  offset: 0, 0
+  index: -1
+jiuxiao_luoti_8
+  rotate: false
+  xy: 423, 160
+  size: 81, 109
+  orig: 81, 110
+  offset: 0, 1
+  index: -1
+jiuxiao_luoti_9
+  rotate: true
+  xy: 2, 7
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1

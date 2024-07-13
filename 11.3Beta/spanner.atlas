@@ -1,0 +1,34 @@
+
+spanner.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dt_0
+  rotate: false
+  xy: 239, 240
+  size: 95, 94
+  orig: 95, 94
+  offset: 0, 0
+  index: -1
+dt_1
+  rotate: false
+  xy: 2, 11
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+dt_2
+  rotate: false
+  xy: 2, 202
+  size: 235, 132
+  orig: 235, 132
+  offset: 0, 0
+  index: -1
+dt_3
+  rotate: false
+  xy: 2, 68
+  size: 235, 132
+  orig: 235, 132
+  offset: 0, 0
+  index: -1

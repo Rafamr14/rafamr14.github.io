@@ -1,0 +1,167 @@
+
+HAKASE_Cat.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dunm3
+  rotate: true
+  xy: 784, 325
+  size: 65, 76
+  orig: 65, 76
+  offset: 0, 0
+  index: -1
+mao1
+  rotate: true
+  xy: 862, 326
+  size: 64, 14
+  orig: 64, 14
+  offset: 0, 0
+  index: -1
+mao10
+  rotate: false
+  xy: 262, 2
+  size: 46, 73
+  orig: 46, 73
+  offset: 0, 0
+  index: -1
+mao11
+  rotate: false
+  xy: 686, 392
+  size: 198, 118
+  orig: 198, 118
+  offset: 0, 0
+  index: -1
+mao12
+  rotate: true
+  xy: 573, 299
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+mao13
+  rotate: false
+  xy: 300, 129
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+mao14
+  rotate: true
+  xy: 886, 430
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+mao2
+  rotate: false
+  xy: 646, 317
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+mao3
+  rotate: true
+  xy: 462, 236
+  size: 69, 30
+  orig: 69, 30
+  offset: 0, 0
+  index: -1
+mao4
+  rotate: true
+  xy: 554, 252
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+mao5
+  rotate: true
+  xy: 966, 380
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+mao6
+  rotate: false
+  xy: 323, 211
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+mao7
+  rotate: false
+  xy: 496, 289
+  size: 75, 53
+  orig: 75, 53
+  offset: 0, 0
+  index: -1
+mao8
+  rotate: true
+  xy: 300, 81
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+mao9
+  rotate: true
+  xy: 494, 240
+  size: 47, 58
+  orig: 47, 58
+  offset: 0, 0
+  index: -1
+wo1
+  rotate: false
+  xy: 686, 332
+  size: 96, 58
+  orig: 96, 58
+  offset: 0, 0
+  index: -1
+wo2
+  rotate: true
+  xy: 115, 3
+  size: 72, 145
+  orig: 72, 145
+  offset: 0, 0
+  index: -1
+wo3
+  rotate: true
+  xy: 2, 2
+  size: 73, 111
+  orig: 73, 111
+  offset: 0, 0
+  index: -1
+wo4
+  rotate: false
+  xy: 496, 344
+  size: 188, 166
+  orig: 188, 166
+  offset: 0, 0
+  index: -1
+wo6
+  rotate: false
+  xy: 2, 194
+  size: 319, 316
+  orig: 319, 316
+  offset: 0, 0
+  index: -1
+wo7
+  rotate: false
+  xy: 886, 382
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+wo8
+  rotate: false
+  xy: 323, 307
+  size: 171, 203
+  orig: 171, 203
+  offset: 0, 0
+  index: -1
+wo9
+  rotate: false
+  xy: 2, 77
+  size: 296, 115
+  orig: 296, 115
+  offset: 0, 0
+  index: -1

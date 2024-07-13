@@ -1,0 +1,76 @@
+
+Throw_129_skin1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jisheng2_0
+  rotate: false
+  xy: 2, 140
+  size: 135, 141
+  orig: 135, 141
+  offset: 0, 0
+  index: -1
+jisheng2_1
+  rotate: false
+  xy: 2, 283
+  size: 255, 227
+  orig: 255, 227
+  offset: 0, 0
+  index: -1
+jisheng2_2
+  rotate: true
+  xy: 2, 2
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+jisheng2_2b
+  rotate: true
+  xy: 259, 284
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+jisheng2_2c
+  rotate: false
+  xy: 351, 378
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+jisheng2_3
+  rotate: false
+  xy: 139, 184
+  size: 102, 97
+  orig: 102, 97
+  offset: 0, 0
+  index: -1
+jisheng2_4
+  rotate: false
+  xy: 259, 327
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+jisheng2_5
+  rotate: false
+  xy: 259, 432
+  size: 176, 78
+  orig: 176, 78
+  offset: 0, 0
+  index: -1
+jisheng2_6
+  rotate: false
+  xy: 437, 436
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+jisheng2_7
+  rotate: true
+  xy: 139, 148
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1

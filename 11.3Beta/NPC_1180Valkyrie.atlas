@@ -1,0 +1,216 @@
+
+NPC_1180Valkyrie.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+111
+  rotate: false
+  xy: 343, 294
+  size: 106, 31
+  orig: 107, 36
+  offset: 0, 5
+  index: -1
+1_0
+  rotate: false
+  xy: 473, 225
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 327, 61
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+1_10
+  rotate: false
+  xy: 2, 300
+  size: 200, 210
+  orig: 200, 210
+  offset: 0, 0
+  index: -1
+1_11
+  rotate: true
+  xy: 208, 26
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+1_12
+  rotate: true
+  xy: 436, 338
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+1_13
+  rotate: true
+  xy: 199, 118
+  size: 32, 73
+  orig: 32, 73
+  offset: 0, 0
+  index: -1
+1_14
+  rotate: true
+  xy: 266, 23
+  size: 27, 66
+  orig: 27, 66
+  offset: 0, 0
+  index: -1
+1_15
+  rotate: false
+  xy: 414, 144
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+1_16
+  rotate: true
+  xy: 274, 112
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+1_17
+  rotate: true
+  xy: 344, 114
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+1_18
+  rotate: false
+  xy: 343, 327
+  size: 91, 74
+  orig: 91, 74
+  offset: 0, 0
+  index: -1
+1_19
+  rotate: true
+  xy: 408, 61
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 334, 26
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+1_20
+  rotate: true
+  xy: 204, 403
+  size: 107, 237
+  orig: 107, 237
+  offset: 0, 0
+  index: -1
+1_21
+  rotate: false
+  xy: 346, 207
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+1_23
+  rotate: true
+  xy: 2, 19
+  size: 77, 158
+  orig: 77, 158
+  offset: 0, 0
+  index: -1
+1_24
+  rotate: false
+  xy: 376, 67
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+1_25
+  rotate: true
+  xy: 473, 281
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+1_26
+  rotate: false
+  xy: 280, 147
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+1_27
+  rotate: false
+  xy: 414, 86
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+1_28
+  rotate: false
+  xy: 266, 52
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+1_29
+  rotate: false
+  xy: 2, 98
+  size: 195, 200
+  orig: 195, 200
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: false
+  xy: 346, 144
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: true
+  xy: 204, 291
+  size: 110, 137
+  orig: 110, 137
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 199, 152
+  size: 79, 137
+  orig: 79, 137
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: true
+  xy: 162, 8
+  size: 88, 44
+  orig: 95, 44
+  offset: 3, 0
+  index: -1
+1_7
+  rotate: true
+  xy: 414, 202
+  size: 90, 43
+  orig: 90, 43
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 443, 399
+  size: 111, 44
+  orig: 113, 44
+  offset: 2, 0
+  index: -1
+1_9
+  rotate: true
+  xy: 408, 100
+  size: 12, 4
+  orig: 15, 6
+  offset: 3, 0
+  index: -1

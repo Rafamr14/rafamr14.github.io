@@ -1,0 +1,83 @@
+
+p3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1440
+  size: 1029, 507
+  orig: 1031, 509
+  offset: 1, 1
+  index: -1
+12
+  rotate: false
+  xy: 1033, 1442
+  size: 30, 25
+  orig: 32, 27
+  offset: 1, 1
+  index: -1
+13
+  rotate: false
+  xy: 775, 960
+  size: 291, 478
+  orig: 293, 480
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 27
+  size: 422, 558
+  orig: 424, 560
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 2, 963
+  size: 771, 475
+  orig: 773, 477
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 451
+  size: 633, 510
+  orig: 635, 512
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 1033, 1469
+  size: 729, 478
+  orig: 731, 480
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 637, 941
+  size: 23, 20
+  orig: 25, 22
+  offset: 1, 1
+  index: -1
+7
+  rotate: false
+  xy: 562, 409
+  size: 45, 40
+  orig: 47, 42
+  offset: 1, 1
+  index: -1
+8
+  rotate: false
+  xy: 2, 2
+  size: 64, 23
+  orig: 66, 25
+  offset: 1, 1
+  index: -1
+9
+  rotate: false
+  xy: 1764, 1884
+  size: 52, 63
+  orig: 54, 65
+  offset: 1, 1
+  index: -1

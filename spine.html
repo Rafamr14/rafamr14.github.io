@@ -106,6 +106,10 @@
                     <h4>Spineres/Crossfaction3</h4>
                     <select id="modelSelectorcrossfaction3" class="form-select"></select>
                 </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/11.3beta</h4>
+                    <select id="modelSelectorBeta" class="form-select"></select>
+                </div>
                 <div class="sidebar-section mt-3">
                     <input type="button" value="Limpiar" id="btnLimpiar" class="btn btn-primary">
                 </div>
@@ -122,6 +126,7 @@
                 <div id="spine-widget-Corssfaction2" class="spine-widget mt-4"></div>
                 <div id="spine-widget-Crossfaction3" class="spine-widget mt-4"></div>
                 <div id="spine-widget-faction" class="spine-widget mt-4"></div>
+                <div id="spine-widget-beta" class="spine-widget mt-4"></div>
             </div>
         </div>
 
@@ -131,285 +136,306 @@
 
 <script>
     var spineWidget;
-        document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", function() {
 
-            let folderSpine = `spine/`;
-            let folderCutIn = `cutin/`;
-            let folderArtificial = `artificial/`;
-            let folderCorssfaction2 = `Corssfaction2/`;
-            let foldercrossfaction3 = `crossfaction3/`;
-            let folderfaction = `faction/`;
-            let defaultAnimationName = "eye_idle";
-            let defaultSkinName = "normal";
-            let widgetDivSpine = document.getElementById("spine-widget-spine");
-            let widgetDivCutIn = document.getElementById("spine-widget-cutin");
-            let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
-            let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
-            let widgetDivartificial = document.getElementById("spine-widget-artificial");
-            let widgetDivfaction = document.getElementById("spine-widget-faction");
-            let modelSelectorSpine = document.getElementById("modelSelectorSpine");
-            let modelSelectorCutIn = document.getElementById("modelSelectorCutIn");
-            let modelSelectorArtificial = document.getElementById("modelSelectorArtificial");
-            let modelSelectorCorssfaction2 = document.getElementById("modelSelectorCorssfaction2");
-            let modelSelectorcrossfaction3 = document.getElementById("modelSelectorcrossfaction3");
-            let modelSelectorfaction = document.getElementById("modelSelectorfaction");
+        let folderSpine = `spine/`;
+        let folderCutIn = `cutin/`;
+        let folderArtificial = `artificial/`;
+        let folderCorssfaction2 = `Corssfaction2/`;
+        let foldercrossfaction3 = `crossfaction3/`;
+        let folderfaction = `faction/`;
+        let folderBeta = `11.3Beta/`;
+        let defaultAnimationName = "eye_idle";
+        let defaultSkinName = "normal";
+        let widgetDivSpine = document.getElementById("spine-widget-spine");
+        let widgetDivCutIn = document.getElementById("spine-widget-cutin");
+        let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
+        let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
+        let widgetDivartificial = document.getElementById("spine-widget-artificial");
+        let widgetDivfaction = document.getElementById("spine-widget-faction");
+        let widgetDivBeta = document.getElementById("spine-widget-beta");
+        let modelSelectorSpine = document.getElementById("modelSelectorSpine");
+        let modelSelectorCutIn = document.getElementById("modelSelectorCutIn");
+        let modelSelectorArtificial = document.getElementById("modelSelectorArtificial");
+        let modelSelectorCorssfaction2 = document.getElementById("modelSelectorCorssfaction2");
+        let modelSelectorcrossfaction3 = document.getElementById("modelSelectorcrossfaction3");
+        let modelSelectorfaction = document.getElementById("modelSelectorfaction");
+        let modelSelectorBeta = document.getElementById("modelSelectorBeta");
 
-            function cargarOpcionesDesdeJsonSpine() {
-                fetch('archivos_en_carpeta.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorSpine, data.archivos, cargarSpine);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de Spine: ', error));
-            }
+        function cargarOpcionesDesdeJsonSpine() {
+            fetch('archivos_en_carpeta.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorSpine, data.archivos, cargarSpine);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de Spine: ', error));
+        }
 
-            function cargarOpcionesDesdeJsonCutIn() {
-                fetch('ggz_cutin.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorCutIn, data.archivos, cargarCutIn);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
-            }
-            function cargarOpcionesDesdeJsonArtificial() {
-                fetch('ggz_artificial.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorArtificial, data.archivos, cargarArtificial);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
-            }
-            function cargarOpcionesDesdeJsonCorssfaction2() {
-                fetch('ggz_corssfaction2.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorCorssfaction2, data.archivos, cargarCorssfaction2);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
-            }
-            function cargarOpcionesDesdeJsoncrossfaction3() {
-                fetch('ggz_crossfaction3.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorcrossfaction3, data.archivos, cargarCrossfaction3);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
-            }
-            function cargarOpcionesDesdeJsonfaction() {
-                fetch('ggz_faction.json')
-                    .then(response => response.json())
-                    .then(data => {
-                        cargarOpciones(modelSelectorfaction, data.archivos, cargarfaction);
-                        limpiarWidgetDiv()
-                    })
-                    .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
-            }
-            function cargarOpciones(selector, archivos, callbackCarga) {
-                archivos.forEach(function(archivo) {
-                    let opcion = new Option(archivo.split('.')[0], archivo.split('.')[0]);
-                    selector.add(opcion);
-                });
-
-                selector.addEventListener("change", function() {
-                    let modelName = this.value;
-                    callbackCarga(modelName);
-                });
-
-                if (archivos.length > 0) {
-                    let modelName = archivos[0].split('.')[0];
-                    callbackCarga(modelName);
-                }
-            }
-
-            function limpiarWidgetDiv(widgetDiv) {
-                widgetDiv.innerHTML = '';
-            }
-
-            function cargarSpine(modelName) {
-                limpiarWidgetDiv(widgetDivSpine);
-                loadAnimation(widgetDivSpine, folderSpine, modelName);
-            }
-
-            function cargarCutIn(modelName) {
-                limpiarWidgetDiv(widgetDivCutIn);
-                loadAnimation(widgetDivCutIn, folderCutIn, modelName);
-            }
-            function cargarArtificial(modelName) {
-                limpiarWidgetDiv(widgetDivartificial);
-                loadAnimation(widgetDivartificial, folderArtificial, modelName);
-            }
-            function cargarCorssfaction2(modelName) {
-                limpiarWidgetDiv(widgetDivCorssfaction2);
-                loadAnimation(widgetDivCorssfaction2, folderCorssfaction2, modelName);
-            }
-            function cargarCrossfaction3(modelName) {
-                limpiarWidgetDiv(widgetDivcrossfaction3);
-                loadAnimation(widgetDivcrossfaction3, foldercrossfaction3, modelName);
-            }
-            function cargarfaction(modelName) {
-                limpiarWidgetDiv(widgetDivfaction);
-                loadAnimation(widgetDivfaction, folderfaction, modelName);
-            }
-
-            function loadAnimation(widgetDiv, folder, modelName) {
-                if (modelName != null) {
-                    var existingButtonsDiv = document.getElementById('botonesanimacion');
-                    if (existingButtonsDiv) {
-                        existingButtonsDiv.remove(); 
-                    }
-                    new spine.SpineWidget(widgetDiv.id, {
-                        atlas: folder + modelName + ".atlas",
-                        skel: modelName + ".skel",
-                        backgroundColor: "#00000000",
-                        premultipliedAlpha: true,
-                        fitToCanvas: true,
-                        loop: true,
-                        success: function(widget) {
-                            commonSuccess(widget, widgetDiv);
-                            spineWidget = widget;
-
-                            var widgetContainer = document.getElementById('widget-container');
-
-                            var buttonsDiv = document.createElement('div');
-                            buttonsDiv.style.display = 'flex';
-                            buttonsDiv.style.flexDirection = 'row';
-                            buttonsDiv.style.justifyContent = 'center';
-                            buttonsDiv.style.marginBottom = '10px';
-                            buttonsDiv.id = 'botonesanimacion'
-
-                            var animations = widget.skeleton.data.animations;
-                            animations.forEach(function(animation) {
-                                var btn = document.createElement('button');
-                                btn.innerHTML = animation.name;
-                                btn.onclick = function() { changeAnimation(animation.name); };
-                                buttonsDiv.appendChild(btn);
-                            });
-
-                            widgetContainer.parentNode.insertBefore(buttonsDiv, widgetContainer);
-                        },
-                        error: function(player, reason) {
-                            widgetDiv.setAttribute("error", reason)
-                        }
-                    });
-                }
-            }
-
-
-
-
-            function commonSuccess(widget, widgetDiv) {
-                let animations = widget.skeleton.data.animations;
-                let skins = widget.skeleton.data.skins;
-                if (animations.some(search => search.name === defaultAnimationName))
-                    widget.setAnimation(defaultAnimationName);
-                if (skins.some(search => search.name === defaultSkinName))
-                    widget.setSkinByName(defaultSkinName);
-                console.log(widget);
-                widgetDiv.style.position = "absolute";
-                widgetDiv.style.display = "block";
-                widgetDiv.style.width = `${widget.bounds.size.x}px`;
-                widgetDiv.style.height = `${widget.bounds.size.y}px`;
-            }
-
-            document.getElementById("spine-widget-spine").style.display = "none";
-            document.getElementById("spine-widget-cutin").style.display = "none";
-            document.getElementById("spine-widget-artificial").style.display = "none";
-            document.getElementById("spine-widget-Corssfaction2").style.display = "none";
-            document.getElementById("spine-widget-Crossfaction3").style.display = "none";
-            document.getElementById("spine-widget-faction").style.display = "none";
-
-            let btnLimpiar = document.getElementById("btnLimpiar");
-
-            btnLimpiar.addEventListener("click", function() {
-                limpiarWidgets();
+        function cargarOpcionesDesdeJsonCutIn() {
+            fetch('ggz_cutin.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorCutIn, data.archivos, cargarCutIn);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
+        }
+        function cargarOpcionesDesdeJsonArtificial() {
+            fetch('ggz_artificial.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorArtificial, data.archivos, cargarArtificial);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
+        }
+        function cargarOpcionesDesdeJsonCorssfaction2() {
+            fetch('ggz_corssfaction2.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorCorssfaction2, data.archivos, cargarCorssfaction2);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
+        }
+        function cargarOpcionesDesdeJsoncrossfaction3() {
+            fetch('ggz_crossfaction3.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorcrossfaction3, data.archivos, cargarCrossfaction3);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
+        }
+        function cargarOpcionesDesdeJsonfaction() {
+            fetch('ggz_faction.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorfaction, data.archivos, cargarfaction);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
+        }
+        function cargarOpcionesDesdeJsonBeta() {
+            fetch('ggz11.3beta.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorBeta, data.archivos, cargarBeta);
+                    limpiarWidgetDiv()
+                })
+                .catch(error => console.error('Error al cargar los archivos de Beta: ', error));
+        }
+        function cargarOpciones(selector, archivos, callbackCarga) {
+            archivos.forEach(function(archivo) {
+                let opcion = new Option(archivo.split('.')[0], archivo.split('.')[0]);
+                selector.add(opcion);
             });
 
-            function limpiarWidgets() {
-                let widgetDivSpine = document.getElementById("spine-widget-spine");
-                let widgetDivCutIn = document.getElementById("spine-widget-cutin");
-                let widgetDivArtificial = document.getElementById("spine-widget-artificial");
-                let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
-                let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
-                let widgetDivfaction = document.getElementById("spine-widget-faction");
-                let IdBotonesAnimacion = document.getElementById("botonesanimacion");
+            selector.addEventListener("change", function() {
+                let modelName = this.value;
+                callbackCarga(modelName);
+            });
 
-                widgetDivSpine.innerHTML = '';
-                widgetDivCutIn.innerHTML = '';
-                widgetDivArtificial.innerHTML = '';
-                widgetDivCorssfaction2.innerHTML = '';
-                widgetDivcrossfaction3.innerHTML = '';
-                widgetDivfaction.innerHTML = '';
-                IdBotonesAnimacion.innerHTML = '';
-
-                widgetDivSpine.style.display = "none";
-                widgetDivCutIn.style.display = "none";
-                widgetDivArtificial.style.display = "none";
-                widgetDivCorssfaction2.style.display = "none";
-                widgetDivcrossfaction3.style.display = "none";
-                widgetDivfaction.style.display = "none";
-                IdBotonesAnimacion.style.display = "none";
+            if (archivos.length > 0) {
+                let modelName = archivos[0].split('.')[0];
+                callbackCarga(modelName);
             }
+        }
 
-            let canvas = document.querySelector("canvas");
+        function limpiarWidgetDiv(widgetDiv) {
+            widgetDiv.innerHTML = '';
+        }
 
-            if (canvas) {
-                aplicarEstiloYEventos(canvas);
-            } else {
-                const observer = new MutationObserver((mutations) => {
-                    for (let mutation of mutations) {
-                        if (mutation.addedNodes.length) {
-                            canvas = document.querySelector("canvas");
-                            if (canvas) {
-                                aplicarEstiloYEventos(canvas);
-                                observer.disconnect(); // Dejar de observar una vez encontrado el canvas
-                                break;
-                            }
-                        }
+        function cargarSpine(modelName) {
+            limpiarWidgetDiv(widgetDivSpine);
+            loadAnimation(widgetDivSpine, folderSpine, modelName);
+        }
+
+        function cargarCutIn(modelName) {
+            limpiarWidgetDiv(widgetDivCutIn);
+            loadAnimation(widgetDivCutIn, folderCutIn, modelName);
+        }
+        function cargarArtificial(modelName) {
+            limpiarWidgetDiv(widgetDivartificial);
+            loadAnimation(widgetDivartificial, folderArtificial, modelName);
+        }
+        function cargarCorssfaction2(modelName) {
+            limpiarWidgetDiv(widgetDivCorssfaction2);
+            loadAnimation(widgetDivCorssfaction2, folderCorssfaction2, modelName);
+        }
+        function cargarCrossfaction3(modelName) {
+            limpiarWidgetDiv(widgetDivcrossfaction3);
+            loadAnimation(widgetDivcrossfaction3, foldercrossfaction3, modelName);
+        }
+        function cargarfaction(modelName) {
+            limpiarWidgetDiv(widgetDivfaction);
+            loadAnimation(widgetDivfaction, folderfaction, modelName);
+        }
+        function cargarBeta(modelName) {
+            limpiarWidgetDiv(widgetDivBeta);
+            loadAnimation(widgetDivBeta, folderBeta, modelName);
+        }
+
+        function loadAnimation(widgetDiv, folder, modelName) {
+            if (modelName != null) {
+                var existingButtonsDiv = document.getElementById('botonesanimacion');
+                if (existingButtonsDiv) {
+                    existingButtonsDiv.remove();
+                }
+                new spine.SpineWidget(widgetDiv.id, {
+                    atlas: folder + modelName + ".atlas",
+                    skel: modelName + ".skel",
+                    backgroundColor: "#00000000",
+                    premultipliedAlpha: true,
+                    fitToCanvas: true,
+                    loop: true,
+                    success: function(widget) {
+                        commonSuccess(widget, widgetDiv);
+                        spineWidget = widget;
+
+                        var widgetContainer = document.getElementById('widget-container');
+
+                        var buttonsDiv = document.createElement('div');
+                        buttonsDiv.style.display = 'flex';
+                        buttonsDiv.style.flexDirection = 'row';
+                        buttonsDiv.style.justifyContent = 'center';
+                        buttonsDiv.style.marginBottom = '10px';
+                        buttonsDiv.id = 'botonesanimacion'
+
+                        var animations = widget.skeleton.data.animations;
+                        animations.forEach(function(animation) {
+                            var btn = document.createElement('button');
+                            btn.innerHTML = animation.name;
+                            btn.onclick = function() { changeAnimation(animation.name); };
+                            buttonsDiv.appendChild(btn);
+                        });
+
+                        widgetContainer.parentNode.insertBefore(buttonsDiv, widgetContainer);
+                    },
+                    error: function(player, reason) {
+                        widgetDiv.setAttribute("error", reason)
                     }
                 });
-                observer.observe(document.body, { childList: true, subtree: true });
             }
+        }
 
-            var widgetContainer = document.getElementById("widget-container");
 
-            var posX = 0, posY = 0, mouseX = 0, mouseY = 0;
 
-            widgetContainer.onmousedown = function(e) {
-                e.preventDefault();
-                mouseX = e.clientX;
-                mouseY = e.clientY;
 
-                document.onmouseup = closeDragElement;
-                document.onmousemove = elementDrag;
-            };
+        function commonSuccess(widget, widgetDiv) {
+            let animations = widget.skeleton.data.animations;
+            let skins = widget.skeleton.data.skins;
+            if (animations.some(search => search.name === defaultAnimationName))
+                widget.setAnimation(defaultAnimationName);
+            if (skins.some(search => search.name === defaultSkinName))
+                widget.setSkinByName(defaultSkinName);
+            console.log(widget);
+            widgetDiv.style.position = "absolute";
+            widgetDiv.style.display = "block";
+            widgetDiv.style.width = `${widget.bounds.size.x}px`;
+            widgetDiv.style.height = `${widget.bounds.size.y}px`;
+        }
 
-            function elementDrag(e) {
-                posX = mouseX - e.clientX;
-                posY = mouseY - e.clientY;
-                mouseX = e.clientX;
-                mouseY = e.clientY;
+        document.getElementById("spine-widget-spine").style.display = "none";
+        document.getElementById("spine-widget-cutin").style.display = "none";
+        document.getElementById("spine-widget-artificial").style.display = "none";
+        document.getElementById("spine-widget-Corssfaction2").style.display = "none";
+        document.getElementById("spine-widget-Crossfaction3").style.display = "none";
+        document.getElementById("spine-widget-faction").style.display = "none";
+        document.getElementById("spine-widget-beta").style.display = "none";
 
-                widgetContainer.style.top = (widgetContainer.offsetTop - posY) + "px";
-                widgetContainer.style.left = (widgetContainer.offsetLeft - posX) + "px";
-            }
+        let btnLimpiar = document.getElementById("btnLimpiar");
 
-            function closeDragElement() {
-                document.onmouseup = null;
-                document.onmousemove = null;
-            }
-
-            cargarOpcionesDesdeJsonSpine();
-            cargarOpcionesDesdeJsonCutIn();
-            cargarOpcionesDesdeJsonArtificial();
-            cargarOpcionesDesdeJsonCorssfaction2();
-            cargarOpcionesDesdeJsoncrossfaction3();
-            cargarOpcionesDesdeJsonfaction();
+        btnLimpiar.addEventListener("click", function() {
+            limpiarWidgets();
         });
+
+        function limpiarWidgets() {
+            let widgetDivSpine = document.getElementById("spine-widget-spine");
+            let widgetDivCutIn = document.getElementById("spine-widget-cutin");
+            let widgetDivArtificial = document.getElementById("spine-widget-artificial");
+            let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
+            let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
+            let widgetDivfaction = document.getElementById("spine-widget-faction");
+            let widgetDivBeta = document.getElementById("spine-widget-beta");
+            let IdBotonesAnimacion = document.getElementById("botonesanimacion");
+
+            widgetDivSpine.innerHTML = '';
+            widgetDivCutIn.innerHTML = '';
+            widgetDivArtificial.innerHTML = '';
+            widgetDivCorssfaction2.innerHTML = '';
+            widgetDivcrossfaction3.innerHTML = '';
+            widgetDivfaction.innerHTML = '';
+            widgetDivBeta.innerHTML = '';
+            IdBotonesAnimacion.innerHTML = '';
+
+            widgetDivSpine.style.display = "none";
+            widgetDivCutIn.style.display = "none";
+            widgetDivArtificial.style.display = "none";
+            widgetDivCorssfaction2.style.display = "none";
+            widgetDivcrossfaction3.style.display = "none";
+            widgetDivfaction.style.display = "none";
+            widgetDivBeta.style.display = "none";
+            IdBotonesAnimacion.style.display = "none";
+        }
+
+        let canvas = document.querySelector("canvas");
+
+        if (canvas) {
+            aplicarEstiloYEventos(canvas);
+        } else {
+            const observer = new MutationObserver((mutations) => {
+                for (let mutation of mutations) {
+                    if (mutation.addedNodes.length) {
+                        canvas = document.querySelector("canvas");
+                        if (canvas) {
+                            aplicarEstiloYEventos(canvas);
+                            observer.disconnect(); // Dejar de observar una vez encontrado el canvas
+                            break;
+                        }
+                    }
+                }
+            });
+            observer.observe(document.body, { childList: true, subtree: true });
+        }
+
+        var widgetContainer = document.getElementById("widget-container");
+
+        var posX = 0, posY = 0, mouseX = 0, mouseY = 0;
+
+        widgetContainer.onmousedown = function(e) {
+            e.preventDefault();
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+
+            document.onmouseup = closeDragElement;
+            document.onmousemove = elementDrag;
+        };
+
+        function elementDrag(e) {
+            posX = mouseX - e.clientX;
+            posY = mouseY = e.clientY;
+            mouseX = e.clientX;
+            mouseY = e.clientY;
+
+            widgetContainer.style.top = (widgetContainer.offsetTop - posY) + "px";
+            widgetContainer.style.left = (widgetContainer.offsetLeft - posX) + "px";
+        }
+
+        function closeDragElement() {
+            document.onmouseup = null;
+            document.onmousemove = null;
+        }
+
+        cargarOpcionesDesdeJsonSpine();
+        cargarOpcionesDesdeJsonCutIn();
+        cargarOpcionesDesdeJsonArtificial();
+        cargarOpcionesDesdeJsonCorssfaction2();
+        cargarOpcionesDesdeJsoncrossfaction3();
+        cargarOpcionesDesdeJsonfaction();
+        cargarOpcionesDesdeJsonBeta();
+    });
     function changeAnimation(animationName) {
         if (spineWidget && spineWidget.state) {
             spineWidget.state.setAnimation(0, animationName, true);

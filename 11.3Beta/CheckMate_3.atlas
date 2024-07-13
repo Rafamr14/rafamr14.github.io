@@ -1,0 +1,258 @@
+
+CheckMate_3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CheckMate_1
+  rotate: false
+  xy: 191, 443
+  size: 237, 67
+  orig: 237, 67
+  offset: 0, 0
+  index: -1
+CheckMate_100
+  rotate: false
+  xy: 162, 11
+  size: 81, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+CheckMate_101
+  rotate: true
+  xy: 333, 86
+  size: 86, 95
+  orig: 86, 95
+  offset: 0, 0
+  index: -1
+CheckMate_102
+  rotate: false
+  xy: 275, 119
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+CheckMate_103
+  rotate: false
+  xy: 385, 36
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+CheckMate_104
+  rotate: false
+  xy: 487, 429
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+CheckMate_105
+  rotate: true
+  xy: 330, 3
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+CheckMate_106
+  rotate: false
+  xy: 487, 402
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1
+CheckMate_107
+  rotate: false
+  xy: 330, 32
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+CheckMate_108
+  rotate: false
+  xy: 474, 456
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+CheckMate_109
+  rotate: false
+  xy: 437, 308
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+CheckMate_110
+  rotate: true
+  xy: 433, 50
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+CheckMate_111
+  rotate: true
+  xy: 432, 163
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+CheckMate_112
+  rotate: false
+  xy: 302, 13
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+CheckMate_113
+  rotate: true
+  xy: 266, 169
+  size: 27, 65
+  orig: 27, 65
+  offset: 0, 0
+  index: -1
+CheckMate_114
+  rotate: false
+  xy: 430, 114
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+CheckMate_115
+  rotate: false
+  xy: 433, 19
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+CheckMate_116
+  rotate: true
+  xy: 337, 174
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1
+CheckMate_18
+  rotate: false
+  xy: 487, 381
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+CheckMate_27
+  rotate: false
+  xy: 173, 118
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+CheckMate_80
+  rotate: false
+  xy: 2, 2
+  size: 158, 124
+  orig: 158, 124
+  offset: 0, 0
+  index: -1
+CheckMate_81
+  rotate: false
+  xy: 430, 444
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+CheckMate_82
+  rotate: true
+  xy: 345, 308
+  size: 133, 90
+  orig: 133, 90
+  offset: 0, 0
+  index: -1
+CheckMate_84
+  rotate: true
+  xy: 191, 310
+  size: 131, 152
+  orig: 131, 152
+  offset: 0, 0
+  index: -1
+CheckMate_87
+  rotate: false
+  xy: 173, 168
+  size: 91, 136
+  orig: 91, 136
+  offset: 0, 0
+  index: -1
+CheckMate_88
+  rotate: true
+  xy: 366, 3
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+CheckMate_89
+  rotate: true
+  xy: 245, 10
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+CheckMate_90
+  rotate: false
+  xy: 474, 448
+  size: 11, 6
+  orig: 11, 6
+  offset: 0, 0
+  index: -1
+CheckMate_91
+  rotate: true
+  xy: 437, 342
+  size: 100, 48
+  orig: 100, 48
+  offset: 0, 0
+  index: -1
+CheckMate_92
+  rotate: false
+  xy: 430, 92
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1
+CheckMate_93
+  rotate: true
+  xy: 432, 200
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+CheckMate_94
+  rotate: true
+  xy: 487, 355
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+CheckMate_96
+  rotate: false
+  xy: 2, 128
+  size: 169, 176
+  orig: 169, 176
+  offset: 0, 0
+  index: -1
+CheckMate_97
+  rotate: false
+  xy: 302, 41
+  size: 26, 76
+  orig: 26, 76
+  offset: 0, 0
+  index: -1
+CheckMate_98
+  rotate: true
+  xy: 266, 198
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+CheckMate_99
+  rotate: false
+  xy: 2, 306
+  size: 187, 204
+  orig: 187, 204
+  offset: 0, 0
+  index: -1

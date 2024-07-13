@@ -1,0 +1,76 @@
+
+weapon_20983_mine.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl_0
+  rotate: true
+  xy: 1, 110
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+dl_1
+  rotate: false
+  xy: 70, 190
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+dl_2
+  rotate: false
+  xy: 1, 340
+  size: 230, 84
+  orig: 230, 84
+  offset: 0, 0
+  index: -1
+dl_3
+  rotate: true
+  xy: 211, 275
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+dl_4
+  rotate: false
+  xy: 232, 360
+  size: 52, 13
+  orig: 52, 13
+  offset: 0, 0
+  index: -1
+dl_5
+  rotate: false
+  xy: 232, 374
+  size: 128, 50
+  orig: 128, 50
+  offset: 0, 0
+  index: -1
+dl_6
+  rotate: false
+  xy: 1, 183
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+dl_7
+  rotate: false
+  xy: 361, 379
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+dl_8
+  rotate: true
+  xy: 1, 46
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+dl_9
+  rotate: false
+  xy: 1, 242
+  size: 209, 97
+  orig: 209, 97
+  offset: 0, 0
+  index: -1

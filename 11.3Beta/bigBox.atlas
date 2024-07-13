@@ -1,0 +1,55 @@
+
+bigBox.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb_2
+  rotate: false
+  xy: 417, 312
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+bb_5
+  rotate: false
+  xy: 417, 385
+  size: 427, 283
+  orig: 427, 283
+  offset: 0, 0
+  index: -1
+bb_6
+  rotate: false
+  xy: 2, 165
+  size: 413, 393
+  orig: 413, 393
+  offset: 0, 0
+  index: -1
+lwh_21
+  rotate: false
+  xy: 846, 831
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+lwh_33
+  rotate: false
+  xy: 2, 25
+  size: 170, 138
+  orig: 170, 138
+  offset: 0, 0
+  index: -1
+lwh_35
+  rotate: false
+  xy: 417, 670
+  size: 427, 283
+  orig: 427, 283
+  offset: 0, 0
+  index: -1
+lwh_36
+  rotate: false
+  xy: 2, 560
+  size: 413, 393
+  orig: 413, 393
+  offset: 0, 0
+  index: -1

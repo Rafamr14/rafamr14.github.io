@@ -1,0 +1,62 @@
+
+shop.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gress1_5
+  rotate: false
+  xy: 2, 270
+  size: 360, 225
+  orig: 360, 225
+  offset: 0, 0
+  index: -1
+shop1_1
+  rotate: false
+  xy: 364, 405
+  size: 77, 90
+  orig: 77, 90
+  offset: 0, 0
+  index: -1
+shop1_2
+  rotate: false
+  xy: 281, 77
+  size: 182, 191
+  orig: 182, 191
+  offset: 0, 0
+  index: -1
+shop1_3
+  rotate: false
+  xy: 2, 37
+  size: 277, 231
+  orig: 277, 231
+  offset: 0, 0
+  index: -1
+shopdoor0_1
+  rotate: true
+  xy: 2, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+shopdoor1_1
+  rotate: false
+  xy: 443, 465
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+shopdoor1_2
+  rotate: false
+  xy: 364, 353
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+shopdoor1_3
+  rotate: true
+  xy: 281, 42
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1

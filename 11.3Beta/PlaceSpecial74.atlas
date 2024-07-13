@@ -1,0 +1,20 @@
+
+PlaceSpecial74.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5xing
+  rotate: false
+  xy: 2, 2
+  size: 109, 66
+  orig: 109, 66
+  offset: 0, 0
+  index: -1
+6xing
+  rotate: false
+  xy: 2, 70
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1

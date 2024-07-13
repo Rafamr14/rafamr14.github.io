@@ -1,0 +1,118 @@
+
+vehicle_08.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_3
+  rotate: false
+  xy: 536, 130
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+cc_4
+  rotate: false
+  xy: 536, 130
+  size: 248, 248
+  orig: 248, 248
+  offset: 0, 0
+  index: -1
+cc_5
+  rotate: false
+  xy: 2, 926
+  size: 1178, 551
+  orig: 1178, 551
+  offset: 0, 0
+  index: -1
+cc_6
+  rotate: false
+  xy: 1775, 1255
+  size: 239, 249
+  orig: 239, 249
+  offset: 0, 0
+  index: -1
+cc_7
+  rotate: false
+  xy: 1775, 1255
+  size: 239, 249
+  orig: 239, 249
+  offset: 0, 0
+  index: -1
+cc_8
+  rotate: false
+  xy: 2, 1479
+  size: 1225, 559
+  orig: 1225, 559
+  offset: 0, 0
+  index: -1
+cc_9
+  rotate: true
+  xy: 786, 139
+  size: 239, 249
+  orig: 239, 249
+  offset: 0, 0
+  index: -1
+ccc_0
+  rotate: false
+  xy: 2, 113
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_2
+  rotate: false
+  xy: 2, 113
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_1
+  rotate: false
+  xy: 1775, 1773
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_3
+  rotate: false
+  xy: 1775, 1773
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_1a
+  rotate: false
+  xy: 269, 113
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_3a
+  rotate: false
+  xy: 1775, 1506
+  size: 265, 265
+  orig: 265, 265
+  offset: 0, 0
+  index: -1
+ccc_4
+  rotate: false
+  xy: 2, 380
+  size: 1181, 544
+  orig: 1181, 544
+  offset: 0, 0
+  index: -1
+ccc_4a
+  rotate: true
+  xy: 1229, 857
+  size: 1181, 544
+  orig: 1181, 544
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 1775, 1133
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

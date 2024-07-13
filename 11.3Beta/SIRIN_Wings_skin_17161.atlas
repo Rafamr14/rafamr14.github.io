@@ -1,0 +1,20 @@
+
+SIRIN_Wings_skin_17161.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+le64
+  rotate: false
+  xy: 2, 3
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+le65
+  rotate: false
+  xy: 62, 2
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1

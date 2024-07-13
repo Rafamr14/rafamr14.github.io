@@ -1,0 +1,41 @@
+
+p4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 40
+  size: 1028, 491
+  orig: 1030, 493
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 1141, 1076
+  size: 367, 409
+  orig: 369, 411
+  offset: 1, 1
+  index: -1
+3
+  rotate: false
+  xy: 1141, 1445
+  size: 714, 410
+  orig: 716, 412
+  offset: 1, 1
+  index: -1
+4
+  rotate: false
+  xy: 2, 1193
+  size: 1137, 662
+  orig: 1139, 664
+  offset: 1, 1
+  index: -1
+5
+  rotate: false
+  xy: 2, 533
+  size: 1135, 658
+  orig: 1137, 660
+  offset: 1, 1
+  index: -1

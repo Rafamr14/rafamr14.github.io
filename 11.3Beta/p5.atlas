@@ -1,0 +1,27 @@
+
+p5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 1139, 643
+  size: 1136, 640
+  orig: 1136, 640
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 636
+  size: 1135, 1143
+  orig: 1137, 1145
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 208
+  size: 1028, 426
+  orig: 1030, 428
+  offset: 1, 1
+  index: -1

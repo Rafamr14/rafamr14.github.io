@@ -1,0 +1,20 @@
+
+Skin17146_talent_juda.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 53
+  size: 188, 198
+  orig: 188, 198
+  offset: 0, 0
+  index: -1
+tu
+  rotate: false
+  xy: 2, 2
+  size: 147, 49
+  orig: 147, 49
+  offset: 0, 0
+  index: -1

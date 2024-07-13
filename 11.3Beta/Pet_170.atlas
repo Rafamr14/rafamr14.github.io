@@ -1,0 +1,251 @@
+
+Pet_170.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+afl_0
+  rotate: false
+  xy: 220, 427
+  size: 172, 83
+  orig: 172, 83
+  offset: 0, 0
+  index: -1
+afl_1
+  rotate: true
+  xy: 236, 61
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+afl_10
+  rotate: false
+  xy: 394, 400
+  size: 112, 110
+  orig: 112, 110
+  offset: 0, 0
+  index: -1
+afl_11
+  rotate: true
+  xy: 360, 303
+  size: 95, 104
+  orig: 95, 104
+  offset: 0, 0
+  index: -1
+afl_12
+  rotate: false
+  xy: 2, 215
+  size: 136, 147
+  orig: 136, 147
+  offset: 0, 0
+  index: -1
+afl_13
+  rotate: true
+  xy: 220, 403
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+afl_14
+  rotate: true
+  xy: 360, 404
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+afl_15
+  rotate: false
+  xy: 238, 315
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+afl_16
+  rotate: true
+  xy: 266, 107
+  size: 120, 110
+  orig: 120, 110
+  offset: 0, 0
+  index: -1
+afl_18
+  rotate: true
+  xy: 466, 313
+  size: 85, 42
+  orig: 85, 42
+  offset: 0, 0
+  index: -1
+afl_19
+  rotate: true
+  xy: 98, 77
+  size: 136, 81
+  orig: 136, 81
+  offset: 0, 0
+  index: -1
+afl_2
+  rotate: true
+  xy: 431, 241
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+afl_20
+  rotate: false
+  xy: 367, 5
+  size: 37, 42
+  orig: 37, 42
+  offset: 0, 0
+  index: -1
+afl_21
+  rotate: true
+  xy: 181, 70
+  size: 22, 53
+  orig: 22, 53
+  offset: 0, 0
+  index: -1
+afl_22
+  rotate: true
+  xy: 91, 20
+  size: 25, 56
+  orig: 25, 56
+  offset: 0, 0
+  index: -1
+afl_23
+  rotate: true
+  xy: 98, 47
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+afl_24
+  rotate: true
+  xy: 406, 19
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+afl_25
+  rotate: false
+  xy: 181, 94
+  size: 83, 128
+  orig: 83, 128
+  offset: 0, 0
+  index: -1
+afl_26
+  rotate: false
+  xy: 2, 3
+  size: 87, 47
+  orig: 87, 47
+  offset: 0, 0
+  index: -1
+afl_27
+  rotate: false
+  xy: 2, 364
+  size: 216, 146
+  orig: 216, 146
+  offset: 0, 0
+  index: -1
+afl_28
+  rotate: false
+  xy: 266, 2
+  size: 99, 103
+  orig: 99, 103
+  offset: 0, 0
+  index: -1
+afl_29
+  rotate: true
+  xy: 334, 229
+  size: 72, 95
+  orig: 72, 95
+  offset: 0, 0
+  index: -1
+afl_3
+  rotate: false
+  xy: 207, 47
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+afl_4
+  rotate: true
+  xy: 161, 56
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+afl_5
+  rotate: false
+  xy: 181, 46
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+afl_6
+  rotate: false
+  xy: 140, 224
+  size: 96, 138
+  orig: 96, 138
+  offset: 0, 0
+  index: -1
+afl_7
+  rotate: false
+  xy: 238, 229
+  size: 94, 84
+  orig: 94, 84
+  offset: 0, 0
+  index: -1
+afl_8
+  rotate: false
+  xy: 378, 49
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+hua1
+  rotate: false
+  xy: 334, 303
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+hua2
+  rotate: false
+  xy: 431, 229
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hua3
+  rotate: false
+  xy: 168, 42
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+hua4
+  rotate: true
+  xy: 149, 24
+  size: 21, 17
+  orig: 21, 17
+  offset: 0, 0
+  index: -1
+hua5
+  rotate: false
+  xy: 91, 7
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+meigui1
+  rotate: true
+  xy: 378, 135
+  size: 92, 77
+  orig: 92, 77
+  offset: 0, 0
+  index: -1
+tenman1
+  rotate: true
+  xy: 2, 52
+  size: 161, 94
+  orig: 161, 94
+  offset: 0, 0
+  index: -1

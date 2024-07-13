@@ -1,0 +1,167 @@
+
+deepsea_destroyer.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gq/0001
+  rotate: false
+  xy: 2, 291
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0002
+  rotate: false
+  xy: 206, 411
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0003
+  rotate: false
+  xy: 2, 207
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0004
+  rotate: false
+  xy: 290, 411
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0005
+  rotate: false
+  xy: 2, 123
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0006
+  rotate: false
+  xy: 374, 411
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0007
+  rotate: false
+  xy: 2, 39
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0008
+  rotate: false
+  xy: 122, 327
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0009
+  rotate: false
+  xy: 206, 327
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0010
+  rotate: false
+  xy: 290, 327
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0011
+  rotate: false
+  xy: 374, 327
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0012
+  rotate: false
+  xy: 86, 243
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0013
+  rotate: false
+  xy: 86, 159
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0014
+  rotate: false
+  xy: 170, 243
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+gq/0015
+  rotate: false
+  xy: 122, 411
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hh_10
+  rotate: false
+  xy: 254, 265
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+hh_11
+  rotate: false
+  xy: 458, 371
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+hh_13
+  rotate: false
+  xy: 2, 435
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+hh_14
+  rotate: false
+  xy: 2, 375
+  size: 118, 58
+  orig: 118, 58
+  offset: 0, 0
+  index: -1
+hh_6
+  rotate: false
+  xy: 86, 98
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+hh_7
+  rotate: false
+  xy: 170, 182
+  size: 59, 59
+  orig: 59, 59
+  offset: 0, 0
+  index: -1
+hh_8
+  rotate: false
+  xy: 458, 433
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+hh_9
+  rotate: true
+  xy: 2, 2
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1

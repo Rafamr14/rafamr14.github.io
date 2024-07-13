@@ -1,0 +1,55 @@
+
+longBox.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb_0
+  rotate: false
+  xy: 148, 342
+  size: 170, 138
+  orig: 170, 138
+  offset: 0, 0
+  index: -1
+bb_3
+  rotate: false
+  xy: 320, 351
+  size: 152, 129
+  orig: 152, 129
+  offset: 0, 0
+  index: -1
+bb_4
+  rotate: false
+  xy: 2, 242
+  size: 144, 238
+  orig: 144, 238
+  offset: 0, 0
+  index: -1
+lwh_21
+  rotate: false
+  xy: 148, 87
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+lwh_26
+  rotate: false
+  xy: 148, 14
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+lwh_28
+  rotate: false
+  xy: 148, 211
+  size: 152, 129
+  orig: 152, 129
+  offset: 0, 0
+  index: -1
+lwh_29
+  rotate: false
+  xy: 2, 2
+  size: 144, 238
+  orig: 144, 238
+  offset: 0, 0
+  index: -1

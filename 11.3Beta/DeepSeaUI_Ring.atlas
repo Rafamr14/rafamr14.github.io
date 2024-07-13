@@ -1,0 +1,167 @@
+
+DeepSeaUI_Ring.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+001
+  rotate: false
+  xy: 214, 286
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+002
+  rotate: false
+  xy: 440, 286
+  size: 224, 224
+  orig: 224, 224
+  offset: 0, 0
+  index: -1
+Q0_1
+  rotate: true
+  xy: 666, 295
+  size: 215, 229
+  orig: 215, 229
+  offset: 0, 0
+  index: -1
+Q0_2
+  rotate: false
+  xy: 2, 31
+  size: 178, 211
+  orig: 178, 211
+  offset: 0, 0
+  index: -1
+Q0_3
+  rotate: true
+  xy: 2, 5
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+Q0_4
+  rotate: true
+  xy: 182, 204
+  size: 38, 29
+  orig: 38, 29
+  offset: 0, 0
+  index: -1
+Q1
+  rotate: true
+  xy: 214, 176
+  size: 108, 270
+  orig: 108, 270
+  offset: 0, 0
+  index: -1
+Q1F
+  rotate: false
+  xy: 948, 59
+  size: 66, 217
+  orig: 66, 217
+  offset: 0, 0
+  index: -1
+Q2
+  rotate: false
+  xy: 2, 244
+  size: 210, 266
+  orig: 210, 266
+  offset: 0, 0
+  index: -1
+Q2F
+  rotate: false
+  xy: 694, 159
+  size: 155, 134
+  orig: 155, 134
+  offset: 0, 0
+  index: -1
+Q3
+  rotate: true
+  xy: 485, 30
+  size: 93, 216
+  orig: 93, 216
+  offset: 0, 0
+  index: -1
+Q3F
+  rotate: false
+  xy: 412, 19
+  size: 71, 155
+  orig: 71, 155
+  offset: 0, 0
+  index: -1
+Q4
+  rotate: true
+  xy: 851, 60
+  size: 216, 95
+  orig: 216, 95
+  offset: 0, 0
+  index: -1
+Q4F
+  rotate: false
+  xy: 182, 2
+  size: 97, 43
+  orig: 97, 43
+  offset: 0, 0
+  index: -1
+Q5
+  rotate: true
+  xy: 182, 47
+  size: 127, 228
+  orig: 127, 228
+  offset: 0, 0
+  index: -1
+Q5F
+  rotate: true
+  xy: 486, 125
+  size: 54, 146
+  orig: 54, 146
+  offset: 0, 0
+  index: -1
+Q6
+  rotate: false
+  xy: 897, 278
+  size: 124, 232
+  orig: 124, 232
+  offset: 0, 0
+  index: -1
+Q6F
+  rotate: true
+  xy: 486, 181
+  size: 103, 206
+  orig: 103, 206
+  offset: 0, 0
+  index: -1
+SS1
+  rotate: false
+  xy: 703, 37
+  size: 51, 60
+  orig: 51, 60
+  offset: 0, 0
+  index: -1
+SS2
+  rotate: false
+  xy: 634, 143
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+SS3
+  rotate: false
+  xy: 369, 13
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+SS5
+  rotate: false
+  xy: 703, 99
+  size: 102, 58
+  orig: 102, 58
+  offset: 0, 0
+  index: -1
+SS6
+  rotate: true
+  xy: 281, 6
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+kekeliya.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kkl_xj_0
+  rotate: false
+  xy: 2, 54
+  size: 70, 108
+  orig: 70, 108
+  offset: 0, 0
+  index: -1
+kkl_xj_1
+  rotate: true
+  xy: 219, 177
+  size: 76, 34
+  orig: 76, 34
+  offset: 0, 0
+  index: -1
+kkl_xj_2
+  rotate: true
+  xy: 74, 59
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+kkl_xj_3
+  rotate: false
+  xy: 163, 31
+  size: 59, 86
+  orig: 59, 86
+  offset: 0, 0
+  index: -1
+kkl_xj_4
+  rotate: false
+  xy: 74, 119
+  size: 117, 43
+  orig: 117, 43
+  offset: 0, 0
+  index: -1
+kkl_xj_5
+  rotate: false
+  xy: 2, 164
+  size: 215, 89
+  orig: 215, 89
+  offset: 0, 0
+  index: -1
+kkl_xj_6
+  rotate: true
+  xy: 74, 28
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+kkl_xj_7
+  rotate: true
+  xy: 2, 23
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
