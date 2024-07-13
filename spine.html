@@ -380,7 +380,7 @@
             IdBotonesAnimacion.style.display = "none";
         }
 
-        let canvas = document.querySelector("canvas");
+        /*let canvas = document.querySelector("canvas");
 
         if (canvas) {
             aplicarEstiloYEventos(canvas);
@@ -391,7 +391,7 @@
                         canvas = document.querySelector("canvas");
                         if (canvas) {
                             aplicarEstiloYEventos(canvas);
-                            observer.disconnect(); // Dejar de observar una vez encontrado el canvas
+                            observer.disconnect();
                             break;
                         }
                     }
@@ -399,7 +399,7 @@
             });
             observer.observe(document.body, { childList: true, subtree: true });
         }
-
+*/
         var widgetContainer = document.getElementById("widget-container");
 
         var posX = 0, posY = 0, mouseX = 0, mouseY = 0;
@@ -415,7 +415,7 @@
 
         function elementDrag(e) {
             posX = mouseX - e.clientX;
-            posY = mouseY = e.clientY;
+            posY = mouseY - e.clientY;
             mouseX = e.clientX;
             mouseY = e.clientY;
 
