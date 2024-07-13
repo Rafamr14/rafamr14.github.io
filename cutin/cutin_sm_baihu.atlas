@@ -1,0 +1,181 @@
+
+cutin_sm_baihu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+baihu_0
+  rotate: true
+  xy: 270, 209
+  size: 84, 88
+  orig: 84, 88
+  offset: 0, 0
+  index: -1
+baihu_1
+  rotate: false
+  xy: 308, 343
+  size: 91, 92
+  orig: 91, 92
+  offset: 0, 0
+  index: -1
+baihu_10
+  rotate: true
+  xy: 787, 589
+  size: 125, 39
+  orig: 125, 39
+  offset: 0, 0
+  index: -1
+baihu_11
+  rotate: false
+  xy: 787, 562
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+baihu_12
+  rotate: true
+  xy: 891, 708
+  size: 155, 62
+  orig: 155, 62
+  offset: 0, 0
+  index: -1
+baihu_13
+  rotate: false
+  xy: 308, 295
+  size: 111, 46
+  orig: 111, 46
+  offset: 0, 0
+  index: -1
+baihu_14
+  rotate: true
+  xy: 955, 722
+  size: 141, 48
+  orig: 141, 48
+  offset: 0, 0
+  index: -1
+baihu_15
+  rotate: false
+  xy: 2, 2
+  size: 180, 207
+  orig: 180, 207
+  offset: 0, 0
+  index: -1
+baihu_16
+  rotate: false
+  xy: 196, 228
+  size: 72, 211
+  orig: 72, 211
+  offset: 0, 0
+  index: -1
+baihu_18
+  rotate: true
+  xy: 447, 462
+  size: 83, 146
+  orig: 83, 146
+  offset: 0, 0
+  index: -1
+baihu_19
+  rotate: false
+  xy: 890, 602
+  size: 56, 104
+  orig: 56, 104
+  offset: 0, 0
+  index: -1
+baihu_2
+  rotate: false
+  xy: 426, 723
+  size: 184, 283
+  orig: 184, 283
+  offset: 0, 0
+  index: -1
+baihu_20
+  rotate: false
+  xy: 447, 547
+  size: 161, 174
+  orig: 161, 174
+  offset: 0, 0
+  index: -1
+baihu_21
+  rotate: false
+  xy: 612, 716
+  size: 214, 170
+  orig: 214, 170
+  offset: 0, 0
+  index: -1
+baihu_22
+  rotate: false
+  xy: 904, 865
+  size: 98, 141
+  orig: 98, 141
+  offset: 0, 0
+  index: -1
+baihu_23
+  rotate: false
+  xy: 2, 441
+  size: 308, 259
+  orig: 308, 259
+  offset: 0, 0
+  index: -1
+baihu_24
+  rotate: true
+  xy: 610, 555
+  size: 159, 175
+  orig: 159, 175
+  offset: 0, 0
+  index: -1
+baihu_25
+  rotate: false
+  xy: 2, 702
+  size: 422, 304
+  orig: 422, 304
+  offset: 0, 0
+  index: -1
+baihu_3
+  rotate: false
+  xy: 2, 211
+  size: 192, 228
+  orig: 192, 228
+  offset: 0, 0
+  index: -1
+baihu_4
+  rotate: true
+  xy: 828, 603
+  size: 110, 60
+  orig: 110, 60
+  offset: 0, 0
+  index: -1
+baihu_5
+  rotate: false
+  xy: 828, 715
+  size: 61, 171
+  orig: 61, 171
+  offset: 0, 0
+  index: -1
+baihu_6
+  rotate: false
+  xy: 312, 464
+  size: 133, 236
+  orig: 133, 236
+  offset: 0, 0
+  index: -1
+baihu_7
+  rotate: true
+  xy: 612, 888
+  size: 118, 290
+  orig: 118, 290
+  offset: 0, 0
+  index: -1
+baihu_8
+  rotate: false
+  xy: 312, 437
+  size: 113, 25
+  orig: 113, 25
+  offset: 0, 0
+  index: -1
+baihu_9
+  rotate: true
+  xy: 270, 305
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1

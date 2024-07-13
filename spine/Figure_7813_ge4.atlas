@@ -1,0 +1,27 @@
+
+Figure_7813_ge4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gugu_10
+  rotate: false
+  xy: 2, 161
+  size: 221, 93
+  orig: 221, 93
+  offset: 0, 0
+  index: -1
+gugu_11
+  rotate: false
+  xy: 77, 76
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+gugu_12
+  rotate: true
+  xy: 2, 2
+  size: 157, 73
+  orig: 157, 73
+  offset: 0, 0
+  index: -1

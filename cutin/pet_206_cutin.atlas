@@ -1,0 +1,167 @@
+
+pet_206_cutin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: true
+  xy: 1621, 327
+  size: 272, 33
+  orig: 272, 33
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 1731, 1348
+  size: 218, 33
+  orig: 218, 33
+  offset: 0, 0
+  index: -1
+44
+  rotate: false
+  xy: 2, 2
+  size: 235, 33
+  orig: 235, 33
+  offset: 0, 0
+  index: -1
+55
+  rotate: false
+  xy: 1758, 1456
+  size: 264, 33
+  orig: 264, 33
+  offset: 0, 0
+  index: -1
+66
+  rotate: true
+  xy: 1656, 327
+  size: 272, 33
+  orig: 272, 33
+  offset: 0, 0
+  index: -1
+77
+  rotate: false
+  xy: 1758, 1421
+  size: 235, 33
+  orig: 235, 33
+  offset: 0, 0
+  index: -1
+cy_10
+  rotate: false
+  xy: 880, 961
+  size: 689, 420
+  orig: 689, 420
+  offset: 0, 0
+  index: -1
+cy_11
+  rotate: false
+  xy: 267, 38
+  size: 240, 160
+  orig: 240, 160
+  offset: 0, 0
+  index: -1
+cy_12
+  rotate: true
+  xy: 1758, 1491
+  size: 518, 264
+  orig: 518, 264
+  offset: 0, 0
+  index: -1
+cy_13
+  rotate: false
+  xy: 2, 200
+  size: 829, 553
+  orig: 829, 553
+  offset: 0, 0
+  index: -1
+cy_14
+  rotate: true
+  xy: 1344, 601
+  size: 358, 354
+  orig: 358, 354
+  offset: 0, 0
+  index: -1
+cy_15
+  rotate: false
+  xy: 1195, 231
+  size: 365, 368
+  orig: 365, 368
+  offset: 0, 0
+  index: -1
+cy_16
+  rotate: false
+  xy: 833, 225
+  size: 360, 375
+  orig: 360, 375
+  offset: 0, 0
+  index: -1
+cy_19
+  rotate: false
+  xy: 2, 1383
+  size: 876, 626
+  orig: 876, 626
+  offset: 0, 0
+  index: -1
+cy_20
+  rotate: false
+  xy: 2, 755
+  size: 876, 626
+  orig: 876, 626
+  offset: 0, 0
+  index: -1
+cy_21
+  rotate: false
+  xy: 880, 1383
+  size: 876, 626
+  orig: 876, 626
+  offset: 0, 0
+  index: -1
+cy_3
+  rotate: true
+  xy: 1562, 276
+  size: 323, 30
+  orig: 323, 30
+  offset: 0, 0
+  index: -1
+cy_4
+  rotate: false
+  xy: 1758, 1383
+  size: 228, 36
+  orig: 228, 36
+  offset: 0, 0
+  index: -1
+cy_5
+  rotate: true
+  xy: 1594, 308
+  size: 291, 25
+  orig: 291, 25
+  offset: 0, 0
+  index: -1
+cy_6
+  rotate: false
+  xy: 880, 602
+  size: 462, 357
+  orig: 462, 357
+  offset: 0, 0
+  index: -1
+cy_7
+  rotate: false
+  xy: 509, 9
+  size: 225, 189
+  orig: 225, 189
+  offset: 0, 0
+  index: -1
+cy_8
+  rotate: false
+  xy: 1571, 1125
+  size: 158, 256
+  orig: 158, 256
+  offset: 0, 0
+  index: -1
+cy_9
+  rotate: true
+  xy: 2, 37
+  size: 161, 263
+  orig: 161, 263
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,109 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "1822.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "1822.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/born1_CN.motion3.json"
+        },
+        {
+          "File": "motions/born1_JP.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/shake1_CN.motion3.json"
+        },
+        {
+          "File": "motions/shake1_JP.motion3.json"
+        },
+        {
+          "File": "motions/stay1_CN.motion3.json"
+        },
+        {
+          "File": "motions/stay1_JP.motion3.json"
+        },
+        {
+          "File": "motions/stay2_CN.motion3.json"
+        },
+        {
+          "File": "motions/stay2_JP.motion3.json"
+        },
+        {
+          "File": "motions/stay3_1.motion3.json"
+        },
+        {
+          "File": "motions/stay3_CN.motion3.json"
+        },
+        {
+          "File": "motions/stay3_JP.motion3.json"
+        },
+        {
+          "File": "motions/stay4_CN.motion3.json"
+        },
+        {
+          "File": "motions/stay4_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch1_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch1_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch2_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch2_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch3_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch3_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch4_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch4_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch5_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch5_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch6_CN.motion3.json"
+        },
+        {
+          "File": "motions/touch6_JP.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}

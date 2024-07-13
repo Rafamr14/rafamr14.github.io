@@ -1,0 +1,251 @@
+
+zero_cg.atlas.atlas.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DLCfm_0
+  rotate: false
+  xy: 1, 1
+  size: 1485, 836
+  orig: 1485, 836
+  offset: 0, 0
+  index: -1
+DLCfm_1
+  rotate: false
+  xy: 1792, 1352
+  size: 166, 122
+  orig: 166, 122
+  offset: 0, 0
+  index: -1
+DLCfm_2
+  rotate: true
+  xy: 1959, 1492
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+DLCfm_3
+  rotate: true
+  xy: 1488, 1574
+  size: 89, 91
+  orig: 89, 91
+  offset: 0, 0
+  index: -1
+DLCfm_4
+  rotate: true
+  xy: 1876, 1620
+  size: 89, 68
+  orig: 89, 68
+  offset: 0, 0
+  index: -1
+DLCfm_5
+  rotate: true
+  xy: 1876, 1584
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+DLCfm_6
+  rotate: true
+  xy: 1771, 1584
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+DLCfm_7
+  rotate: true
+  xy: 1815, 793
+  size: 234, 222
+  orig: 234, 222
+  offset: 0, 0
+  index: -1
+DLCfm_8
+  rotate: true
+  xy: 1488, 1
+  size: 528, 545
+  orig: 528, 545
+  offset: 0, 0
+  index: -1
+DLCfm_10
+  rotate: false
+  xy: 1815, 531
+  size: 228, 260
+  orig: 228, 260
+  offset: 0, 0
+  index: -1
+DLCfm_11
+  rotate: false
+  xy: 1792, 1238
+  size: 197, 112
+  orig: 197, 112
+  offset: 0, 0
+  index: -1
+DLCfm_12
+  rotate: false
+  xy: 1488, 1010
+  size: 317, 116
+  orig: 317, 116
+  offset: 0, 0
+  index: -1
+DLCfm_13
+  rotate: false
+  xy: 1488, 1128
+  size: 302, 300
+  orig: 302, 300
+  offset: 0, 0
+  index: -1
+DLCfm_14
+  rotate: true
+  xy: 1960, 1377
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+DLCfm_15
+  rotate: false
+  xy: 1488, 531
+  size: 325, 292
+  orig: 325, 292
+  offset: 0, 0
+  index: -1
+DLCfm_16
+  rotate: false
+  xy: 1488, 1430
+  size: 149, 142
+  orig: 149, 142
+  offset: 0, 0
+  index: -1
+DLCfm_17
+  rotate: true
+  xy: 1639, 1430
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+DLCfm_18
+  rotate: false
+  xy: 1, 839
+  size: 1485, 836
+  orig: 1485, 836
+  offset: 0, 0
+  index: -1
+Effect12
+  rotate: false
+  xy: 2035, 37
+  size: 9, 37
+  orig: 9, 37
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 2027, 1029
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 2035, 1
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 2035, 20
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+ggp
+  rotate: false
+  xy: 1991, 1238
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+gx1
+  rotate: false
+  xy: 1952, 1608
+  size: 92, 101
+  orig: 92, 101
+  offset: 0, 0
+  index: -1
+gx4
+  rotate: true
+  xy: 1960, 1430
+  size: 60, 82
+  orig: 60, 82
+  offset: 0, 0
+  index: -1
+ld
+  rotate: false
+  xy: 1991, 1313
+  size: 55, 62
+  orig: 55, 62
+  offset: 0, 0
+  index: -1
+lk
+  rotate: false
+  xy: 1910, 1557
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+n-light-02red (2)
+  rotate: false
+  xy: 2035, 76
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+pf
+  rotate: false
+  xy: 1776, 1476
+  size: 132, 106
+  orig: 132, 106
+  offset: 0, 0
+  index: -1
+s-light-b
+  rotate: false
+  xy: 2035, 87
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 1639, 1560
+  size: 130, 89
+  orig: 130, 89
+  offset: 0, 0
+  index: -1
+st1
+  rotate: false
+  xy: 1807, 1029
+  size: 218, 207
+  orig: 218, 207
+  offset: 0, 0
+  index: -1
+st2
+  rotate: true
+  xy: 1959, 1544
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+st3
+  rotate: true
+  xy: 1910, 1476
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+tg
+  rotate: true
+  xy: 1488, 825
+  size: 183, 322
+  orig: 183, 322
+  offset: 0, 0
+  index: -1

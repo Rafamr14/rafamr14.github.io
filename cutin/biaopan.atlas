@@ -1,0 +1,118 @@
+
+biaopan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ZZ
+  rotate: false
+  xy: 535, 621
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+bp
+  rotate: false
+  xy: 682, 253
+  size: 155, 156
+  orig: 155, 156
+  offset: 0, 0
+  index: -1
+g3
+  rotate: false
+  xy: 535, 675
+  size: 399, 306
+  orig: 399, 306
+  offset: 0, 0
+  index: -1
+g4
+  rotate: true
+  xy: 379, 245
+  size: 345, 301
+  orig: 345, 301
+  offset: 0, 0
+  index: -1
+g5
+  rotate: false
+  xy: 2, 2
+  size: 226, 211
+  orig: 226, 211
+  offset: 0, 0
+  index: -1
+g6
+  rotate: false
+  xy: 577, 116
+  size: 142, 127
+  orig: 142, 127
+  offset: 0, 0
+  index: -1
+hong
+  rotate: false
+  xy: 230, 45
+  size: 134, 168
+  orig: 134, 168
+  offset: 0, 0
+  index: -1
+hong_g
+  rotate: false
+  xy: 839, 239
+  size: 121, 170
+  orig: 121, 170
+  offset: 0, 0
+  index: -1
+huang
+  rotate: true
+  xy: 366, 47
+  size: 115, 163
+  orig: 115, 163
+  offset: 0, 0
+  index: -1
+huang_g
+  rotate: false
+  xy: 721, 89
+  size: 116, 162
+  orig: 116, 162
+  offset: 0, 0
+  index: -1
+kd
+  rotate: false
+  xy: 839, 152
+  size: 98, 85
+  orig: 98, 85
+  offset: 0, 0
+  index: -1
+lan
+  rotate: true
+  xy: 936, 785
+  size: 196, 79
+  orig: 196, 79
+  offset: 0, 0
+  index: -1
+lan_guang
+  rotate: false
+  xy: 379, 164
+  size: 196, 79
+  orig: 196, 79
+  offset: 0, 0
+  index: -1
+mtl
+  rotate: false
+  xy: 2, 592
+  size: 531, 389
+  orig: 531, 389
+  offset: 0, 0
+  index: -1
+yunap
+  rotate: false
+  xy: 2, 215
+  size: 375, 375
+  orig: 375, 375
+  offset: 0, 0
+  index: -1
+zq
+  rotate: true
+  xy: 682, 411
+  size: 262, 257
+  orig: 262, 257
+  offset: 0, 0
+  index: -1

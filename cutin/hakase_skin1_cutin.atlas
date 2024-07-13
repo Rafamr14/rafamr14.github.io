@@ -1,0 +1,475 @@
+
+hakase_skin1_cutin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boshi_0
+  rotate: false
+  xy: 909, 632
+  size: 287, 377
+  orig: 287, 377
+  offset: 0, 0
+  index: -1
+boshi_1
+  rotate: true
+  xy: 1591, 161
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1
+boshi_10
+  rotate: true
+  xy: 1516, 184
+  size: 137, 74
+  orig: 137, 74
+  offset: 0, 0
+  index: -1
+boshi_11
+  rotate: false
+  xy: 1902, 1725
+  size: 124, 322
+  orig: 124, 322
+  offset: 0, 0
+  index: -1
+boshi_12
+  rotate: false
+  xy: 1493, 607
+  size: 148, 433
+  orig: 148, 433
+  offset: 0, 0
+  index: -1
+boshi_13
+  rotate: false
+  xy: 1391, 1041
+  size: 448, 269
+  orig: 448, 269
+  offset: 0, 0
+  index: -1
+boshi_14
+  rotate: false
+  xy: 1697, 258
+  size: 83, 98
+  orig: 83, 98
+  offset: 0, 0
+  index: -1
+boshi_15
+  rotate: false
+  xy: 909, 1012
+  size: 60, 57
+  orig: 60, 57
+  offset: 0, 0
+  index: -1
+boshi_16
+  rotate: true
+  xy: 1640, 469
+  size: 62, 202
+  orig: 62, 202
+  offset: 0, 0
+  index: -1
+boshi_17
+  rotate: true
+  xy: 1, 13
+  size: 110, 369
+  orig: 110, 369
+  offset: 0, 0
+  index: -1
+boshi_18
+  rotate: false
+  xy: 1398, 182
+  size: 117, 139
+  orig: 117, 139
+  offset: 0, 0
+  index: -1
+boshi_19
+  rotate: false
+  xy: 1082, 133
+  size: 119, 187
+  orig: 119, 187
+  offset: 0, 0
+  index: -1
+boshi_2
+  rotate: false
+  xy: 971, 7
+  size: 78, 93
+  orig: 78, 93
+  offset: 0, 0
+  index: -1
+boshi_20
+  rotate: false
+  xy: 1840, 1079
+  size: 207, 231
+  orig: 207, 231
+  offset: 0, 0
+  index: -1
+boshi_21
+  rotate: true
+  xy: 1384, 507
+  size: 136, 97
+  orig: 136, 97
+  offset: 0, 0
+  index: -1
+boshi_22
+  rotate: false
+  xy: 371, 16
+  size: 146, 107
+  orig: 146, 107
+  offset: 0, 0
+  index: -1
+boshi_23
+  rotate: false
+  xy: 1921, 1311
+  size: 91, 114
+  orig: 91, 114
+  offset: 0, 0
+  index: -1
+boshi_24
+  rotate: false
+  xy: 1391, 1010
+  size: 74, 30
+  orig: 74, 30
+  offset: 0, 0
+  index: -1
+boshi_25
+  rotate: false
+  xy: 518, 16
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+boshi_26
+  rotate: true
+  xy: 1149, 562
+  size: 69, 46
+  orig: 69, 46
+  offset: 0, 0
+  index: -1
+boshi_27
+  rotate: true
+  xy: 1391, 1407
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+boshi_28
+  rotate: false
+  xy: 1035, 1224
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+boshi_29
+  rotate: false
+  xy: 2013, 1372
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+boshi_3
+  rotate: false
+  xy: 901, 1
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+boshi_30
+  rotate: false
+  xy: 597, 27
+  size: 74, 64
+  orig: 74, 64
+  offset: 0, 0
+  index: -1
+boshi_31
+  rotate: true
+  xy: 2027, 2010
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+boshi_32
+  rotate: true
+  xy: 1384, 470
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+boshi_33
+  rotate: false
+  xy: 1697, 229
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+boshi_34
+  rotate: true
+  xy: 2027, 1980
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+boshi_35
+  rotate: false
+  xy: 1391, 1367
+  size: 25, 39
+  orig: 25, 39
+  offset: 0, 0
+  index: -1
+boshi_36
+  rotate: false
+  xy: 1902, 1682
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+boshi_37
+  rotate: false
+  xy: 1035, 1169
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+boshi_38
+  rotate: false
+  xy: 1843, 479
+  size: 39, 52
+  orig: 39, 52
+  offset: 0, 0
+  index: -1
+boshi_39
+  rotate: false
+  xy: 1081, 1010
+  size: 309, 443
+  orig: 309, 443
+  offset: 0, 0
+  index: -1
+boshi_4
+  rotate: false
+  xy: 2009, 867
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+boshi_40
+  rotate: false
+  xy: 901, 101
+  size: 180, 219
+  orig: 180, 219
+  offset: 0, 0
+  index: -1
+boshi_41
+  rotate: true
+  xy: 909, 532
+  size: 99, 239
+  orig: 99, 239
+  offset: 0, 0
+  index: -1
+boshi_42
+  rotate: false
+  xy: 1790, 360
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+boshi_43
+  rotate: false
+  xy: 885, 1070
+  size: 149, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+boshi_44
+  rotate: false
+  xy: 901, 321
+  size: 209, 210
+  orig: 209, 210
+  offset: 0, 0
+  index: -1
+boshi_45
+  rotate: false
+  xy: 1339, 150
+  size: 58, 163
+  orig: 58, 163
+  offset: 0, 0
+  index: -1
+boshi_46
+  rotate: false
+  xy: 1581, 333
+  size: 103, 128
+  orig: 103, 128
+  offset: 0, 0
+  index: -1
+boshi_47
+  rotate: false
+  xy: 1897, 533
+  size: 106, 204
+  orig: 106, 204
+  offset: 0, 0
+  index: -1
+boshi_48
+  rotate: false
+  xy: 1864, 738
+  size: 144, 169
+  orig: 144, 169
+  offset: 0, 0
+  index: -1
+boshi_49
+  rotate: true
+  xy: 1209, 314
+  size: 140, 177
+  orig: 140, 177
+  offset: 0, 0
+  index: -1
+boshi_5
+  rotate: true
+  xy: 672, 31
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+boshi_50
+  rotate: false
+  xy: 1111, 326
+  size: 97, 205
+  orig: 97, 205
+  offset: 0, 0
+  index: -1
+boshi_51
+  rotate: true
+  xy: 1591, 226
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+boshi_52
+  rotate: false
+  xy: 1197, 644
+  size: 295, 365
+  orig: 295, 365
+  offset: 0, 0
+  index: -1
+boshi_53
+  rotate: false
+  xy: 1864, 908
+  size: 183, 170
+  orig: 183, 170
+  offset: 0, 0
+  index: -1
+boshi_54
+  rotate: true
+  xy: 557, 92
+  size: 472, 343
+  orig: 472, 343
+  offset: 0, 0
+  index: -1
+boshi_55
+  rotate: false
+  xy: 1202, 142
+  size: 136, 171
+  orig: 136, 171
+  offset: 0, 0
+  index: -1
+boshi_56
+  rotate: false
+  xy: 1642, 532
+  size: 254, 205
+  orig: 254, 205
+  offset: 0, 0
+  index: -1
+boshi_57
+  rotate: true
+  xy: 1387, 322
+  size: 139, 193
+  orig: 139, 193
+  offset: 0, 0
+  index: -1
+boshi_58
+  rotate: true
+  xy: 1482, 462
+  size: 144, 157
+  orig: 144, 157
+  offset: 0, 0
+  index: -1
+boshi_59
+  rotate: false
+  xy: 557, 565
+  size: 351, 504
+  orig: 351, 504
+  offset: 0, 0
+  index: -1
+boshi_6
+  rotate: true
+  xy: 1082, 104
+  size: 28, 37
+  orig: 28, 37
+  offset: 0, 0
+  index: -1
+boshi_60
+  rotate: false
+  xy: 885, 1268
+  size: 195, 779
+  orig: 195, 779
+  offset: 0, 0
+  index: -1
+boshi_61
+  rotate: true
+  xy: 1417, 1311
+  size: 336, 503
+  orig: 336, 503
+  offset: 0, 0
+  index: -1
+boshi_62
+  rotate: false
+  xy: 1081, 1454
+  size: 335, 593
+  orig: 335, 593
+  offset: 0, 0
+  index: -1
+boshi_63
+  rotate: false
+  xy: 1, 1070
+  size: 883, 977
+  orig: 883, 977
+  offset: 0, 0
+  index: -1
+boshi_64
+  rotate: false
+  xy: 1417, 1648
+  size: 484, 399
+  orig: 484, 399
+  offset: 0, 0
+  index: -1
+boshi_65
+  rotate: false
+  xy: 1642, 738
+  size: 221, 302
+  orig: 221, 302
+  offset: 0, 0
+  index: -1
+boshi_66
+  rotate: true
+  xy: 1, 124
+  size: 945, 555
+  orig: 945, 555
+  offset: 0, 0
+  index: -1
+boshi_7
+  rotate: false
+  xy: 1209, 455
+  size: 174, 188
+  orig: 174, 188
+  offset: 0, 0
+  index: -1
+boshi_8
+  rotate: false
+  xy: 1685, 357
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+boshi_9
+  rotate: true
+  xy: 1921, 1426
+  size: 298, 126
+  orig: 298, 126
+  offset: 0, 0
+  index: -1

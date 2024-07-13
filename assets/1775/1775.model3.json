@@ -1,0 +1,143 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "1775.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "1775.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/1_CN.motion3.json"
+        },
+        {
+          "File": "motions/1_JP.motion3.json"
+        },
+        {
+          "File": "motions/2_CN.motion3.json"
+        },
+        {
+          "File": "motions/2_JP.motion3.json"
+        },
+        {
+          "File": "motions/3_CN.motion3.json"
+        },
+        {
+          "File": "motions/3_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_1_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_1_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_2_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_2_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_3_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_3_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_4_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_4_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_5_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_5_JP.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_6_CN.motion3.json"
+        },
+        {
+          "File": "motions/Greetings_6_JP.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch1_CN.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch1_JP.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch2_CN.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch2_JP.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch3_CN.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch3_JP.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch4_CN.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch4_JP.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch5_CN.motion3.json"
+        },
+        {
+          "File": "motions/kiana_touch5_JP.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch1_CN.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch1_JP.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch2_CN.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch2_JP.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch3_CN.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch3_JP.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch4_CN.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch4_JP.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch5_CN.motion3.json"
+        },
+        {
+          "File": "motions/Mei_touch5_JP.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamBirdEyeROpen",
+        "ParamBirdEyeLOpen",
+        "ParamSeparator10",
+        "ParamSeparator2"
+      ]
+    }
+  ]
+}

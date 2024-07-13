@@ -1,0 +1,69 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "1641.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "1641.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/birth_CN.motion3.json"
+        },
+        {
+          "File": "motions/birth_JP.motion3.json"
+        },
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/StoryCG_002.motion3.json"
+        },
+        {
+          "File": "motions/touch1.motion3.json"
+        },
+        {
+          "File": "motions/touch1_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch2.motion3.json"
+        },
+        {
+          "File": "motions/touch2_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch3.motion3.json"
+        },
+        {
+          "File": "motions/touch3_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch4.motion3.json"
+        },
+        {
+          "File": "motions/touch4_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch5.motion3.json"
+        },
+        {
+          "File": "motions/touch5_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch6.motion3.json"
+        },
+        {
+          "File": "motions/touch6_JP.motion3.json"
+        },
+        {
+          "File": "motions/touch7.motion3.json"
+        },
+        {
+          "File": "motions/touch7_JP.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": []
+}

@@ -1,0 +1,76 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "1782.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "1782.physics3.json",
+    "Motions": {
+      "": [
+        {
+          "File": "motions/idle.motion3.json"
+        },
+        {
+          "File": "motions/live2d_001_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_001_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_002_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_002_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_003_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_003_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_004_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_004_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_005_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_005_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_006_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_006_JP.motion3.json"
+        },
+        {
+          "File": "motions/live2d_007_CN.motion3.json"
+        },
+        {
+          "File": "motions/live2d_007_JP.motion3.json"
+        }
+      ]
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "PARAM_EYE_R_OPEN",
+        "PARAM_EYE_L_OPEN"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": [
+        "PARAM_MOUTH_OPEN_Y"
+      ]
+    }
+  ]
+}
