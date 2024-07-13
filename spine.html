@@ -43,6 +43,16 @@
         margin: 0;
     }
 
+    #botonesanimacion {
+        display: flex;
+        flex-wrap: nowrap;
+        overflow-x: auto;
+        gap: 10px;
+        justify-content: flex-start;
+        padding: 10px;
+        padding-left: 40px;
+    }
+
 
     .container-fluid, .row {
         height: 100%;
@@ -111,9 +121,9 @@
                     <select id="modelSelectorBeta" class="form-select"></select>
                 </div>
                 <div class="sidebar-section mt-3">
-                    <input type="button" value="Limpiar" id="btnLimpiar" class="btn btn-primary">
+                    <input type="button" value="Clean" id="btnLimpiar" class="btn btn-primary">
                 </div>
-                <label for="sliderTamanoCanvas">Ajustar tama&ntilde;o de modelo:</label>
+                <label for="sliderTamanoCanvas">Resize the model</label>
                 <input type="range" min="1" max="20" value="1" class="slider" id="sliderTamanoCanvas">
             </div>
 
