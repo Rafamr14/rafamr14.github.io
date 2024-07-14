@@ -183,6 +183,7 @@
         let modelSelectorcrossfaction3 = document.getElementById("modelSelectorcrossfaction3");
         let modelSelectorfaction = document.getElementById("modelSelectorfaction");
         let modelSelectorBeta = document.getElementById("modelSelectorBeta");
+        let sliderTamanoCanvas = document.getElementById("sliderTamanoCanvas");
 
         function cargarOpcionesDesdeJsonSpine() {
             fetch('ggz_poster.json')
@@ -393,6 +394,16 @@
             widgetDivfaction.style.display = "none";
             widgetDivBeta.style.display = "none";
             IdBotonesAnimacion.style.display = "none";
+
+            modelSelectorSpine.selectedIndex = 0;
+            modelSelectorCutIn.selectedIndex = 0;
+            modelSelectorArtificial.selectedIndex = 0;
+            modelSelectorCorssfaction2.selectedIndex = 0;
+            modelSelectorcrossfaction3.selectedIndex = 0;
+            modelSelectorfaction.selectedIndex = 0;
+            modelSelectorBeta.selectedIndex = 0;
+
+            sliderTamanoCanvas.value = 1;
         }
 
         var widgetContainer = document.getElementById("widget-container");
