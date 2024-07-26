@@ -50,7 +50,7 @@
             display: flex;
             flex-direction: column;
             overflow-y: auto;
-            max-height: 90vh;
+            max-height: 85vh; /* Cambiado a 100vh para que sea igual al alto de la ventana */
             gap: 10px;
             justify-content: flex-start;
             padding: 10px;
@@ -122,8 +122,6 @@
         </div>
     </div>
 </nav>
-
-
 <div class="container-fluid h-100">
     <div class="row h-100">
         <!-- Left Sidebar -->
@@ -198,7 +196,12 @@
         </div>
         <!-- Right Sidebar for Animation Buttons -->
         <div class="col-md-3 col-lg-2 d-md-block bg-light sidebar sticky-top">
-            <div class="position-sticky pt-3" id="animacionBotones">
+            <div class="position-sticky pt-3">
+                <div class="sidebar-section">
+                    <h4>Select Skin</h4>
+                    <select id="skinSelector" class="form-select"></select>
+                </div>
+                <div id="animacionBotones"></div>
             </div>
         </div>
     </div>
@@ -242,6 +245,7 @@
         let modelSelectorSkin = document.getElementById("modelSelectorSkin");
         let modelSelectorUI = document.getElementById("modelSelectorUI");
         let modelSelectorPlayer = document.getElementById("modelSelectorPlayer");
+        let skinSelector = document.getElementById("skinSelector");
         let sliderTamanoCanvas = document.getElementById("sliderTamanoCanvas");
 
         document.getElementById("toggleSidebar").addEventListener("click", function() {
@@ -447,6 +451,9 @@
                         });
 
                         sidebar.appendChild(buttonsDiv);
+
+                        // Cargar las opciones de skin
+                        cargarOpcionesSkin(widget.skeleton.data.skins);
                     },
                     error: function(Player, reason) {
                         widgetDiv.setAttribute("error", reason)
@@ -467,6 +474,27 @@
             widgetDiv.style.display = "block";
             widgetDiv.style.width = `${widget.bounds.size.x}px`;
             widgetDiv.style.height = `${widget.bounds.size.y}px`;
+        }
+
+        function cargarOpcionesSkin(skins) {
+            skinSelector.innerHTML = ''; // Limpiar opciones anteriores
+            skins.forEach(function(skin) {
+                let opcion = new Option(skin.name, skin.name);
+                skinSelector.add(opcion);
+            });
+
+            skinSelector.addEventListener("change", function() {
+                let skinName = this.value;
+                changeSkin(skinName);
+            });
+        }
+
+        function changeSkin(skinName) {
+            if (spineWidget && spineWidget.skeleton) {
+                spineWidget.setSkinByName(skinName);
+                spineWidget.skeleton.setToSetupPose();
+                spineWidget.state.apply(spineWidget.skeleton);
+            }
         }
 
         document.getElementById("spine-widget-spine").style.display = "none";
