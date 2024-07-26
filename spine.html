@@ -170,7 +170,7 @@
                     <select id="modelSelectorUI" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/player</h4>
+                    <h4>Spineres/Player</h4>
                     <select id="modelSelectorPlayer" class="form-select"></select>
                 </div>
                 <div class="sidebar-section mt-3">
@@ -193,7 +193,7 @@
                 <div id="spine-widget-pet" class="spine-widget mt-4"></div>
                 <div id="spine-widget-skin" class="spine-widget mt-4"></div>
                 <div id="spine-widget-ui" class="spine-widget mt-4"></div>
-                <div id="spine-widget-player" class="spine-widget mt-4"></div>
+                <div id="spine-widget-Player" class="spine-widget mt-4"></div>
             </div>
         </div>
         <!-- Right Sidebar for Animation Buttons -->
@@ -217,7 +217,7 @@
         let folderPet = `spine/pet/`;
         let folderSkin = `spine/skin/`;
         let folderUI = `spine/ui/`;
-        let folderPlayer = `spine/player/`;
+        let folderPlayer = `spine/Player/`;
         let defaultAnimationName = "eye_idle";
         let defaultSkinName = "normal";
         let widgetDivSpine = document.getElementById("spine-widget-spine");
@@ -230,7 +230,7 @@
         let widgetDivPet = document.getElementById("spine-widget-pet");
         let widgetDivSkin = document.getElementById("spine-widget-skin");
         let widgetDivUI = document.getElementById("spine-widget-ui");
-        let widgetDivPlayer = document.getElementById("spine-widget-player");
+        let widgetDivPlayer = document.getElementById("spine-widget-Player");
         let modelSelectorSpine = document.getElementById("modelSelectorSpine");
         let modelSelectorCutIn = document.getElementById("modelSelectorCutIn");
         let modelSelectorArtificial = document.getElementById("modelSelectorArtificial");
@@ -448,7 +448,7 @@
 
                         sidebar.appendChild(buttonsDiv);
                     },
-                    error: function(player, reason) {
+                    error: function(Player, reason) {
                         widgetDiv.setAttribute("error", reason)
                     }
                 });
@@ -479,7 +479,7 @@
         document.getElementById("spine-widget-pet").style.display = "none";
         document.getElementById("spine-widget-skin").style.display = "none";
         document.getElementById("spine-widget-ui").style.display = "none";
-        document.getElementById("spine-widget-player").style.display = "none";
+        document.getElementById("spine-widget-Player").style.display = "none";
 
         let btnLimpiar = document.getElementById("btnLimpiar");
 
@@ -498,7 +498,7 @@
             let widgetDivPet = document.getElementById("spine-widget-pet");
             let widgetDivSkin = document.getElementById("spine-widget-skin");
             let widgetDivUI = document.getElementById("spine-widget-ui");
-            let widgetDivPlayer = document.getElementById("spine-widget-player");
+            let widgetDivPlayer = document.getElementById("spine-widget-Player");
             let IdBotonesAnimacion = document.getElementById("botonesanimacion");
 
             widgetDivSpine.innerHTML = '';
