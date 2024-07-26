@@ -1,0 +1,279 @@
+
+Equip_21068.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+paotai_0
+  rotate: false
+  xy: 270, 237
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+paotai_1
+  rotate: false
+  xy: 459, 324
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+paotai_10
+  rotate: true
+  xy: 319, 213
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+paotai_11
+  rotate: false
+  xy: 308, 69
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+paotai_12
+  rotate: false
+  xy: 270, 75
+  size: 36, 126
+  orig: 36, 126
+  offset: 0, 0
+  index: -1
+paotai_13
+  rotate: true
+  xy: 367, 195
+  size: 35, 86
+  orig: 35, 86
+  offset: 0, 0
+  index: -1
+paotai_15
+  rotate: false
+  xy: 30, 3
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+paotai_17
+  rotate: false
+  xy: 270, 55
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+paotai_2
+  rotate: false
+  xy: 480, 360
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+paotai_21
+  rotate: true
+  xy: 435, 119
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+paotai_22
+  rotate: false
+  xy: 373, 13
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+paotai_23
+  rotate: false
+  xy: 367, 232
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+paotai_24
+  rotate: false
+  xy: 441, 458
+  size: 67, 52
+  orig: 67, 52
+  offset: 0, 0
+  index: -1
+paotai_25
+  rotate: false
+  xy: 2, 55
+  size: 266, 190
+  orig: 266, 190
+  offset: 0, 0
+  index: -1
+paotai_26
+  rotate: true
+  xy: 349, 108
+  size: 37, 84
+  orig: 37, 84
+  offset: 0, 0
+  index: -1
+paotai_27
+  rotate: false
+  xy: 2, 16
+  size: 307, 37
+  orig: 307, 37
+  offset: 0, 0
+  index: -1
+paotai_28
+  rotate: false
+  xy: 357, 315
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1
+paotai_29
+  rotate: true
+  xy: 448, 240
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+paotai_3
+  rotate: false
+  xy: 478, 326
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+paotai_30
+  rotate: false
+  xy: 372, 73
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+paotai_31
+  rotate: false
+  xy: 319, 451
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+paotai_32
+  rotate: false
+  xy: 319, 315
+  size: 36, 134
+  orig: 36, 134
+  offset: 0, 0
+  index: -1
+paotai_33
+  rotate: false
+  xy: 308, 104
+  size: 39, 97
+  orig: 39, 97
+  offset: 0, 0
+  index: -1
+paotai_35
+  rotate: false
+  xy: 2, 2
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+paotai_39
+  rotate: true
+  xy: 480, 342
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+paotai_4
+  rotate: false
+  xy: 373, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+paotai_40
+  rotate: false
+  xy: 459, 343
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+paotai_42
+  rotate: true
+  xy: 440, 167
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+paotai_43
+  rotate: true
+  xy: 311, 11
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+paotai_44
+  rotate: false
+  xy: 357, 363
+  size: 81, 86
+  orig: 81, 86
+  offset: 0, 0
+  index: -1
+paotai_45
+  rotate: false
+  xy: 440, 393
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+paotai_46
+  rotate: false
+  xy: 2, 247
+  size: 276, 263
+  orig: 276, 263
+  offset: 0, 0
+  index: -1
+paotai_47
+  rotate: false
+  xy: 349, 147
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+paotai_49
+  rotate: true
+  xy: 280, 203
+  size: 307, 37
+  orig: 307, 37
+  offset: 0, 0
+  index: -1
+paotai_5
+  rotate: false
+  xy: 440, 363
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+paotai_6
+  rotate: false
+  xy: 384, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+paotai_7
+  rotate: false
+  xy: 440, 146
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+paotai_8
+  rotate: false
+  xy: 448, 232
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+paotai_9
+  rotate: false
+  xy: 459, 315
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1

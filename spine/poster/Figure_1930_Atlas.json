@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Figure_1930_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4560425247718191483
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1003674459981658938
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

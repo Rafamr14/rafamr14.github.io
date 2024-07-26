@@ -1,0 +1,97 @@
+
+youchong.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1
+  rotate: true
+  xy: 130, 15
+  size: 19, 47
+  orig: 19, 47
+  offset: 0, 0
+  index: -1
+arm2
+  rotate: false
+  xy: 224, 14
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 2, 145
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+face2
+  rotate: true
+  xy: 137, 118
+  size: 133, 106
+  orig: 133, 106
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 2, 2
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 224, 70
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: true
+  xy: 2, 42
+  size: 101, 84
+  orig: 101, 84
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 88, 7
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+jiao1
+  rotate: true
+  xy: 130, 36
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+jiao2
+  rotate: false
+  xy: 179, 13
+  size: 23, 47
+  orig: 23, 47
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 132, 62
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+wing1
+  rotate: true
+  xy: 53, 3
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: true
+  xy: 88, 67
+  size: 76, 42
+  orig: 76, 42
+  offset: 0, 0
+  index: -1

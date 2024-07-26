@@ -1,0 +1,20 @@
+
+439_1.png
+size: 399,79
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 278, 77
+  orig: 383, 158
+  offset: 103, 13
+  index: -1
+rpg_2
+  rotate: false
+  xy: 280, 40
+  size: 118, 38
+  orig: 237, 68
+  offset: 0, 16
+  index: -1

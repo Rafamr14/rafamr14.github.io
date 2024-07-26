@@ -1,0 +1,83 @@
+
+xiaotu_black.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm
+  rotate: false
+  xy: 2, 20
+  size: 113, 145
+  orig: 113, 145
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 335, 180
+  size: 153, 148
+  orig: 153, 148
+  offset: 0, 0
+  index: -1
+sz1
+  rotate: false
+  xy: 350, 84
+  size: 59, 94
+  orig: 59, 94
+  offset: 0, 0
+  index: -1
+sz2
+  rotate: false
+  xy: 411, 103
+  size: 54, 75
+  orig: 54, 75
+  offset: 0, 0
+  index: -1
+wb
+  rotate: true
+  xy: 327, 335
+  size: 75, 157
+  orig: 75, 157
+  offset: 0, 0
+  index: -1
+xiaotu_20
+  rotate: false
+  xy: 2, 167
+  size: 147, 343
+  orig: 147, 343
+  offset: 0, 0
+  index: -1
+xiaotu_30
+  rotate: true
+  xy: 327, 412
+  size: 98, 183
+  orig: 98, 183
+  offset: 0, 0
+  index: -1
+xiaotu_50
+  rotate: true
+  xy: 117, 35
+  size: 114, 144
+  orig: 114, 144
+  offset: 0, 0
+  index: -1
+xiaotu_60
+  rotate: true
+  xy: 263, 59
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+xiaotu_70
+  rotate: false
+  xy: 151, 327
+  size: 174, 183
+  orig: 174, 183
+  offset: 0, 0
+  index: -1
+xiaotu_80
+  rotate: false
+  xy: 151, 151
+  size: 182, 174
+  orig: 182, 174
+  offset: 0, 0
+  index: -1

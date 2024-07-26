@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "20761_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2572023183527473738
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2661958073400800198
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

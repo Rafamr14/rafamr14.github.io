@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "wucaidapao_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -617911814191486977
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7261232201069131787
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

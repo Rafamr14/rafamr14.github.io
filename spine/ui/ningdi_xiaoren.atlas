@@ -1,0 +1,76 @@
+
+ningdi_xiaoren.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 354, 76
+  size: 69, 99
+  orig: 69, 99
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 393, 204
+  size: 76, 111
+  orig: 76, 111
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 279, 72
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 161, 36
+  size: 117, 147
+  orig: 117, 147
+  offset: 0, 0
+  index: -1
+fa1
+  rotate: false
+  xy: 304, 295
+  size: 82, 215
+  orig: 82, 215
+  offset: 0, 0
+  index: -1
+fa2
+  rotate: false
+  xy: 387, 316
+  size: 94, 194
+  orig: 94, 194
+  offset: 0, 0
+  index: -1
+maizi
+  rotate: true
+  xy: 304, 176
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+pifeng
+  rotate: false
+  xy: 1, 1
+  size: 159, 182
+  orig: 159, 182
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 1, 184
+  size: 302, 326
+  orig: 302, 326
+  offset: 0, 0
+  index: -1
+yan
+  rotate: false
+  xy: 482, 459
+  size: 23, 51
+  orig: 23, 51
+  offset: 0, 0
+  index: -1

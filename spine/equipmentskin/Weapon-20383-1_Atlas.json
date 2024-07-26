@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Weapon-20383-1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3675966991047013058
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8029985614156137219
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

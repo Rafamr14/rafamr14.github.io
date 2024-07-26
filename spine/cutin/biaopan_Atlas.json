@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "biaopan_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6286815226807498763
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9075178469209169970
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

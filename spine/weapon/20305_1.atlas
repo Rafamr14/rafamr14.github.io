@@ -1,0 +1,20 @@
+
+20305_1.png
+size: 543,66
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 270, 64
+  orig: 360, 110
+  offset: 46, 18
+  index: -1
+dianju2
+  rotate: false
+  xy: 272, 1
+  size: 270, 64
+  orig: 360, 110
+  offset: 46, 18
+  index: -1

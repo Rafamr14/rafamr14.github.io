@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Throw_hand_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7305256160129345035
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5803504412820538349
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

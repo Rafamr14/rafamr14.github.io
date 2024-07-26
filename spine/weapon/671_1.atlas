@@ -1,0 +1,20 @@
+
+671_1.png
+size: 377,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 337, 123
+  orig: 383, 158
+  offset: 45, 4
+  index: -1
+rpg_2
+  rotate: true
+  xy: 339, 59
+  size: 65, 37
+  orig: 237, 68
+  offset: 13, 14
+  index: -1

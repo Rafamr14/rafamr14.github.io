@@ -110,28 +110,44 @@
                     <select id="modelSelectorSpine" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/cutin</h4>
+                    <h4>Spineres/Cutin</h4>
                     <select id="modelSelectorCutIn" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/artificial</h4>
+                    <h4>Spineres/Artificial</h4>
                     <select id="modelSelectorArtificial" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/faction</h4>
-                    <select id="modelSelectorfaction" class="form-select"></select>
+                    <h4>Spineres/Faction</h4>
+                    <select id="modelSelectorFaction" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/Corssfaction2</h4>
-                    <select id="modelSelectorCorssfaction2" class="form-select"></select>
+                    <h4>Spineres/Crossfaction</h4>
+                    <select id="modelSelectorCrossfaction" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/Crossfaction3</h4>
-                    <select id="modelSelectorcrossfaction3" class="form-select"></select>
+                    <h4>Spineres/NPC</h4>
+                    <select id="modelSelectorNPC" class="form-select"></select>
                 </div>
                 <div class="sidebar-section">
-                    <h4>Spineres/11.3beta</h4>
-                    <select id="modelSelectorBeta" class="form-select"></select>
+                    <h4>Spineres/Carrier</h4>
+                    <select id="modelSelectorCarrier" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Pet</h4>
+                    <select id="modelSelectorPet" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Skin</h4>
+                    <select id="modelSelectorSkin" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/UI</h4>
+                    <select id="modelSelectorUI" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Player</h4>
+                    <select id="modelSelectorPlayer" class="form-select"></select>
                 </div>
                 <div id="animacionBotones" class="sidebar-section mt-3">
                 </div>
@@ -147,10 +163,14 @@
                 <div id="spine-widget-spine" class="spine-widget mt-4"></div>
                 <div id="spine-widget-cutin" class="spine-widget mt-4"></div>
                 <div id="spine-widget-artificial" class="spine-widget mt-4"></div>
-                <div id="spine-widget-Corssfaction2" class="spine-widget mt-4"></div>
-                <div id="spine-widget-Crossfaction3" class="spine-widget mt-4"></div>
+                <div id="spine-widget-crossfaction" class="spine-widget mt-4"></div>
                 <div id="spine-widget-faction" class="spine-widget mt-4"></div>
-                <div id="spine-widget-beta" class="spine-widget mt-4"></div>
+                <div id="spine-widget-npc" class="spine-widget mt-4"></div>
+                <div id="spine-widget-carrier" class="spine-widget mt-4"></div>
+                <div id="spine-widget-pet" class="spine-widget mt-4"></div>
+                <div id="spine-widget-skin" class="spine-widget mt-4"></div>
+                <div id="spine-widget-ui" class="spine-widget mt-4"></div>
+                <div id="spine-widget-player" class="spine-widget mt-4"></div>
             </div>
         </div>
     </div>
@@ -159,95 +179,144 @@
 <script>
     var spineWidget;
     document.addEventListener("DOMContentLoaded", function() {
-        let folderSpine = `spine/`;
-        let folderCutIn = `cutin/`;
-        let folderArtificial = `artificial/`;
-        let folderCorssfaction2 = `Corssfaction2/`;
-        let foldercrossfaction3 = `crossfaction3/`;
-        let folderfaction = `faction/`;
-        let folderBeta = `11.3Beta/`;
+        let folderSpine = `spine/poster/`;
+        let folderCutIn = `spine/cutin/`;
+        let folderArtificial = `spine/artificial/`;
+        let folderCrossfaction = `spine/crossfaction/`;
+        let folderFaction = `spine/faction/`;
+        let folderNPC = `spine/npc/`;
+        let folderCarrier = `spine/carrier/`;
+        let folderPet = `spine/pet/`;
+        let folderSkin = `spine/skin/`;
+        let folderUI = `spine/ui/`;
+        let folderPlayer = `spine/player/`;
         let defaultAnimationName = "eye_idle";
         let defaultSkinName = "normal";
         let widgetDivSpine = document.getElementById("spine-widget-spine");
         let widgetDivCutIn = document.getElementById("spine-widget-cutin");
-        let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
-        let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
-        let widgetDivartificial = document.getElementById("spine-widget-artificial");
-        let widgetDivfaction = document.getElementById("spine-widget-faction");
-        let widgetDivBeta = document.getElementById("spine-widget-beta");
+        let widgetDivArtificial = document.getElementById("spine-widget-artificial");
+        let widgetDivCrossfaction = document.getElementById("spine-widget-crossfaction");
+        let widgetDivFaction = document.getElementById("spine-widget-faction");
+        let widgetDivNPC = document.getElementById("spine-widget-npc");
+        let widgetDivCarrier = document.getElementById("spine-widget-carrier");
+        let widgetDivPet = document.getElementById("spine-widget-pet");
+        let widgetDivSkin = document.getElementById("spine-widget-skin");
+        let widgetDivUI = document.getElementById("spine-widget-ui");
+        let widgetDivPlayer = document.getElementById("spine-widget-player");
         let modelSelectorSpine = document.getElementById("modelSelectorSpine");
         let modelSelectorCutIn = document.getElementById("modelSelectorCutIn");
         let modelSelectorArtificial = document.getElementById("modelSelectorArtificial");
-        let modelSelectorCorssfaction2 = document.getElementById("modelSelectorCorssfaction2");
-        let modelSelectorcrossfaction3 = document.getElementById("modelSelectorcrossfaction3");
-        let modelSelectorfaction = document.getElementById("modelSelectorfaction");
-        let modelSelectorBeta = document.getElementById("modelSelectorBeta");
+        let modelSelectorCrossfaction = document.getElementById("modelSelectorCrossfaction");
+        let modelSelectorFaction = document.getElementById("modelSelectorFaction");
+        let modelSelectorNPC = document.getElementById("modelSelectorNPC");
+        let modelSelectorCarrier = document.getElementById("modelSelectorCarrier");
+        let modelSelectorPet = document.getElementById("modelSelectorPet");
+        let modelSelectorSkin = document.getElementById("modelSelectorSkin");
+        let modelSelectorUI = document.getElementById("modelSelectorUI");
+        let modelSelectorPlayer = document.getElementById("modelSelectorPlayer");
         let sliderTamanoCanvas = document.getElementById("sliderTamanoCanvas");
 
         function cargarOpcionesDesdeJsonSpine() {
-            fetch('ggz_poster.json')
+            fetch('data/poster.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorSpine, data.archivos, cargarSpine);
+                    cargarOpciones(modelSelectorSpine, data.files, cargarSpine);
                     limpiarWidgetDiv(widgetDivSpine);
                 })
-                .catch(error => console.error('Error al cargar los archivos de Spine: ', error));
+                .catch(error => console.error('Error al cargar los archivos de Poster: ', error));
         }
 
         function cargarOpcionesDesdeJsonCutIn() {
-            fetch('ggz_cutin.json')
+            fetch('data/cutin.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorCutIn, data.archivos, cargarCutIn);
+                    cargarOpciones(modelSelectorCutIn, data.files, cargarCutIn);
                     limpiarWidgetDiv(widgetDivCutIn);
                 })
                 .catch(error => console.error('Error al cargar los archivos de CutIn: ', error));
         }
         function cargarOpcionesDesdeJsonArtificial() {
-            fetch('ggz_artificial.json')
+            fetch('data/artificial.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorArtificial, data.archivos, cargarArtificial);
-                    limpiarWidgetDiv(widgetDivartificial);
+                    cargarOpciones(modelSelectorArtificial, data.files, cargarArtificial);
+                    limpiarWidgetDiv(widgetDivArtificial);
                 })
                 .catch(error => console.error('Error al cargar los archivos de Artificial: ', error));
         }
-        function cargarOpcionesDesdeJsonCorssfaction2() {
-            fetch('ggz_corssfaction2.json')
+        function cargarOpcionesDesdeJsonCrossfaction() {
+            fetch('data/crossfaction.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorCorssfaction2, data.archivos, cargarCorssfaction2);
-                    limpiarWidgetDiv(widgetDivCorssfaction2);
+                    cargarOpciones(modelSelectorCrossfaction, data.files, cargarCrossfaction);
+                    limpiarWidgetDiv(widgetDivCrossfaction);
                 })
-                .catch(error => console.error('Error al cargar los archivos de Corssfaction2: ', error));
+                .catch(error => console.error('Error al cargar los archivos de Crossfaction: ', error));
         }
-        function cargarOpcionesDesdeJsoncrossfaction3() {
-            fetch('ggz_crossfaction3.json')
+        function cargarOpcionesDesdeJsonFaction() {
+            fetch('data/faction.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorcrossfaction3, data.archivos, cargarCrossfaction3);
-                    limpiarWidgetDiv(widgetDivcrossfaction3);
-                })
-                .catch(error => console.error('Error al cargar los archivos de Crossfaction3: ', error));
-        }
-        function cargarOpcionesDesdeJsonfaction() {
-            fetch('ggz_faction.json')
-                .then(response => response.json())
-                .then(data => {
-                    cargarOpciones(modelSelectorfaction, data.archivos, cargarfaction);
-                    limpiarWidgetDiv(widgetDivfaction);
+                    cargarOpciones(modelSelectorFaction, data.files, cargarFaction);
+                    limpiarWidgetDiv(widgetDivFaction);
                 })
                 .catch(error => console.error('Error al cargar los archivos de Faction: ', error));
         }
-        function cargarOpcionesDesdeJsonBeta() {
-            fetch('ggz11.3beta.json')
+        function cargarOpcionesDesdeJsonNPC() {
+            fetch('data/npc.json')
                 .then(response => response.json())
                 .then(data => {
-                    cargarOpciones(modelSelectorBeta, data.archivos, cargarBeta);
-                    limpiarWidgetDiv(widgetDivBeta);
+                    cargarOpciones(modelSelectorNPC, data.files, cargarNPC);
+                    limpiarWidgetDiv(widgetDivNPC);
                 })
-                .catch(error => console.error('Error al cargar los archivos de Beta: ', error));
+                .catch(error => console.error('Error al cargar los archivos de NPC: ', error));
         }
+        function cargarOpcionesDesdeJsonCarrier() {
+            fetch('data/carrier.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorCarrier, data.files, cargarCarrier);
+                    limpiarWidgetDiv(widgetDivCarrier);
+                })
+                .catch(error => console.error('Error al cargar los archivos de Carrier: ', error));
+        }
+        function cargarOpcionesDesdeJsonPet() {
+            fetch('data/pet.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorPet, data.files, cargarPet);
+                    limpiarWidgetDiv(widgetDivPet);
+                })
+                .catch(error => console.error('Error al cargar los archivos de Pet: ', error));
+        }
+        function cargarOpcionesDesdeJsonSkin() {
+            fetch('data/skin.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorSkin, data.files, cargarSkin);
+                    limpiarWidgetDiv(widgetDivSkin);
+                })
+                .catch(error => console.error('Error al cargar los archivos de Skin: ', error));
+        }
+        function cargarOpcionesDesdeJsonUI() {
+            fetch('data/ui.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorUI, data.files, cargarUI);
+                    limpiarWidgetDiv(widgetDivUI);
+                })
+                .catch(error => console.error('Error al cargar los archivos de UI: ', error));
+        }
+        function cargarOpcionesDesdeJsonPlayer() {
+            fetch('data/player.json')
+                .then(response => response.json())
+                .then(data => {
+                    cargarOpciones(modelSelectorPlayer, data.files, cargarPlayer);
+                    limpiarWidgetDiv(widgetDivPlayer);
+                })
+                .catch(error => console.error('Error al cargar los archivos de Player: ', error));
+        }
+
         function cargarOpciones(selector, archivos, callbackCarga) {
             let placeholderOption = new Option("Select a model", "", true, true);
             placeholderOption.disabled = true;
@@ -278,24 +347,40 @@
             loadAnimation(widgetDivCutIn, folderCutIn, modelName);
         }
         function cargarArtificial(modelName) {
-            limpiarWidgetDiv(widgetDivartificial);
-            loadAnimation(widgetDivartificial, folderArtificial, modelName);
+            limpiarWidgetDiv(widgetDivArtificial);
+            loadAnimation(widgetDivArtificial, folderArtificial, modelName);
         }
-        function cargarCorssfaction2(modelName) {
-            limpiarWidgetDiv(widgetDivCorssfaction2);
-            loadAnimation(widgetDivCorssfaction2, folderCorssfaction2, modelName);
+        function cargarCrossfaction(modelName) {
+            limpiarWidgetDiv(widgetDivCrossfaction);
+            loadAnimation(widgetDivCrossfaction, folderCrossfaction, modelName);
         }
-        function cargarCrossfaction3(modelName) {
-            limpiarWidgetDiv(widgetDivcrossfaction3);
-            loadAnimation(widgetDivcrossfaction3, foldercrossfaction3, modelName);
+        function cargarFaction(modelName) {
+            limpiarWidgetDiv(widgetDivFaction);
+            loadAnimation(widgetDivFaction, folderFaction, modelName);
         }
-        function cargarfaction(modelName) {
-            limpiarWidgetDiv(widgetDivfaction);
-            loadAnimation(widgetDivfaction, folderfaction, modelName);
+        function cargarNPC(modelName) {
+            limpiarWidgetDiv(widgetDivNPC);
+            loadAnimation(widgetDivNPC, folderNPC, modelName);
         }
-        function cargarBeta(modelName) {
-            limpiarWidgetDiv(widgetDivBeta);
-            loadAnimation(widgetDivBeta, folderBeta, modelName);
+        function cargarCarrier(modelName) {
+            limpiarWidgetDiv(widgetDivCarrier);
+            loadAnimation(widgetDivCarrier, folderCarrier, modelName);
+        }
+        function cargarPet(modelName) {
+            limpiarWidgetDiv(widgetDivPet);
+            loadAnimation(widgetDivPet, folderPet, modelName);
+        }
+        function cargarSkin(modelName) {
+            limpiarWidgetDiv(widgetDivSkin);
+            loadAnimation(widgetDivSkin, folderSkin, modelName);
+        }
+        function cargarUI(modelName) {
+            limpiarWidgetDiv(widgetDivUI);
+            loadAnimation(widgetDivUI, folderUI, modelName);
+        }
+        function cargarPlayer(modelName) {
+            limpiarWidgetDiv(widgetDivPlayer);
+            loadAnimation(widgetDivPlayer, folderPlayer, modelName);
         }
 
         function loadAnimation(widgetDiv, folder, modelName) {
@@ -306,7 +391,7 @@
                 }
                 new spine.SpineWidget(widgetDiv.id, {
                     atlas: folder + modelName + ".atlas",
-                    skel: modelName + ".skel",
+                    skel: folder + modelName + ".skel",
                     backgroundColor: "#00000000",
                     premultipliedAlpha: true,
                     fitToCanvas: true,
@@ -355,10 +440,14 @@
         document.getElementById("spine-widget-spine").style.display = "none";
         document.getElementById("spine-widget-cutin").style.display = "none";
         document.getElementById("spine-widget-artificial").style.display = "none";
-        document.getElementById("spine-widget-Corssfaction2").style.display = "none";
-        document.getElementById("spine-widget-Crossfaction3").style.display = "none";
+        document.getElementById("spine-widget-crossfaction").style.display = "none";
         document.getElementById("spine-widget-faction").style.display = "none";
-        document.getElementById("spine-widget-beta").style.display = "none";
+        document.getElementById("spine-widget-npc").style.display = "none";
+        document.getElementById("spine-widget-carrier").style.display = "none";
+        document.getElementById("spine-widget-pet").style.display = "none";
+        document.getElementById("spine-widget-skin").style.display = "none";
+        document.getElementById("spine-widget-ui").style.display = "none";
+        document.getElementById("spine-widget-player").style.display = "none";
 
         let btnLimpiar = document.getElementById("btnLimpiar");
 
@@ -370,37 +459,53 @@
             let widgetDivSpine = document.getElementById("spine-widget-spine");
             let widgetDivCutIn = document.getElementById("spine-widget-cutin");
             let widgetDivArtificial = document.getElementById("spine-widget-artificial");
-            let widgetDivCorssfaction2 = document.getElementById("spine-widget-Corssfaction2");
-            let widgetDivcrossfaction3 = document.getElementById("spine-widget-Crossfaction3");
-            let widgetDivfaction = document.getElementById("spine-widget-faction");
-            let widgetDivBeta = document.getElementById("spine-widget-beta");
+            let widgetDivCrossfaction = document.getElementById("spine-widget-crossfaction");
+            let widgetDivFaction = document.getElementById("spine-widget-faction");
+            let widgetDivNPC = document.getElementById("spine-widget-npc");
+            let widgetDivCarrier = document.getElementById("spine-widget-carrier");
+            let widgetDivPet = document.getElementById("spine-widget-pet");
+            let widgetDivSkin = document.getElementById("spine-widget-skin");
+            let widgetDivUI = document.getElementById("spine-widget-ui");
+            let widgetDivPlayer = document.getElementById("spine-widget-player");
             let IdBotonesAnimacion = document.getElementById("botonesanimacion");
 
             widgetDivSpine.innerHTML = '';
             widgetDivCutIn.innerHTML = '';
             widgetDivArtificial.innerHTML = '';
-            widgetDivCorssfaction2.innerHTML = '';
-            widgetDivcrossfaction3.innerHTML = '';
-            widgetDivfaction.innerHTML = '';
-            widgetDivBeta.innerHTML = '';
+            widgetDivCrossfaction.innerHTML = '';
+            widgetDivFaction.innerHTML = '';
+            widgetDivNPC.innerHTML = '';
+            widgetDivCarrier.innerHTML = '';
+            widgetDivPet.innerHTML = '';
+            widgetDivSkin.innerHTML = '';
+            widgetDivUI.innerHTML = '';
+            widgetDivPlayer.innerHTML = '';
             IdBotonesAnimacion.innerHTML = '';
 
             widgetDivSpine.style.display = "none";
             widgetDivCutIn.style.display = "none";
             widgetDivArtificial.style.display = "none";
-            widgetDivCorssfaction2.style.display = "none";
-            widgetDivcrossfaction3.style.display = "none";
-            widgetDivfaction.style.display = "none";
-            widgetDivBeta.style.display = "none";
+            widgetDivCrossfaction.style.display = "none";
+            widgetDivFaction.style.display = "none";
+            widgetDivNPC.style.display = "none";
+            widgetDivCarrier.style.display = "none";
+            widgetDivPet.style.display = "none";
+            widgetDivSkin.style.display = "none";
+            widgetDivUI.style.display = "none";
+            widgetDivPlayer.style.display = "none";
             IdBotonesAnimacion.style.display = "none";
 
             modelSelectorSpine.selectedIndex = 0;
             modelSelectorCutIn.selectedIndex = 0;
             modelSelectorArtificial.selectedIndex = 0;
-            modelSelectorCorssfaction2.selectedIndex = 0;
-            modelSelectorcrossfaction3.selectedIndex = 0;
-            modelSelectorfaction.selectedIndex = 0;
-            modelSelectorBeta.selectedIndex = 0;
+            modelSelectorCrossfaction.selectedIndex = 0;
+            modelSelectorFaction.selectedIndex = 0;
+            modelSelectorNPC.selectedIndex = 0;
+            modelSelectorCarrier.selectedIndex = 0;
+            modelSelectorPet.selectedIndex = 0;
+            modelSelectorSkin.selectedIndex = 0;
+            modelSelectorUI.selectedIndex = 0;
+            modelSelectorPlayer.selectedIndex = 0;
 
             sliderTamanoCanvas.value = 1;
         }
@@ -436,10 +541,14 @@
         cargarOpcionesDesdeJsonSpine();
         cargarOpcionesDesdeJsonCutIn();
         cargarOpcionesDesdeJsonArtificial();
-        cargarOpcionesDesdeJsonCorssfaction2();
-        cargarOpcionesDesdeJsoncrossfaction3();
-        cargarOpcionesDesdeJsonfaction();
-        cargarOpcionesDesdeJsonBeta();
+        cargarOpcionesDesdeJsonCrossfaction();
+        cargarOpcionesDesdeJsonFaction();
+        cargarOpcionesDesdeJsonNPC();
+        cargarOpcionesDesdeJsonCarrier();
+        cargarOpcionesDesdeJsonPet();
+        cargarOpcionesDesdeJsonSkin();
+        cargarOpcionesDesdeJsonUI();
+        cargarOpcionesDesdeJsonPlayer();
     });
 
     function changeAnimation(animationName) {

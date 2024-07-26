@@ -1,0 +1,90 @@
+
+PlaceSpecial79.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+syns_0
+  rotate: false
+  xy: 66, 70
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+syns_1
+  rotate: false
+  xy: 194, 269
+  size: 10, 30
+  orig: 10, 30
+  offset: 0, 0
+  index: -1
+syns_10
+  rotate: false
+  xy: 194, 339
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+syns_11
+  rotate: false
+  xy: 2, 179
+  size: 190, 218
+  orig: 190, 218
+  offset: 0, 0
+  index: -1
+syns_2
+  rotate: true
+  xy: 79, 111
+  size: 13, 34
+  orig: 13, 34
+  offset: 0, 0
+  index: -1
+syns_3
+  rotate: false
+  xy: 2, 62
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+syns_4
+  rotate: false
+  xy: 79, 126
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+syns_5
+  rotate: false
+  xy: 194, 301
+  size: 57, 36
+  orig: 57, 36
+  offset: 0, 0
+  index: -1
+syns_6
+  rotate: false
+  xy: 256, 344
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+syns_7
+  rotate: false
+  xy: 2, 102
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+syns_8
+  rotate: false
+  xy: 2, 2
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1
+syns_9
+  rotate: true
+  xy: 130, 147
+  size: 30, 58
+  orig: 30, 58
+  offset: 0, 0
+  index: -1

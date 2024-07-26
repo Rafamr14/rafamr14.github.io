@@ -1,0 +1,223 @@
+
+狩猎.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sn_0
+  rotate: false
+  xy: 113, 331
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+sn_1
+  rotate: false
+  xy: 321, 407
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+sn_10
+  rotate: false
+  xy: 176, 353
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+sn_11
+  rotate: false
+  xy: 201, 353
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+sn_12
+  rotate: false
+  xy: 129, 245
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+sn_13
+  rotate: true
+  xy: 395, 411
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+sn_14
+  rotate: true
+  xy: 224, 357
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+sn_15
+  rotate: true
+  xy: 57, 6
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+sn_17
+  rotate: true
+  xy: 500, 430
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+sn_18
+  rotate: false
+  xy: 2, 10
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+sn_19
+  rotate: false
+  xy: 30, 9
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+sn_2
+  rotate: false
+  xy: 466, 417
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+sn_20
+  rotate: true
+  xy: 2, 33
+  size: 99, 65
+  orig: 99, 65
+  offset: 0, 0
+  index: -1
+sn_21
+  rotate: false
+  xy: 360, 407
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+sn_22
+  rotate: true
+  xy: 2, 253
+  size: 145, 77
+  orig: 145, 77
+  offset: 0, 0
+  index: -1
+sn_23
+  rotate: false
+  xy: 465, 452
+  size: 39, 58
+  orig: 39, 58
+  offset: 0, 0
+  index: -1
+sn_24
+  rotate: false
+  xy: 81, 256
+  size: 46, 60
+  orig: 46, 60
+  offset: 0, 0
+  index: -1
+sn_25
+  rotate: true
+  xy: 127, 381
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+sn_27
+  rotate: false
+  xy: 412, 452
+  size: 51, 58
+  orig: 51, 58
+  offset: 0, 0
+  index: -1
+sn_27a
+  rotate: false
+  xy: 357, 449
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+sn_28
+  rotate: true
+  xy: 81, 318
+  size: 80, 30
+  orig: 80, 30
+  offset: 0, 0
+  index: -1
+sn_29
+  rotate: true
+  xy: 239, 448
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+sn_3
+  rotate: false
+  xy: 162, 346
+  size: 12, 33
+  orig: 12, 33
+  offset: 0, 0
+  index: -1
+sn_30
+  rotate: false
+  xy: 239, 419
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+sn_4
+  rotate: false
+  xy: 431, 417
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+sn_16
+  rotate: false
+  xy: 431, 417
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+sn_5
+  rotate: false
+  xy: 127, 416
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+sn_6
+  rotate: true
+  xy: 2, 134
+  size: 117, 69
+  orig: 117, 69
+  offset: 0, 0
+  index: -1
+sn_7
+  rotate: false
+  xy: 2, 400
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+sn_8
+  rotate: true
+  xy: 182, 378
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+sn_9
+  rotate: false
+  xy: 129, 282
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1

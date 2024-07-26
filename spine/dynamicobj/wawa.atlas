@@ -1,0 +1,76 @@
+
+wawa.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wawa_0
+  rotate: false
+  xy: 300, 66
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+wawa_1
+  rotate: false
+  xy: 121, 42
+  size: 63, 67
+  orig: 63, 67
+  offset: 0, 0
+  index: -1
+wawa_10
+  rotate: true
+  xy: 121, 2
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+wawa_2
+  rotate: false
+  xy: 186, 56
+  size: 59, 53
+  orig: 59, 53
+  offset: 0, 0
+  index: -1
+wawa_4
+  rotate: true
+  xy: 426, 86
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+wawa_5
+  rotate: false
+  xy: 364, 72
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+wawa_6
+  rotate: false
+  xy: 398, 74
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+wawa_7
+  rotate: false
+  xy: 247, 61
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+wawa_8
+  rotate: false
+  xy: 335, 66
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+wawa_9
+  rotate: false
+  xy: 2, 2
+  size: 117, 107
+  orig: 117, 107
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Skin_17163_jiqiren.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+r1
+  rotate: false
+  xy: 286, 323
+  size: 219, 143
+  orig: 219, 143
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 2, 168
+  size: 282, 298
+  orig: 282, 298
+  offset: 0, 0
+  index: -1
+r3
+  rotate: true
+  xy: 354, 44
+  size: 137, 147
+  orig: 137, 147
+  offset: 0, 0
+  index: -1
+r4
+  rotate: false
+  xy: 2, 2
+  size: 138, 164
+  orig: 138, 164
+  offset: 0, 0
+  index: -1
+r5
+  rotate: false
+  xy: 208, 14
+  size: 144, 152
+  orig: 144, 152
+  offset: 0, 0
+  index: -1
+r6
+  rotate: true
+  xy: 142, 13
+  size: 153, 64
+  orig: 153, 64
+  offset: 0, 0
+  index: -1
+r7
+  rotate: false
+  xy: 286, 183
+  size: 212, 138
+  orig: 212, 138
+  offset: 0, 0
+  index: -1

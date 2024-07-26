@@ -1,0 +1,41 @@
+
+junk.atlas.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jinshulvzhe_wu
+  rotate: false
+  xy: 134, 294
+  size: 117, 121
+  orig: 117, 121
+  offset: 0, 0
+  index: -1
+jinshulvzhe_wu2
+  rotate: false
+  xy: 1, 148
+  size: 137, 144
+  orig: 137, 144
+  offset: 0, 0
+  index: -1
+jinshulvzhe_wu3
+  rotate: false
+  xy: 133, 1
+  size: 128, 142
+  orig: 128, 142
+  offset: 0, 0
+  index: -1
+jinshulvzhe_wu4
+  rotate: false
+  xy: 1, 1
+  size: 130, 145
+  orig: 130, 145
+  offset: 0, 0
+  index: -1
+jinshulvzhe_wu5
+  rotate: false
+  xy: 1, 294
+  size: 131, 135
+  orig: 131, 135
+  offset: 0, 0
+  index: -1

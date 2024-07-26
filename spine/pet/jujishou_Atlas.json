@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "jujishou_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8348268999855871830
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8605540437353879873
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

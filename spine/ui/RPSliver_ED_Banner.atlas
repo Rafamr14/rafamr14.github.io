@@ -1,0 +1,69 @@
+
+RPSliver_ED_Banner.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_7
+  rotate: false
+  xy: 388, 82
+  size: 197, 238
+  orig: 197, 238
+  offset: 0, 0
+  index: -1
+_9
+  rotate: false
+  xy: 472, 760
+  size: 405, 220
+  orig: 405, 220
+  offset: 0, 0
+  index: -1
+dd_0
+  rotate: false
+  xy: 1, 321
+  size: 436, 317
+  orig: 436, 317
+  offset: 0, 0
+  index: -1
+dd_1
+  rotate: false
+  xy: 1, 639
+  size: 470, 341
+  orig: 470, 341
+  offset: 0, 0
+  index: -1
+dd_2
+  rotate: false
+  xy: 1, 102
+  size: 386, 218
+  orig: 386, 218
+  offset: 0, 0
+  index: -1
+dd_3
+  rotate: true
+  xy: 819, 323
+  size: 217, 161
+  orig: 217, 161
+  offset: 0, 0
+  index: -1
+dd_4
+  rotate: false
+  xy: 438, 326
+  size: 380, 214
+  orig: 380, 214
+  offset: 0, 0
+  index: -1
+dd_5
+  rotate: false
+  xy: 472, 541
+  size: 386, 218
+  orig: 386, 218
+  offset: 0, 0
+  index: -1
+dd_6
+  rotate: true
+  xy: 586, 70
+  size: 255, 230
+  orig: 255, 230
+  offset: 0, 0
+  index: -1

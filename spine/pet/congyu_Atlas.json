@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "congyu_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5869035570917299359
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 964091115171324227
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

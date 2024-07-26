@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "pet_180_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6343168607406711918
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2659055283782420488
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "JIUXIAOdui_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 143461332522611364
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7132936996904853599
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8098141703563281234
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

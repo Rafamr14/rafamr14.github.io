@@ -1,0 +1,90 @@
+
+thy.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+thy_0
+  rotate: true
+  xy: 326, 79
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+thy_1
+  rotate: false
+  xy: 238, 297
+  size: 157, 195
+  orig: 157, 195
+  offset: 0, 0
+  index: -1
+thy_10
+  rotate: false
+  xy: 326, 164
+  size: 101, 131
+  orig: 101, 131
+  offset: 0, 0
+  index: -1
+thy_11
+  rotate: false
+  xy: 397, 300
+  size: 83, 78
+  orig: 83, 78
+  offset: 0, 0
+  index: -1
+thy_2
+  rotate: true
+  xy: 2, 4
+  size: 260, 153
+  orig: 260, 153
+  offset: 0, 0
+  index: -1
+thy_3
+  rotate: false
+  xy: 249, 134
+  size: 75, 161
+  orig: 75, 161
+  offset: 0, 0
+  index: -1
+thy_4
+  rotate: false
+  xy: 2, 266
+  size: 234, 226
+  orig: 234, 226
+  offset: 0, 0
+  index: -1
+thy_5
+  rotate: true
+  xy: 397, 380
+  size: 112, 113
+  orig: 112, 113
+  offset: 0, 0
+  index: -1
+thy_6
+  rotate: false
+  xy: 429, 177
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+thy_7
+  rotate: true
+  xy: 157, 102
+  size: 162, 90
+  orig: 162, 90
+  offset: 0, 0
+  index: -1
+thy_8
+  rotate: false
+  xy: 429, 220
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+thy_9
+  rotate: true
+  xy: 157, 2
+  size: 98, 130
+  orig: 98, 130
+  offset: 0, 0
+  index: -1

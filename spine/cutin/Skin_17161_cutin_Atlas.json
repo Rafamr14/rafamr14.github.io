@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Skin_17161_cutin_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1137005042846503597
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8553449530046222320
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

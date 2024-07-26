@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "huajia_saixiliya_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 5803571382455909629
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -776575832186097062
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

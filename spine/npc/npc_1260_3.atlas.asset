@@ -1,0 +1,27 @@
+
+npc_1260_3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qiao2
+  rotate: false
+  xy: 1, 1189
+  size: 2001, 725
+  orig: 2001, 725
+  offset: 0, 0
+  index: -1
+qiao3
+  rotate: false
+  xy: 1, 447
+  size: 2001, 740
+  orig: 2001, 740
+  offset: 0, 0
+  index: -1
+yusheshen_89
+  rotate: false
+  xy: 1, 1
+  size: 2003, 444
+  orig: 2003, 444
+  offset: 0, 0
+  index: -1

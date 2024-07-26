@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "create_octopus_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 4477535102251405785
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -3457238528446997970
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

@@ -1,0 +1,104 @@
+
+thistles.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jj_0
+  rotate: false
+  xy: 176, 329
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+jj_1
+  rotate: true
+  xy: 350, 313
+  size: 197, 111
+  orig: 197, 111
+  offset: 0, 0
+  index: -1
+jj_10
+  rotate: false
+  xy: 114, 117
+  size: 56, 27
+  orig: 56, 27
+  offset: 0, 0
+  index: -1
+jj_11
+  rotate: true
+  xy: 360, 39
+  size: 73, 34
+  orig: 73, 34
+  offset: 0, 0
+  index: -1
+jj_12
+  rotate: true
+  xy: 463, 435
+  size: 75, 36
+  orig: 75, 36
+  offset: 0, 0
+  index: -1
+jj_13
+  rotate: true
+  xy: 402, 101
+  size: 210, 70
+  orig: 210, 70
+  offset: 0, 0
+  index: -1
+jj_2
+  rotate: true
+  xy: 114, 2
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+jj_3
+  rotate: false
+  xy: 2, 146
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+jj_4
+  rotate: true
+  xy: 289, 114
+  size: 197, 111
+  orig: 197, 111
+  offset: 0, 0
+  index: -1
+jj_5
+  rotate: true
+  xy: 237, 2
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+jj_6
+  rotate: false
+  xy: 2, 329
+  size: 172, 181
+  orig: 172, 181
+  offset: 0, 0
+  index: -1
+jj_7
+  rotate: true
+  xy: 176, 130
+  size: 197, 111
+  orig: 197, 111
+  offset: 0, 0
+  index: -1
+jj_8
+  rotate: false
+  xy: 2, 23
+  size: 110, 121
+  orig: 110, 121
+  offset: 0, 0
+  index: -1
+jj_9
+  rotate: true
+  xy: 463, 370
+  size: 63, 32
+  orig: 63, 32
+  offset: 0, 0
+  index: -1

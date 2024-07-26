@@ -1,0 +1,37 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "NPC_1892_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 3676916967609464776
+    }
+  ],
+  "scale": 0.4,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 6625109677114211989
+  },
+  "fromAnimation": [
+    "robopuni_atk2"
+  ],
+  "toAnimation": [
+    "robopuni_idle"
+  ],
+  "duration": [
+    0.1
+  ],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "cutin_theresa_xiunv_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6020363814809260463
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 9071941865130209866
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

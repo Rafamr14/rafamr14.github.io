@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Skin_17135_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6402164838010769105
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2825257298171098229
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8082547695195200218
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

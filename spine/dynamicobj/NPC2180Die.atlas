@@ -1,0 +1,55 @@
+
+NPC2180Die.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 315, 367
+  size: 114, 35
+  orig: 114, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 137, 47
+  orig: 137, 47
+  offset: 0, 0
+  index: -1
+zc_0
+  rotate: false
+  xy: 2, 51
+  size: 148, 536
+  orig: 148, 536
+  offset: 0, 0
+  index: -1
+zc_1
+  rotate: false
+  xy: 234, 83
+  size: 79, 504
+  orig: 79, 504
+  offset: 0, 0
+  index: -1
+zc_2
+  rotate: false
+  xy: 152, 82
+  size: 80, 505
+  orig: 80, 505
+  offset: 0, 0
+  index: -1
+zc_3
+  rotate: false
+  xy: 487, 521
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+zc_4
+  rotate: false
+  xy: 315, 404
+  size: 170, 183
+  orig: 170, 183
+  offset: 0, 0
+  index: -1

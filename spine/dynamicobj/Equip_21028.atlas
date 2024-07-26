@@ -1,0 +1,188 @@
+
+Equip_21028.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hhz_0
+  rotate: true
+  xy: 61, 69
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+hhz_1
+  rotate: false
+  xy: 85, 136
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hhz_10
+  rotate: false
+  xy: 61, 118
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+hhz_11
+  rotate: true
+  xy: 85, 120
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+hhz_12
+  rotate: true
+  xy: 93, 109
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+hhz_13
+  rotate: false
+  xy: 74, 33
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+hhz_14
+  rotate: false
+  xy: 61, 91
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hhz_15
+  rotate: false
+  xy: 212, 170
+  size: 6, 15
+  orig: 6, 15
+  offset: 0, 0
+  index: -1
+hhz_16
+  rotate: true
+  xy: 79, 81
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+hhz_17
+  rotate: true
+  xy: 221, 169
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hhz_17a
+  rotate: true
+  xy: 180, 157
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+hhz_18
+  rotate: false
+  xy: 79, 98
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+hhz_19
+  rotate: true
+  xy: 106, 142
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+hhz_2
+  rotate: false
+  xy: 2, 2
+  size: 70, 42
+  orig: 70, 42
+  offset: 0, 0
+  index: -1
+hhz_20
+  rotate: true
+  xy: 106, 114
+  size: 12, 19
+  orig: 12, 19
+  offset: 0, 0
+  index: -1
+hhz_21
+  rotate: true
+  xy: 106, 128
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+hhz_22
+  rotate: true
+  xy: 77, 45
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+hhz_23
+  rotate: false
+  xy: 61, 46
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+hhz_24
+  rotate: false
+  xy: 77, 55
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+hhz_3
+  rotate: false
+  xy: 136, 158
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+hhz_4
+  rotate: false
+  xy: 2, 46
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+hhz_5
+  rotate: false
+  xy: 68, 157
+  size: 66, 97
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+hhz_6
+  rotate: false
+  xy: 2, 154
+  size: 64, 100
+  orig: 64, 100
+  offset: 0, 0
+  index: -1
+hhz_7
+  rotate: true
+  xy: 221, 199
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+hhz_8
+  rotate: false
+  xy: 136, 187
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+hhz_9
+  rotate: false
+  xy: 79, 67
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1

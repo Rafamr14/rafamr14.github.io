@@ -1,0 +1,41 @@
+
+vehicle_05.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_0
+  rotate: false
+  xy: 1698, 1696
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+cc_1
+  rotate: false
+  xy: 2, 519
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+cc_13
+  rotate: false
+  xy: 2, 5
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+cc_2
+  rotate: false
+  xy: 2, 1033
+  size: 1694, 905
+  orig: 1694, 905
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 516, 931
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

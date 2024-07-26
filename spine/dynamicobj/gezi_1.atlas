@@ -1,0 +1,83 @@
+
+gezi_1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gezi_0
+  rotate: false
+  xy: 184, 205
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+gezi_1
+  rotate: false
+  xy: 111, 205
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+gezi_1a
+  rotate: false
+  xy: 2, 39
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+gezi_2
+  rotate: false
+  xy: 75, 53
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+gezi_2a
+  rotate: false
+  xy: 148, 181
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+gezi_3
+  rotate: false
+  xy: 2, 160
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+gezi_3a
+  rotate: false
+  xy: 2, 77
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+gezi_4
+  rotate: false
+  xy: 111, 106
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+gezi_4a
+  rotate: false
+  xy: 111, 106
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+gezi_5
+  rotate: false
+  xy: 2, 2
+  size: 71, 35
+  orig: 71, 35
+  offset: 0, 0
+  index: -1
+gezi_5a
+  rotate: true
+  xy: 111, 131
+  size: 72, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1

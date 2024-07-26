@@ -1,0 +1,20 @@
+
+113_1.png
+size: 415,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 286, 81
+  orig: 383, 158
+  offset: 97, 27
+  index: -1
+rpg_2
+  rotate: false
+  xy: 288, 38
+  size: 126, 44
+  orig: 237, 68
+  offset: 1, 14
+  index: -1

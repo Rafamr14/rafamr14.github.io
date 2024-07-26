@@ -1,0 +1,20 @@
+
+440_1.png
+size: 144,279
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: true
+  xy: 1, 1
+  size: 277, 103
+  orig: 383, 158
+  offset: 104, 14
+  index: -1
+rpg_2
+  rotate: true
+  xy: 105, 160
+  size: 118, 38
+  orig: 237, 68
+  offset: 0, 16
+  index: -1

@@ -1,0 +1,76 @@
+
+throw_83.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_0
+  rotate: false
+  xy: 2, 4
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: true
+  xy: 125, 146
+  size: 22, 51
+  orig: 22, 51
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 2, 54
+  size: 95, 90
+  orig: 95, 90
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 99, 54
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 125, 170
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+1_5
+  rotate: false
+  xy: 218, 170
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+1_6
+  rotate: false
+  xy: 55, 2
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+1_7
+  rotate: false
+  xy: 218, 205
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+1_8
+  rotate: true
+  xy: 99, 72
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+1_9
+  rotate: false
+  xy: 2, 146
+  size: 121, 106
+  orig: 121, 106
+  offset: 0, 0
+  index: -1

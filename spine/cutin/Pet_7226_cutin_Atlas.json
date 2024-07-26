@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Pet_7226_cutin_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 1650763776709366710
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8516219187127929276
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

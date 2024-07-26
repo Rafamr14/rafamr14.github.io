@@ -1,0 +1,20 @@
+
+462_1.png
+size: 376,119
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 6
+  size: 323, 112
+  orig: 383, 158
+  offset: 56, 11
+  index: -1
+rpg_2
+  rotate: true
+  xy: 325, 1
+  size: 117, 50
+  orig: 237, 68
+  offset: 0, 8
+  index: -1

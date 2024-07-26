@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "younianboshi_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6716584901574353248
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8447602092441544639
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

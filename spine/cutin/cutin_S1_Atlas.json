@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "cutin_S1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 6936152563011349654
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -33265924357234020
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

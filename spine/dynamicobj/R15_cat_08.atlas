@@ -1,0 +1,55 @@
+
+R15_cat_08.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yingduan_2
+  rotate: false
+  xy: 160, 38
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+yingduan_3
+  rotate: false
+  xy: 160, 71
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+yingduan_4
+  rotate: true
+  xy: 214, 120
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1
+yingduan_5
+  rotate: false
+  xy: 144, 153
+  size: 95, 85
+  orig: 95, 85
+  offset: 0, 0
+  index: -1
+zhidai_1
+  rotate: false
+  xy: 2, 124
+  size: 140, 114
+  orig: 140, 114
+  offset: 0, 0
+  index: -1
+zhidai_2
+  rotate: false
+  xy: 2, 13
+  size: 87, 109
+  orig: 87, 109
+  offset: 0, 0
+  index: -1
+zhidai_3
+  rotate: false
+  xy: 91, 18
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1

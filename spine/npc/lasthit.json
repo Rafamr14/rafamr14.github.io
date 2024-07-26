@@ -1,0 +1,17 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 2290779210207156614
+  },
+  "m_Name": "lasthit",
+  "skeletonDataAsset": {
+    "m_FileID": 3,
+    "m_PathID": 3990657514256689844
+  },
+  "animationName": "lasthit"
+}

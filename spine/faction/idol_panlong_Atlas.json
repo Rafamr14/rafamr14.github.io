@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "idol_panlong_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8614975962441213513
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6310045797335808926
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

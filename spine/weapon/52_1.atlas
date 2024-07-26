@@ -1,0 +1,20 @@
+
+52_1.png
+size: 452,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 287, 98
+  orig: 383, 158
+  offset: 93, 23
+  index: -1
+rpg_2
+  rotate: false
+  xy: 289, 50
+  size: 162, 49
+  orig: 237, 68
+  offset: 0, 9
+  index: -1

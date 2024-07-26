@@ -1,0 +1,412 @@
+
+Player_SEELE.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+018
+  rotate: true
+  xy: 445, 50
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+018_1
+  rotate: true
+  xy: 370, 306
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+030
+  rotate: false
+  xy: 282, 18
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+030_1
+  rotate: false
+  xy: 314, 18
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+030_2
+  rotate: false
+  xy: 346, 15
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+050
+  rotate: true
+  xy: 482, 159
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+051
+  rotate: true
+  xy: 240, 6
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+052
+  rotate: false
+  xy: 205, 157
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+053
+  rotate: false
+  xy: 365, 181
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+054
+  rotate: false
+  xy: 311, 144
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+055
+  rotate: false
+  xy: 209, 105
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+056
+  rotate: true
+  xy: 482, 126
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+057
+  rotate: true
+  xy: 404, 49
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+058
+  rotate: false
+  xy: 466, 83
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+059
+  rotate: true
+  xy: 362, 47
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+kiana_1/017_1
+  rotate: true
+  xy: 2, 13
+  size: 82, 100
+  orig: 82, 100
+  offset: 0, 0
+  index: -1
+kiana_1/019_1
+  rotate: false
+  xy: 362, 87
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+kiana_1/020_1
+  rotate: false
+  xy: 240, 40
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+kiana_1/022_1
+  rotate: false
+  xy: 140, 323
+  size: 116, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+kiana_1/023_1
+  rotate: true
+  xy: 258, 323
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+kiana_1/024_1
+  rotate: false
+  xy: 363, 129
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+kiana_1/025_1
+  rotate: false
+  xy: 401, 444
+  size: 99, 66
+  orig: 99, 66
+  offset: 0, 0
+  index: -1
+kiana_1/026_1
+  rotate: false
+  xy: 413, 376
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+kiana_1/026_1a
+  rotate: false
+  xy: 413, 308
+  size: 83, 66
+  orig: 83, 66
+  offset: 0, 0
+  index: -1
+kiana_1/027_1
+  rotate: false
+  xy: 310, 92
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+kiana_1/028_1
+  rotate: false
+  xy: 300, 427
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+kiana_1/029_1
+  rotate: false
+  xy: 417, 250
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+kiana_1/029_1a
+  rotate: false
+  xy: 417, 192
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+kiana_1/032_1
+  rotate: false
+  xy: 282, 50
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+kiana_1/033_1
+  rotate: false
+  xy: 414, 83
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+kiana_1/092_1
+  rotate: false
+  xy: 2, 97
+  size: 130, 114
+  orig: 130, 114
+  offset: 0, 0
+  index: -1
+skin2_17126_7
+  rotate: false
+  xy: 498, 422
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+skin2_17126_8
+  rotate: false
+  xy: 334, 54
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1
+skin_17126_1
+  rotate: false
+  xy: 140, 424
+  size: 158, 86
+  orig: 158, 86
+  offset: 0, 0
+  index: -1
+skin_17126_10
+  rotate: true
+  xy: 191, 27
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+skin_17126_11
+  rotate: true
+  xy: 261, 92
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+skin_17126_12
+  rotate: true
+  xy: 140, 221
+  size: 100, 109
+  orig: 100, 109
+  offset: 0, 0
+  index: -1
+skin_17126_13
+  rotate: true
+  xy: 140, 193
+  size: 26, 78
+  orig: 26, 78
+  offset: 0, 0
+  index: -1
+skin_17126_14
+  rotate: false
+  xy: 251, 216
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+skin_17126_15
+  rotate: true
+  xy: 485, 271
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+skin_17126_16
+  rotate: false
+  xy: 378, 24
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+skin_17126_17
+  rotate: true
+  xy: 220, 193
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+skin_17126_17a
+  rotate: false
+  xy: 334, 72
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+skin_17126_2
+  rotate: true
+  xy: 134, 100
+  size: 39, 73
+  orig: 39, 73
+  offset: 0, 0
+  index: -1
+skin_17126_21
+  rotate: false
+  xy: 370, 339
+  size: 41, 86
+  orig: 41, 86
+  offset: 0, 0
+  index: -1
+skin_17126_22
+  rotate: false
+  xy: 104, 14
+  size: 36, 81
+  orig: 36, 81
+  offset: 0, 0
+  index: -1
+skin_17126_23
+  rotate: true
+  xy: 485, 209
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+skin_17126_3
+  rotate: false
+  xy: 365, 233
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+skin_17126_30
+  rotate: true
+  xy: 485, 194
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+skin_17126_31
+  rotate: true
+  xy: 484, 53
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+skin_17126_39
+  rotate: true
+  xy: 485, 239
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+skin_17126_4
+  rotate: false
+  xy: 311, 196
+  size: 52, 111
+  orig: 52, 111
+  offset: 0, 0
+  index: -1
+skin_17126_40
+  rotate: false
+  xy: 2, 213
+  size: 136, 297
+  orig: 136, 297
+  offset: 0, 0
+  index: -1
+skin_17126_5
+  rotate: false
+  xy: 313, 309
+  size: 55, 116
+  orig: 55, 116
+  offset: 0, 0
+  index: -1
+skin_17126_6
+  rotate: true
+  xy: 142, 27
+  size: 71, 47
+  orig: 71, 47
+  offset: 0, 0
+  index: -1
+skin_17126_7
+  rotate: false
+  xy: 134, 141
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+skin_17126_8
+  rotate: true
+  xy: 431, 125
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+skin_17126_9
+  rotate: false
+  xy: 240, 165
+  size: 69, 49
+  orig: 69, 49
+  offset: 0, 0
+  index: -1

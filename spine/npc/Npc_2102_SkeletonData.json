@@ -1,0 +1,52 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "Npc_2102_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5888667369289241061
+    }
+  ],
+  "scale": 0.5,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -2649910450415208435
+  },
+  "fromAnimation": [
+    "skill2_exit",
+    "skill2_exit",
+    "skill3_exit",
+    "skill3_exit",
+    "pre",
+    "pre2"
+  ],
+  "toAnimation": [
+    "born",
+    "born2",
+    "born",
+    "born2",
+    "skill3_enter",
+    "skill3_enter"
+  ],
+  "duration": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

@@ -1,0 +1,293 @@
+
+maocao.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gy_0
+  rotate: false
+  xy: 266, 435
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+gy_1
+  rotate: true
+  xy: 1, 132
+  size: 81, 19
+  orig: 81, 19
+  offset: 0, 0
+  index: -1
+gy_10
+  rotate: false
+  xy: 21, 191
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+gy_11
+  rotate: false
+  xy: 491, 494
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+gy_12
+  rotate: false
+  xy: 491, 476
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+gy_13
+  rotate: false
+  xy: 76, 402
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+gy_14
+  rotate: false
+  xy: 294, 468
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+gy_15
+  rotate: false
+  xy: 140, 369
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+gy_16
+  rotate: true
+  xy: 1, 1
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+gy_17
+  rotate: false
+  xy: 1, 390
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+gy_18
+  rotate: true
+  xy: 365, 467
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+gy_2
+  rotate: false
+  xy: 76, 368
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+gy_3
+  rotate: false
+  xy: 29, 237
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+gy_4
+  rotate: true
+  xy: 266, 412
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+gy_5
+  rotate: true
+  xy: 158, 401
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+gy_6
+  rotate: false
+  xy: 147, 402
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+gy_7
+  rotate: false
+  xy: 491, 460
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+gy_8
+  rotate: true
+  xy: 140, 385
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+gy_9
+  rotate: false
+  xy: 29, 214
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+jpg_0
+  rotate: true
+  xy: 36, 291
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+jpg_1
+  rotate: true
+  xy: 1, 58
+  size: 73, 32
+  orig: 73, 32
+  offset: 0, 0
+  index: -1
+jpg_10
+  rotate: true
+  xy: 428, 467
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+jpg_2
+  rotate: true
+  xy: 36, 318
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+jpg_3
+  rotate: false
+  xy: 21, 165
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+jpg_4
+  rotate: false
+  xy: 21, 138
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+jpg_5
+  rotate: false
+  xy: 114, 300
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+jpg_6
+  rotate: true
+  xy: 64, 291
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+jpg_7
+  rotate: false
+  xy: 152, 463
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+jpg_8
+  rotate: false
+  xy: 152, 412
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+jpg_9
+  rotate: false
+  xy: 77, 451
+  size: 74, 60
+  orig: 74, 60
+  offset: 0, 0
+  index: -1
+lq_0
+  rotate: false
+  xy: 29, 263
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+lq_1
+  rotate: true
+  xy: 1, 214
+  size: 80, 27
+  orig: 80, 27
+  offset: 0, 0
+  index: -1
+lq_10
+  rotate: true
+  xy: 113, 276
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+lq_2
+  rotate: true
+  xy: 1, 295
+  size: 94, 34
+  orig: 94, 34
+  offset: 0, 0
+  index: -1
+lq_3
+  rotate: false
+  xy: 56, 264
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+lq_4
+  rotate: false
+  xy: 87, 277
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+lq_5
+  rotate: false
+  xy: 87, 300
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+lq_6
+  rotate: false
+  xy: 223, 463
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+lq_7
+  rotate: false
+  xy: 209, 412
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+lq_8
+  rotate: false
+  xy: 1, 451
+  size: 75, 60
+  orig: 75, 60
+  offset: 0, 0
+  index: -1
+lq_9
+  rotate: true
+  xy: 73, 323
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+yeye.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skin_17124_shenghen_0
+  rotate: true
+  xy: 395, 420
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_1
+  rotate: false
+  xy: 88, 117
+  size: 66, 128
+  orig: 66, 128
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_10
+  rotate: false
+  xy: 293, 325
+  size: 60, 81
+  orig: 60, 81
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_11
+  rotate: true
+  xy: 2, 60
+  size: 55, 144
+  orig: 55, 144
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_12
+  rotate: false
+  xy: 2, 117
+  size: 84, 128
+  orig: 84, 128
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_13
+  rotate: true
+  xy: 299, 179
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_14
+  rotate: false
+  xy: 341, 215
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_15
+  rotate: true
+  xy: 392, 326
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_16
+  rotate: false
+  xy: 230, 248
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_17
+  rotate: false
+  xy: 140, 257
+  size: 88, 71
+  orig: 88, 71
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_18
+  rotate: false
+  xy: 227, 196
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_19
+  rotate: false
+  xy: 395, 387
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_2
+  rotate: true
+  xy: 284, 408
+  size: 102, 109
+  orig: 102, 109
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_20
+  rotate: false
+  xy: 267, 197
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_21
+  rotate: false
+  xy: 298, 258
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_22
+  rotate: false
+  xy: 436, 388
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_23
+  rotate: false
+  xy: 362, 271
+  size: 22, 55
+  orig: 22, 55
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_24
+  rotate: false
+  xy: 338, 261
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_25
+  rotate: false
+  xy: 392, 348
+  size: 38, 37
+  orig: 38, 37
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_26
+  rotate: false
+  xy: 475, 386
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_27
+  rotate: false
+  xy: 386, 297
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_28
+  rotate: false
+  xy: 355, 328
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_29
+  rotate: true
+  xy: 299, 214
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_3
+  rotate: true
+  xy: 146, 330
+  size: 72, 89
+  orig: 72, 89
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_30
+  rotate: false
+  xy: 88, 11
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_31
+  rotate: false
+  xy: 135, 6
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_32
+  rotate: true
+  xy: 179, 14
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_33
+  rotate: false
+  xy: 146, 404
+  size: 136, 106
+  orig: 136, 106
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_34
+  rotate: false
+  xy: 2, 247
+  size: 136, 111
+  orig: 136, 111
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_4
+  rotate: false
+  xy: 156, 175
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_5
+  rotate: false
+  xy: 156, 115
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_6
+  rotate: true
+  xy: 237, 324
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_7
+  rotate: false
+  xy: 148, 50
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_8
+  rotate: false
+  xy: 2, 2
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+skin_17124_shenghen_9
+  rotate: false
+  xy: 2, 360
+  size: 142, 150
+  orig: 142, 150
+  offset: 0, 0
+  index: -1

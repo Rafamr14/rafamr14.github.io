@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "idol_beipan_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2648459337338802647
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1767648992308260354
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

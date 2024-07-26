@@ -1,0 +1,251 @@
+
+cutin_huanxiang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutin_huanxiang_0
+  rotate: false
+  xy: 661, 582
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_1
+  rotate: true
+  xy: 661, 621
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_10
+  rotate: true
+  xy: 2, 9
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_11
+  rotate: false
+  xy: 372, 93
+  size: 112, 148
+  orig: 112, 148
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_12
+  rotate: false
+  xy: 548, 243
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_13
+  rotate: false
+  xy: 928, 747
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_14
+  rotate: false
+  xy: 193, 78
+  size: 177, 175
+  orig: 177, 175
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_16
+  rotate: false
+  xy: 381, 689
+  size: 288, 114
+  orig: 288, 114
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_18
+  rotate: true
+  xy: 595, 372
+  size: 191, 153
+  orig: 191, 153
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_19
+  rotate: false
+  xy: 530, 12
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_2
+  rotate: true
+  xy: 706, 293
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_20
+  rotate: true
+  xy: 699, 808
+  size: 214, 227
+  orig: 214, 227
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_22
+  rotate: false
+  xy: 381, 565
+  size: 278, 122
+  orig: 278, 122
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_23
+  rotate: false
+  xy: 2, 730
+  size: 352, 292
+  orig: 352, 292
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_24
+  rotate: false
+  xy: 206, 378
+  size: 173, 350
+  orig: 173, 350
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_25
+  rotate: false
+  xy: 2, 82
+  size: 189, 266
+  orig: 189, 266
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_26
+  rotate: false
+  xy: 356, 805
+  size: 341, 217
+  orig: 341, 217
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_3
+  rotate: true
+  xy: 206, 255
+  size: 121, 179
+  orig: 121, 179
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_30
+  rotate: false
+  xy: 662, 97
+  size: 93, 92
+  orig: 93, 92
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_32
+  rotate: false
+  xy: 548, 258
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_4
+  rotate: true
+  xy: 928, 815
+  size: 207, 82
+  orig: 207, 82
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_5
+  rotate: false
+  xy: 662, 191
+  size: 92, 100
+  orig: 92, 100
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_6
+  rotate: true
+  xy: 581, 59
+  size: 77, 79
+  orig: 77, 79
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_7
+  rotate: false
+  xy: 548, 293
+  size: 156, 77
+  orig: 156, 77
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_8
+  rotate: false
+  xy: 671, 690
+  size: 20, 113
+  orig: 20, 113
+  offset: 0, 0
+  index: -1
+cutin_huanxiang_9
+  rotate: true
+  xy: 185, 22
+  size: 54, 124
+  orig: 54, 124
+  offset: 0, 0
+  index: -1
+huanxiang_0
+  rotate: false
+  xy: 381, 379
+  size: 212, 184
+  orig: 212, 184
+  offset: 0, 0
+  index: -1
+huanxiang_1
+  rotate: false
+  xy: 530, 57
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+huanxiang_2
+  rotate: false
+  xy: 662, 16
+  size: 86, 79
+  orig: 86, 79
+  offset: 0, 0
+  index: -1
+huanxiang_3
+  rotate: true
+  xy: 2, 350
+  size: 378, 202
+  orig: 378, 202
+  offset: 0, 0
+  index: -1
+huanxiang_4
+  rotate: false
+  xy: 486, 105
+  size: 93, 136
+  orig: 93, 136
+  offset: 0, 0
+  index: -1
+huanxiang_5
+  rotate: false
+  xy: 311, 20
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+huanxiang_6
+  rotate: false
+  xy: 372, 2
+  size: 156, 89
+  orig: 156, 89
+  offset: 0, 0
+  index: -1
+huanxiang_7
+  rotate: true
+  xy: 387, 243
+  size: 134, 159
+  orig: 134, 159
+  offset: 0, 0
+  index: -1
+huanxiang_8
+  rotate: false
+  xy: 581, 138
+  size: 79, 153
+  orig: 79, 153
+  offset: 0, 0
+  index: -1

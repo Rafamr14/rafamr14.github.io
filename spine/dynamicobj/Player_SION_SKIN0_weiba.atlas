@@ -1,0 +1,20 @@
+
+Player_SION_SKIN0_weiba.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hh37
+  rotate: false
+  xy: 2, 2
+  size: 86, 68
+  orig: 86, 68
+  offset: 0, 0
+  index: -1
+hh37a
+  rotate: false
+  xy: 2, 72
+  size: 186, 173
+  orig: 186, 173
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Accumulation93Item4_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 1946319829595514645
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5007239511449288480
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

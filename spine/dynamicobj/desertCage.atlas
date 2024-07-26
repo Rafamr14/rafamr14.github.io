@@ -1,0 +1,153 @@
+
+desertCage.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gtl_0
+  rotate: true
+  xy: 669, 354
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+gtl_1
+  rotate: false
+  xy: 2, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+gtl_10
+  rotate: false
+  xy: 669, 217
+  size: 165, 105
+  orig: 165, 105
+  offset: 0, 0
+  index: -1
+gtl_11
+  rotate: false
+  xy: 902, 632
+  size: 117, 390
+  orig: 117, 390
+  offset: 0, 0
+  index: -1
+gtl_12
+  rotate: true
+  xy: 707, 438
+  size: 123, 255
+  orig: 123, 255
+  offset: 0, 0
+  index: -1
+gtl_13
+  rotate: true
+  xy: 236, 414
+  size: 144, 469
+  orig: 144, 469
+  offset: 0, 0
+  index: -1
+gtl_14
+  rotate: false
+  xy: 644, 563
+  size: 256, 459
+  orig: 256, 459
+  offset: 0, 0
+  index: -1
+gtl_15
+  rotate: true
+  xy: 707, 324
+  size: 112, 234
+  orig: 112, 234
+  offset: 0, 0
+  index: -1
+gtl_16
+  rotate: true
+  xy: 236, 280
+  size: 132, 431
+  orig: 132, 431
+  offset: 0, 0
+  index: -1
+gtl_17
+  rotate: false
+  xy: 2, 175
+  size: 232, 383
+  orig: 232, 383
+  offset: 0, 0
+  index: -1
+gtl_18
+  rotate: false
+  xy: 236, 153
+  size: 389, 125
+  orig: 389, 125
+  offset: 0, 0
+  index: -1
+gtl_19
+  rotate: false
+  xy: 2, 792
+  size: 640, 230
+  orig: 640, 230
+  offset: 0, 0
+  index: -1
+gtl_2
+  rotate: true
+  xy: 136, 10
+  size: 68, 52
+  orig: 68, 52
+  offset: 0, 0
+  index: -1
+gtl_20
+  rotate: false
+  xy: 2, 560
+  size: 640, 230
+  orig: 640, 230
+  offset: 0, 0
+  index: -1
+gtl_3
+  rotate: false
+  xy: 836, 294
+  size: 41, 28
+  orig: 41, 28
+  offset: 0, 0
+  index: -1
+gtl_4
+  rotate: false
+  xy: 2, 26
+  size: 132, 52
+  orig: 132, 52
+  offset: 0, 0
+  index: -1
+gtl_5
+  rotate: false
+  xy: 902, 584
+  size: 84, 46
+  orig: 84, 46
+  offset: 0, 0
+  index: -1
+gtl_6
+  rotate: true
+  xy: 627, 205
+  size: 73, 37
+  orig: 73, 37
+  offset: 0, 0
+  index: -1
+gtl_7
+  rotate: false
+  xy: 190, 33
+  size: 269, 118
+  orig: 269, 118
+  offset: 0, 0
+  index: -1
+gtl_8
+  rotate: false
+  xy: 2, 80
+  size: 186, 93
+  orig: 186, 93
+  offset: 0, 0
+  index: -1
+gtl_9
+  rotate: false
+  xy: 461, 35
+  size: 233, 116
+  orig: 233, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+fire_beichen.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 129, 318
+  size: 125, 177
+  orig: 125, 177
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 256, 322
+  size: 125, 173
+  orig: 125, 173
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 129, 140
+  size: 125, 176
+  orig: 125, 176
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 383, 152
+  size: 125, 170
+  orig: 125, 170
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 125, 169
+  orig: 125, 169
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 256, 149
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 129
+  size: 125, 178
+  orig: 125, 178
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 383, 324
+  size: 125, 171
+  orig: 125, 171
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 173, 13
+  size: 125, 170
+  orig: 125, 170
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 309
+  size: 125, 186
+  orig: 125, 186
+  offset: 0, 0
+  index: -1

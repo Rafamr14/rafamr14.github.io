@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "jielun_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8811410029598501442
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 5125009381584028441
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

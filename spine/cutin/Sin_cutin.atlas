@@ -1,0 +1,69 @@
+
+Sin_cutin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xing_0
+  rotate: true
+  xy: 1, 1756
+  size: 222, 174
+  orig: 222, 174
+  offset: 0, 0
+  index: -1
+xing_1
+  rotate: true
+  xy: 1, 1579
+  size: 175, 271
+  orig: 175, 271
+  offset: 0, 0
+  index: -1
+xing_2
+  rotate: false
+  xy: 274, 1579
+  size: 256, 218
+  orig: 256, 218
+  offset: 0, 0
+  index: -1
+xing_3
+  rotate: true
+  xy: 1812, 322
+  size: 310, 178
+  orig: 310, 178
+  offset: 0, 0
+  index: -1
+xing_4
+  rotate: false
+  xy: 1812, 1
+  size: 157, 319
+  orig: 157, 319
+  offset: 0, 0
+  index: -1
+xing_5
+  rotate: true
+  xy: 1, 809
+  size: 768, 1378
+  orig: 768, 1378
+  offset: 0, 0
+  index: -1
+xing_6
+  rotate: false
+  xy: 1, 1
+  size: 1809, 806
+  orig: 1809, 806
+  offset: 0, 0
+  index: -1
+xing_8
+  rotate: true
+  xy: 1381, 809
+  size: 714, 563
+  orig: 714, 563
+  offset: 0, 0
+  index: -1
+xing_9
+  rotate: true
+  xy: 1381, 1525
+  size: 499, 642
+  orig: 499, 642
+  offset: 0, 0
+  index: -1

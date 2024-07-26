@@ -1,0 +1,32 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "figure_7009_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7654186441214556766
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -5302650981235597208
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 2063799066742551886
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 7330528410611814285
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

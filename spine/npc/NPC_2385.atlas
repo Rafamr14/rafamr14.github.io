@@ -1,0 +1,153 @@
+
+NPC_2385.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1Body1_1
+  rotate: false
+  xy: 2, 34
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+1Body1_10
+  rotate: false
+  xy: 2, 378
+  size: 92, 207
+  orig: 92, 207
+  offset: 0, 0
+  index: -1
+1Body1_11
+  rotate: false
+  xy: 853, 951
+  size: 87, 63
+  orig: 87, 63
+  offset: 0, 0
+  index: -1
+1Body1_12
+  rotate: true
+  xy: 383, 855
+  size: 62, 198
+  orig: 62, 198
+  offset: 0, 0
+  index: -1
+1Body1_13
+  rotate: false
+  xy: 2, 255
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+1Body1_14
+  rotate: false
+  xy: 64, 319
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+1Body1_15
+  rotate: false
+  xy: 583, 854
+  size: 47, 63
+  orig: 47, 63
+  offset: 0, 0
+  index: -1
+1Body1_16
+  rotate: true
+  xy: 942, 942
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+1Body1_17
+  rotate: false
+  xy: 474, 774
+  size: 72, 79
+  orig: 72, 79
+  offset: 0, 0
+  index: -1
+1Body1_2
+  rotate: false
+  xy: 383, 766
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+1Body1_2_1
+  rotate: false
+  xy: 742, 952
+  size: 109, 62
+  orig: 109, 62
+  offset: 0, 0
+  index: -1
+1Body1_3
+  rotate: false
+  xy: 2, 93
+  size: 41, 74
+  orig: 41, 74
+  offset: 0, 0
+  index: -1
+1Body1_4
+  rotate: false
+  xy: 2, 169
+  size: 55, 84
+  orig: 55, 84
+  offset: 0, 0
+  index: -1
+1Body1_5
+  rotate: false
+  xy: 2, 587
+  size: 198, 145
+  orig: 198, 145
+  offset: 0, 0
+  index: -1
+1Body1_6
+  rotate: false
+  xy: 96, 472
+  size: 97, 113
+  orig: 97, 113
+  offset: 0, 0
+  index: -1
+1Body1_7
+  rotate: false
+  xy: 64, 261
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+1Body1_8
+  rotate: false
+  xy: 96, 402
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+1Body1_9
+  rotate: true
+  xy: 627, 943
+  size: 71, 113
+  orig: 71, 113
+  offset: 0, 0
+  index: -1
+1Seagull_Head1
+  rotate: false
+  xy: 383, 919
+  size: 242, 95
+  orig: 242, 95
+  offset: 0, 0
+  index: -1
+1Seagull_Head2
+  rotate: false
+  xy: 202, 607
+  size: 160, 125
+  orig: 160, 125
+  offset: 0, 0
+  index: -1
+1Seagull_Head3
+  rotate: false
+  xy: 2, 734
+  size: 379, 280
+  orig: 379, 280
+  offset: 0, 0
+  index: -1

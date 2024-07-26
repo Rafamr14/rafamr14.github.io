@@ -1,0 +1,279 @@
+
+CheckMate1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CheckMate_0
+  rotate: false
+  xy: 2, 391
+  size: 365, 119
+  orig: 365, 119
+  offset: 0, 0
+  index: -1
+CheckMate_10
+  rotate: false
+  xy: 340, 311
+  size: 91, 47
+  orig: 91, 47
+  offset: 0, 0
+  index: -1
+CheckMate_11
+  rotate: false
+  xy: 210, 91
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+CheckMate_12
+  rotate: true
+  xy: 503, 349
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+CheckMate_13
+  rotate: false
+  xy: 423, 254
+  size: 87, 37
+  orig: 87, 37
+  offset: 0, 0
+  index: -1
+CheckMate_14
+  rotate: false
+  xy: 279, 50
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+CheckMate_15
+  rotate: true
+  xy: 361, 163
+  size: 90, 41
+  orig: 90, 41
+  offset: 0, 0
+  index: -1
+CheckMate_16
+  rotate: true
+  xy: 330, 239
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+CheckMate_17
+  rotate: false
+  xy: 2, 240
+  size: 162, 149
+  orig: 162, 149
+  offset: 0, 0
+  index: -1
+CheckMate_18
+  rotate: false
+  xy: 492, 173
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+CheckMate_19
+  rotate: true
+  xy: 433, 293
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+CheckMate_20
+  rotate: true
+  xy: 456, 138
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+CheckMate_21
+  rotate: false
+  xy: 340, 361
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+CheckMate_22
+  rotate: false
+  xy: 492, 191
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+CheckMate_23
+  rotate: true
+  xy: 131, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+CheckMate_24
+  rotate: true
+  xy: 459, 107
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+CheckMate_25
+  rotate: false
+  xy: 405, 137
+  size: 49, 33
+  orig: 49, 33
+  offset: 0, 0
+  index: -1
+CheckMate_26
+  rotate: false
+  xy: 330, 255
+  size: 91, 54
+  orig: 91, 54
+  offset: 0, 0
+  index: -1
+CheckMate_27
+  rotate: false
+  xy: 404, 172
+  size: 86, 41
+  orig: 86, 41
+  offset: 0, 0
+  index: -1
+CheckMate_28
+  rotate: false
+  xy: 250, 50
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+CheckMate_29
+  rotate: true
+  xy: 405, 105
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+CheckMate_3
+  rotate: false
+  xy: 361, 101
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+CheckMate_30
+  rotate: false
+  xy: 250, 24
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+CheckMate_31
+  rotate: false
+  xy: 361, 70
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+CheckMate_32
+  rotate: false
+  xy: 332, 75
+  size: 27, 38
+  orig: 27, 38
+  offset: 0, 0
+  index: -1
+CheckMate_33
+  rotate: false
+  xy: 361, 45
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+CheckMate_34
+  rotate: true
+  xy: 279, 57
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+CheckMate_35
+  rotate: true
+  xy: 282, 85
+  size: 28, 48
+  orig: 28, 48
+  offset: 0, 0
+  index: -1
+CheckMate_36
+  rotate: false
+  xy: 328, 50
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1
+CheckMate_37
+  rotate: true
+  xy: 210, 102
+  size: 135, 70
+  orig: 135, 70
+  offset: 0, 0
+  index: -1
+CheckMate_39
+  rotate: false
+  xy: 369, 360
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+CheckMate_40
+  rotate: true
+  xy: 2, 10
+  size: 102, 127
+  orig: 102, 127
+  offset: 0, 0
+  index: -1
+CheckMate_41
+  rotate: true
+  xy: 166, 312
+  size: 77, 172
+  orig: 77, 172
+  offset: 0, 0
+  index: -1
+CheckMate_42
+  rotate: true
+  xy: 166, 239
+  size: 71, 162
+  orig: 71, 162
+  offset: 0, 0
+  index: -1
+CheckMate_43
+  rotate: false
+  xy: 131, 87
+  size: 77, 150
+  orig: 77, 150
+  offset: 0, 0
+  index: -1
+CheckMate_6
+  rotate: false
+  xy: 2, 114
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+CheckMate_7
+  rotate: false
+  xy: 282, 115
+  size: 77, 122
+  orig: 77, 122
+  offset: 0, 0
+  index: -1
+CheckMate_8
+  rotate: true
+  xy: 404, 215
+  size: 37, 90
+  orig: 37, 90
+  offset: 0, 0
+  index: -1
+CheckMate_9
+  rotate: true
+  xy: 131, 23
+  size: 62, 117
+  orig: 62, 117
+  offset: 0, 0
+  index: -1

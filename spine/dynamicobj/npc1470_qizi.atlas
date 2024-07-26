@@ -1,0 +1,97 @@
+
+npc1470_qizi.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qizi
+  rotate: false
+  xy: 2, 18
+  size: 106, 235
+  orig: 106, 235
+  offset: 0, 0
+  index: -1
+qz10
+  rotate: false
+  xy: 110, 123
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+qz11
+  rotate: false
+  xy: 195, 213
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+qz12
+  rotate: true
+  xy: 110, 39
+  size: 82, 40
+  orig: 82, 40
+  offset: 0, 0
+  index: -1
+qz2
+  rotate: false
+  xy: 152, 60
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+qz3
+  rotate: false
+  xy: 110, 206
+  size: 83, 47
+  orig: 83, 47
+  offset: 0, 0
+  index: -1
+qz4
+  rotate: false
+  xy: 212, 3
+  size: 27, 55
+  orig: 27, 55
+  offset: 0, 0
+  index: -1
+qz5
+  rotate: false
+  xy: 202, 160
+  size: 39, 51
+  orig: 39, 51
+  offset: 0, 0
+  index: -1
+qz6
+  rotate: false
+  xy: 154, 136
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+qz7
+  rotate: false
+  xy: 2, 4
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+qz8
+  rotate: true
+  xy: 202, 132
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+qz9
+  rotate: false
+  xy: 110, 16
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1
+qz_1
+  rotate: false
+  xy: 152, 2
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1

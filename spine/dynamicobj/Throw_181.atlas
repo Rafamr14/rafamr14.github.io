@@ -1,0 +1,97 @@
+
+Throw_181.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zhenzhou_0
+  rotate: false
+  xy: 365, 38
+  size: 48, 82
+  orig: 48, 82
+  offset: 0, 0
+  index: -1
+zhenzhou_1
+  rotate: true
+  xy: 326, 302
+  size: 207, 105
+  orig: 207, 105
+  offset: 0, 0
+  index: -1
+zhenzhou_10
+  rotate: false
+  xy: 326, 238
+  size: 73, 62
+  orig: 73, 62
+  offset: 0, 0
+  index: -1
+zhenzhou_11
+  rotate: true
+  xy: 259, 112
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1
+zhenzhou_12
+  rotate: false
+  xy: 2, 238
+  size: 322, 271
+  orig: 322, 271
+  offset: 0, 0
+  index: -1
+zhenzhou_2
+  rotate: true
+  xy: 433, 419
+  size: 90, 69
+  orig: 90, 69
+  offset: 0, 0
+  index: -1
+zhenzhou_3
+  rotate: true
+  xy: 415, 79
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+zhenzhou_4
+  rotate: true
+  xy: 2, 5
+  size: 231, 255
+  orig: 231, 255
+  offset: 0, 0
+  index: -1
+zhenzhou_5
+  rotate: false
+  xy: 259, 2
+  size: 104, 108
+  orig: 104, 108
+  offset: 0, 0
+  index: -1
+zhenzhou_6
+  rotate: false
+  xy: 401, 222
+  size: 55, 78
+  orig: 55, 78
+  offset: 0, 0
+  index: -1
+zhenzhou_7
+  rotate: false
+  xy: 397, 141
+  size: 73, 79
+  orig: 73, 79
+  offset: 0, 0
+  index: -1
+zhenzhou_8
+  rotate: false
+  xy: 433, 304
+  size: 40, 113
+  orig: 40, 113
+  offset: 0, 0
+  index: -1
+zhenzhou_9
+  rotate: false
+  xy: 353, 122
+  size: 42, 114
+  orig: 42, 114
+  offset: 0, 0
+  index: -1

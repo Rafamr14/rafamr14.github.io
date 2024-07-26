@@ -1,0 +1,244 @@
+
+pet192_cutin.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shenle_Cutin1
+  rotate: true
+  xy: 430, 320
+  size: 301, 118
+  orig: 301, 118
+  offset: 0, 0
+  index: -1
+shenle_Cutin10
+  rotate: false
+  xy: 548, 6
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+shenle_Cutin11
+  rotate: true
+  xy: 980, 331
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+shenle_Cutin12
+  rotate: false
+  xy: 504, 634
+  size: 229, 119
+  orig: 229, 119
+  offset: 0, 0
+  index: -1
+shenle_Cutin13
+  rotate: true
+  xy: 928, 736
+  size: 174, 56
+  orig: 174, 56
+  offset: 0, 0
+  index: -1
+shenle_Cutin14
+  rotate: false
+  xy: 603, 32
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+shenle_Cutin15
+  rotate: false
+  xy: 986, 877
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+shenle_Cutin16
+  rotate: true
+  xy: 553, 58
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+shenle_Cutin17
+  rotate: false
+  xy: 661, 167
+  size: 111, 153
+  orig: 111, 153
+  offset: 0, 0
+  index: -1
+shenle_Cutin18
+  rotate: false
+  xy: 703, 439
+  size: 185, 166
+  orig: 185, 166
+  offset: 0, 0
+  index: -1
+shenle_Cutin19
+  rotate: false
+  xy: 2, 150
+  size: 237, 232
+  orig: 237, 232
+  offset: 0, 0
+  index: -1
+shenle_Cutin2
+  rotate: false
+  xy: 890, 417
+  size: 97, 188
+  orig: 97, 188
+  offset: 0, 0
+  index: -1
+shenle_Cutin20
+  rotate: false
+  xy: 980, 377
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+shenle_Cutin21
+  rotate: false
+  xy: 550, 327
+  size: 127, 88
+  orig: 127, 88
+  offset: 0, 0
+  index: -1
+shenle_Cutin22
+  rotate: false
+  xy: 2, 17
+  size: 211, 131
+  orig: 211, 131
+  offset: 0, 0
+  index: -1
+shenle_Cutin23
+  rotate: false
+  xy: 603, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+shenle_Cutin24
+  rotate: false
+  xy: 774, 170
+  size: 105, 150
+  orig: 105, 150
+  offset: 0, 0
+  index: -1
+shenle_Cutin25
+  rotate: true
+  xy: 392, 2
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1
+shenle_Cutin26
+  rotate: false
+  xy: 860, 330
+  size: 118, 85
+  orig: 118, 85
+  offset: 0, 0
+  index: -1
+shenle_Cutin27
+  rotate: false
+  xy: 670, 93
+  size: 93, 72
+  orig: 93, 72
+  offset: 0, 0
+  index: -1
+shenle_Cutin28
+  rotate: false
+  xy: 881, 190
+  size: 103, 138
+  orig: 103, 138
+  offset: 0, 0
+  index: -1
+shenle_Cutin29
+  rotate: false
+  xy: 215, 32
+  size: 175, 112
+  orig: 175, 112
+  offset: 0, 0
+  index: -1
+shenle_Cutin3
+  rotate: false
+  xy: 241, 146
+  size: 156, 236
+  orig: 156, 236
+  offset: 0, 0
+  index: -1
+shenle_Cutin30
+  rotate: false
+  xy: 550, 417
+  size: 151, 215
+  orig: 151, 215
+  offset: 0, 0
+  index: -1
+shenle_Cutin31
+  rotate: false
+  xy: 2, 384
+  size: 426, 237
+  orig: 426, 237
+  offset: 0, 0
+  index: -1
+shenle_Cutin32
+  rotate: true
+  xy: 759, 724
+  size: 298, 167
+  orig: 298, 167
+  offset: 0, 0
+  index: -1
+shenle_Cutin33
+  rotate: false
+  xy: 928, 912
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+shenle_Cutin4
+  rotate: false
+  xy: 399, 106
+  size: 152, 212
+  orig: 152, 212
+  offset: 0, 0
+  index: -1
+shenle_Cutin5
+  rotate: false
+  xy: 703, 322
+  size: 155, 115
+  orig: 155, 115
+  offset: 0, 0
+  index: -1
+shenle_Cutin6
+  rotate: true
+  xy: 735, 607
+  size: 115, 212
+  orig: 115, 212
+  offset: 0, 0
+  index: -1
+shenle_Cutin7
+  rotate: false
+  xy: 2, 623
+  size: 500, 399
+  orig: 500, 399
+  offset: 0, 0
+  index: -1
+shenle_Cutin8
+  rotate: false
+  xy: 553, 145
+  size: 106, 180
+  orig: 106, 180
+  offset: 0, 0
+  index: -1
+shenle_Cutin9
+  rotate: false
+  xy: 504, 755
+  size: 253, 267
+  orig: 253, 267
+  offset: 0, 0
+  index: -1
+shenle_shin1
+  rotate: true
+  xy: 670, 31
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1

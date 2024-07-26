@@ -1,0 +1,223 @@
+
+cutin_borunya_black.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gz1
+  rotate: false
+  xy: 716, 74
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+gz2
+  rotate: false
+  xy: 785, 93
+  size: 86, 151
+  orig: 86, 151
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 1, 16
+  size: 223, 144
+  orig: 223, 144
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 763, 245
+  size: 111, 133
+  orig: 111, 133
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 891, 380
+  size: 132, 133
+  orig: 132, 133
+  offset: 0, 0
+  index: -1
+j3
+  rotate: true
+  xy: 614, 66
+  size: 163, 101
+  orig: 163, 101
+  offset: 0, 0
+  index: -1
+j4
+  rotate: true
+  xy: 225, 3
+  size: 157, 128
+  orig: 157, 128
+  offset: 0, 0
+  index: -1
+lh1
+  rotate: false
+  xy: 875, 250
+  size: 89, 128
+  orig: 89, 128
+  offset: 0, 0
+  index: -1
+lh2
+  rotate: false
+  xy: 483, 8
+  size: 68, 170
+  orig: 68, 170
+  offset: 0, 0
+  index: -1
+lh5
+  rotate: false
+  xy: 928, 636
+  size: 88, 190
+  orig: 88, 190
+  offset: 0, 0
+  index: -1
+lj1
+  rotate: true
+  xy: 614, 7
+  size: 58, 95
+  orig: 58, 95
+  offset: 0, 0
+  index: -1
+loink
+  rotate: true
+  xy: 872, 64
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+p1
+  rotate: true
+  xy: 342, 550
+  size: 251, 177
+  orig: 251, 177
+  offset: 0, 0
+  index: -1
+p2
+  rotate: true
+  xy: 520, 577
+  size: 224, 188
+  orig: 224, 188
+  offset: 0, 0
+  index: -1
+p3
+  rotate: false
+  xy: 709, 629
+  size: 218, 197
+  orig: 218, 197
+  offset: 0, 0
+  index: -1
+p4
+  rotate: false
+  xy: 808, 827
+  size: 202, 196
+  orig: 202, 196
+  offset: 0, 0
+  index: -1
+qtx1
+  rotate: false
+  xy: 1, 161
+  size: 318, 318
+  orig: 318, 318
+  offset: 0, 0
+  index: -1
+qtx3
+  rotate: false
+  xy: 342, 802
+  size: 223, 221
+  orig: 223, 221
+  offset: 0, 0
+  index: -1
+qtx4
+  rotate: false
+  xy: 342, 366
+  size: 183, 183
+  orig: 183, 183
+  offset: 0, 0
+  index: -1
+qtx5
+  rotate: false
+  xy: 614, 230
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+qtx6
+  rotate: false
+  xy: 872, 133
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 1, 480
+  size: 340, 543
+  orig: 340, 543
+  offset: 0, 0
+  index: -1
+tf1
+  rotate: true
+  xy: 709, 514
+  size: 114, 221
+  orig: 114, 221
+  offset: 0, 0
+  index: -1
+tf2
+  rotate: false
+  xy: 517, 181
+  size: 96, 184
+  orig: 96, 184
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 320, 179
+  size: 196, 186
+  orig: 196, 186
+  offset: 0, 0
+  index: -1
+tx6
+  rotate: true
+  xy: 526, 392
+  size: 184, 168
+  orig: 184, 168
+  offset: 0, 0
+  index: -1
+ydb
+  rotate: true
+  xy: 354, 9
+  size: 169, 128
+  orig: 169, 128
+  offset: 0, 0
+  index: -1
+yxb
+  rotate: false
+  xy: 566, 846
+  size: 241, 177
+  orig: 241, 177
+  offset: 0, 0
+  index: -1
+zdb
+  rotate: false
+  xy: 552, 11
+  size: 61, 169
+  orig: 61, 169
+  offset: 0, 0
+  index: -1
+zs
+  rotate: false
+  xy: 931, 514
+  size: 61, 121
+  orig: 61, 121
+  offset: 0, 0
+  index: -1
+zxb
+  rotate: true
+  xy: 695, 379
+  size: 134, 195
+  orig: 134, 195
+  offset: 0, 0
+  index: -1

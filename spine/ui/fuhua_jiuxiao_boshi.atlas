@@ -1,0 +1,237 @@
+
+fuhua_jiuxiao_boshi.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuhuaxiaoren_0
+  rotate: false
+  xy: 208, 1
+  size: 37, 76
+  orig: 37, 76
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_1
+  rotate: false
+  xy: 260, 135
+  size: 34, 70
+  orig: 34, 70
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_2
+  rotate: false
+  xy: 62, 410
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_3
+  rotate: false
+  xy: 1, 410
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_4
+  rotate: false
+  xy: 1, 211
+  size: 190, 197
+  orig: 190, 197
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_5
+  rotate: true
+  xy: 1, 499
+  size: 10, 33
+  orig: 10, 33
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_6
+  rotate: true
+  xy: 450, 1
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_7
+  rotate: false
+  xy: 298, 252
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_8
+  rotate: false
+  xy: 322, 330
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_9
+  rotate: true
+  xy: 450, 69
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_10
+  rotate: false
+  xy: 450, 30
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_11
+  rotate: true
+  xy: 431, 135
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_12
+  rotate: true
+  xy: 296, 135
+  size: 63, 75
+  orig: 63, 75
+  offset: 0, 0
+  index: -1
+fuhuaxiaoren_13
+  rotate: true
+  xy: 208, 79
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_0
+  rotate: true
+  xy: 177, 410
+  size: 82, 107
+  orig: 82, 107
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_1
+  rotate: false
+  xy: 286, 408
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_2
+  rotate: false
+  xy: 1, 1
+  size: 205, 208
+  orig: 205, 208
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_3
+  rotate: true
+  xy: 328, 1
+  size: 107, 120
+  orig: 107, 120
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_4
+  rotate: false
+  xy: 322, 200
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_5
+  rotate: false
+  xy: 249, 334
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_6
+  rotate: false
+  xy: 324, 252
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_7
+  rotate: false
+  xy: 62, 495
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_8
+  rotate: false
+  xy: 260, 1
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+jiuxiaoxiaoren_9
+  rotate: false
+  xy: 193, 334
+  size: 54, 73
+  orig: 54, 73
+  offset: 0, 0
+  index: -1
+xiaoren_20
+  rotate: true
+  xy: 474, 187
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+xiaoren_22
+  rotate: true
+  xy: 474, 218
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+xiaoren_74
+  rotate: true
+  xy: 286, 490
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+xiaoren_75
+  rotate: false
+  xy: 193, 211
+  size: 103, 121
+  orig: 103, 121
+  offset: 0, 0
+  index: -1
+xiaoren_76
+  rotate: true
+  xy: 373, 110
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+xiaoren_78
+  rotate: false
+  xy: 208, 135
+  size: 50, 71
+  orig: 50, 71
+  offset: 0, 0
+  index: -1
+xiaoren_79
+  rotate: true
+  xy: 373, 155
+  size: 46, 55
+  orig: 46, 55
+  offset: 0, 0
+  index: -1
+xiaoren_81
+  rotate: false
+  xy: 287, 79
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+xiaoren_82
+  rotate: true
+  xy: 430, 187
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1

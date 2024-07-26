@@ -1,0 +1,13 @@
+
+dici.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dici
+  rotate: false
+  xy: 1, 1
+  size: 13, 57
+  orig: 13, 57
+  offset: 0, 0
+  index: -1

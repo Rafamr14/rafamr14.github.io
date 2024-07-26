@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "NPC_90058_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 510105529312947691
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8548199215500403236
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

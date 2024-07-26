@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "NPC_1910_battery_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 12,
+      "m_PathID": -2544379960426947809
+    }
+  ],
+  "scale": 0.16,
+  "skeletonJSON": {
+    "m_FileID": 12,
+    "m_PathID": -2991879895609921596
+  },
+  "fromAnimation": [
+    "skill2_1",
+    "skill2_2",
+    "skill2_2",
+    "skill2_2"
+  ],
+  "toAnimation": [
+    "skill2_2",
+    "die",
+    "idle",
+    "walk"
+  ],
+  "duration": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "defaultMix": 0.2,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

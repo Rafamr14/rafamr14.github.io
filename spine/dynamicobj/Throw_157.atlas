@@ -1,0 +1,125 @@
+
+Throw_157.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dapao_0
+  rotate: false
+  xy: 2, 278
+  size: 274, 232
+  orig: 274, 232
+  offset: 0, 0
+  index: -1
+dapao_1
+  rotate: false
+  xy: 236, 236
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+dapao_10
+  rotate: false
+  xy: 457, 176
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+dapao_11
+  rotate: true
+  xy: 278, 183
+  size: 327, 124
+  orig: 327, 124
+  offset: 0, 0
+  index: -1
+dapao_12
+  rotate: true
+  xy: 2, 2
+  size: 274, 232
+  orig: 274, 232
+  offset: 0, 0
+  index: -1
+dapao_13
+  rotate: false
+  xy: 236, 194
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+dapao_14
+  rotate: true
+  xy: 404, 218
+  size: 25, 84
+  orig: 25, 84
+  offset: 0, 0
+  index: -1
+dapao_15
+  rotate: false
+  xy: 236, 133
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+dapao_16
+  rotate: true
+  xy: 264, 139
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+dapao_2
+  rotate: true
+  xy: 317, 163
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+dapao_3
+  rotate: true
+  xy: 404, 355
+  size: 155, 76
+  orig: 155, 76
+  offset: 0, 0
+  index: -1
+dapao_4
+  rotate: false
+  xy: 404, 245
+  size: 89, 108
+  orig: 89, 108
+  offset: 0, 0
+  index: -1
+dapao_5
+  rotate: false
+  xy: 236, 75
+  size: 24, 56
+  orig: 24, 56
+  offset: 0, 0
+  index: -1
+dapao_6
+  rotate: false
+  xy: 482, 426
+  size: 24, 84
+  orig: 24, 84
+  offset: 0, 0
+  index: -1
+dapao_7
+  rotate: false
+  xy: 236, 18
+  size: 24, 55
+  orig: 24, 55
+  offset: 0, 0
+  index: -1
+dapao_8
+  rotate: false
+  xy: 482, 365
+  size: 22, 59
+  orig: 22, 59
+  offset: 0, 0
+  index: -1
+dapao_9
+  rotate: true
+  xy: 404, 174
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1

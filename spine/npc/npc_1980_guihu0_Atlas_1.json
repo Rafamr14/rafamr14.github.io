@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "npc_1980_guihu0_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6800034940704071482
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4989443582299356774
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

@@ -1,0 +1,195 @@
+
+emo.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+annoyed
+  rotate: false
+  xy: 2, 198
+  size: 129, 124
+  orig: 129, 124
+  offset: 0, 0
+  index: -1
+call_1
+  rotate: true
+  xy: 345, 360
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+call_2
+  rotate: true
+  xy: 223, 96
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+call_3
+  rotate: false
+  xy: 341, 305
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+call_4
+  rotate: true
+  xy: 213, 268
+  size: 69, 72
+  orig: 69, 72
+  offset: 0, 0
+  index: -1
+emo_angry1
+  rotate: false
+  xy: 145, 39
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+emo_angry2
+  rotate: false
+  xy: 203, 203
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+emo_angry3
+  rotate: true
+  xy: 223, 133
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+emo_awkward
+  rotate: false
+  xy: 145, 96
+  size: 76, 103
+  orig: 76, 103
+  offset: 0, 0
+  index: -1
+emo_cry1
+  rotate: false
+  xy: 445, 366
+  size: 62, 13
+  orig: 62, 13
+  offset: 0, 0
+  index: -1
+emo_cry2
+  rotate: true
+  xy: 2, 48
+  size: 148, 53
+  orig: 148, 53
+  offset: 0, 0
+  index: -1
+emo_cute1
+  rotate: true
+  xy: 133, 201
+  size: 121, 68
+  orig: 121, 68
+  offset: 0, 0
+  index: -1
+emo_cute2
+  rotate: true
+  xy: 327, 368
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+emo_cute3
+  rotate: true
+  xy: 327, 398
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+emo_happy
+  rotate: true
+  xy: 57, 58
+  size: 138, 50
+  orig: 138, 50
+  offset: 0, 0
+  index: -1
+emo_question
+  rotate: true
+  xy: 213, 339
+  size: 88, 112
+  orig: 88, 112
+  offset: 0, 0
+  index: -1
+emo_shock
+  rotate: false
+  xy: 109, 64
+  size: 34, 132
+  orig: 34, 132
+  offset: 0, 0
+  index: -1
+emo_shy
+  rotate: false
+  xy: 213, 429
+  size: 130, 79
+  orig: 130, 79
+  offset: 0, 0
+  index: -1
+emo_think1
+  rotate: false
+  xy: 261, 101
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+emo_think2
+  rotate: false
+  xy: 261, 101
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+emo_think3
+  rotate: false
+  xy: 261, 101
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+emo_unhappy
+  rotate: false
+  xy: 345, 449
+  size: 138, 59
+  orig: 138, 59
+  offset: 0, 0
+  index: -1
+qipao1
+  rotate: false
+  xy: 2, 324
+  size: 209, 184
+  orig: 209, 184
+  offset: 0, 0
+  index: -1
+qipao2
+  rotate: true
+  xy: 445, 381
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sleep_1
+  rotate: false
+  xy: 287, 280
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+sleep_2
+  rotate: false
+  xy: 2, 2
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+sleep_3
+  rotate: false
+  xy: 396, 320
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1

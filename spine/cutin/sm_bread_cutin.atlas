@@ -1,0 +1,265 @@
+
+sm_bread_cutin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 423, 83
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 260, 12
+  size: 53, 69
+  orig: 53, 69
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 492, 154
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 375, 243
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 92, 2
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 110, 2
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+dantong
+  rotate: true
+  xy: 2, 79
+  size: 256, 130
+  orig: 256, 130
+  offset: 0, 0
+  index: -1
+guang1
+  rotate: true
+  xy: 318, 268
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+guang2
+  rotate: true
+  xy: 396, 380
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+houfa
+  rotate: false
+  xy: 2, 337
+  size: 219, 173
+  orig: 219, 173
+  offset: 0, 0
+  index: -1
+houqun
+  rotate: true
+  xy: 262, 67
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+hudiejie
+  rotate: false
+  xy: 324, 75
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+linzi
+  rotate: true
+  xy: 324, 101
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+maozi
+  rotate: false
+  xy: 223, 386
+  size: 188, 124
+  orig: 188, 124
+  offset: 0, 0
+  index: -1
+maozi 1
+  rotate: false
+  xy: 471, 107
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+maozi 2
+  rotate: true
+  xy: 367, 100
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+maozi 3
+  rotate: false
+  xy: 160, 5
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+maozi 4
+  rotate: true
+  xy: 448, 173
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+maozi2
+  rotate: true
+  xy: 134, 153
+  size: 182, 76
+  orig: 182, 76
+  offset: 0, 0
+  index: -1
+pijian
+  rotate: false
+  xy: 133, 27
+  size: 77, 49
+  orig: 77, 49
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: false
+  xy: 396, 304
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: true
+  xy: 2, 2
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+tou
+  rotate: false
+  xy: 212, 163
+  size: 104, 111
+  orig: 104, 111
+  offset: 0, 0
+  index: -1
+toufa1
+  rotate: false
+  xy: 413, 380
+  size: 84, 130
+  orig: 84, 130
+  offset: 0, 0
+  index: -1
+toufa2
+  rotate: true
+  xy: 396, 241
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+toufa3
+  rotate: false
+  xy: 318, 198
+  size: 55, 68
+  orig: 55, 68
+  offset: 0, 0
+  index: -1
+toufa4
+  rotate: false
+  xy: 212, 12
+  size: 46, 64
+  orig: 46, 64
+  offset: 0, 0
+  index: -1
+toufa5
+  rotate: false
+  xy: 223, 276
+  size: 128, 108
+  orig: 128, 108
+  offset: 0, 0
+  index: -1
+toufa6
+  rotate: false
+  xy: 353, 268
+  size: 41, 116
+  orig: 41, 116
+  offset: 0, 0
+  index: -1
+yougebo
+  rotate: false
+  xy: 423, 110
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+youtui
+  rotate: true
+  xy: 134, 78
+  size: 73, 126
+  orig: 73, 126
+  offset: 0, 0
+  index: -1
+youxiaobi
+  rotate: false
+  xy: 318, 170
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 92, 17
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+zuogebo
+  rotate: true
+  xy: 440, 143
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+zuoshou
+  rotate: true
+  xy: 372, 143
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+zuoxiaobi
+  rotate: false
+  xy: 133, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 375, 187
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1

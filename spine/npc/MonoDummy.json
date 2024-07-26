@@ -1,0 +1,44 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": -4078246975455287352
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": -2630346873431929807
+  },
+  "m_Name": "",
+  "DummyHitPoint": {
+    "m_FileID": 0,
+    "m_PathID": -4389515218048588352
+  },
+  "DummyOverHead": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DummyFootStep": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DummyIWeapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DummyOWeapon": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DummyDieBubble": {
+    "m_FileID": 0,
+    "m_PathID": -5522789406911301574
+  },
+  "DummySpecial": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "DummyTail": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

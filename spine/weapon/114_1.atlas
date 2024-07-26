@@ -1,0 +1,20 @@
+
+114_1.png
+size: 435,85
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 287, 83
+  orig: 383, 158
+  offset: 96, 27
+  index: -1
+rpg_2
+  rotate: false
+  xy: 289, 40
+  size: 145, 44
+  orig: 237, 68
+  offset: 1, 14
+  index: -1

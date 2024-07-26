@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Equip_25004_arrow_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5113624174041697135
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -985760494313278319
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

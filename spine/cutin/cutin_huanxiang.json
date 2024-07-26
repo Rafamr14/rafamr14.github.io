@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "cutin_huanxiang",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7697857914070820972
+    }
+  ],
+  "scale": 0.18,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -3104444605331840456
+  },
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 367075509622697444
+  }
+}

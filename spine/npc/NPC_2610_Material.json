@@ -1,0 +1,60 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -4884859821876107410,
+    "Name": "miHoYo/Spine/SkeletonObject",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 760811453831669504,
+          "Name": "NPC_2610",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_Cutoff": 0.1
+    },
+    "m_Colors": {
+      "_Black": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Emission": {
+        "r": 0.4,
+        "g": 0.4,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "_TransColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC_2610_Material",
+  "Name": "NPC_2610_Material"
+}

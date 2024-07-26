@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "gzzx_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 559074554321979856
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -6471265571991239926
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": 8009058982500468359
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

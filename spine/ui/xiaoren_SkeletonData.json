@@ -1,0 +1,31 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "xiaoren_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 17,
+      "m_PathID": -1422688744679369077
+    }
+  ],
+  "scale": 0.6,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": -995863362002526781
+  },
+  "fromAnimation": [],
+  "toAnimation": [],
+  "duration": [],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

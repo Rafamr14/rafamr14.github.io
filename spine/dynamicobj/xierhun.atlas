@@ -1,0 +1,258 @@
+
+xierhun.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xierhun_0
+  rotate: false
+  xy: 279, 262
+  size: 81, 104
+  orig: 81, 104
+  offset: 0, 0
+  index: -1
+xierhun_1
+  rotate: false
+  xy: 224, 217
+  size: 53, 115
+  orig: 53, 115
+  offset: 0, 0
+  index: -1
+xierhun_10
+  rotate: false
+  xy: 214, 83
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+xierhun_11
+  rotate: false
+  xy: 310, 125
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+xierhun_12
+  rotate: false
+  xy: 2, 190
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+xierhun_13
+  rotate: false
+  xy: 268, 368
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+xierhun_14
+  rotate: false
+  xy: 2, 46
+  size: 150, 142
+  orig: 150, 142
+  offset: 0, 0
+  index: -1
+xierhun_15
+  rotate: true
+  xy: 412, 162
+  size: 46, 86
+  orig: 46, 86
+  offset: 0, 0
+  index: -1
+xierhun_16
+  rotate: false
+  xy: 241, 10
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+xierhun_17
+  rotate: false
+  xy: 380, 131
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+xierhun_18
+  rotate: true
+  xy: 216, 10
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+xierhun_19
+  rotate: true
+  xy: 270, 147
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+xierhun_2
+  rotate: false
+  xy: 279, 174
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+xierhun_20
+  rotate: true
+  xy: 310, 105
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1
+xierhun_21
+  rotate: false
+  xy: 2, 334
+  size: 264, 176
+  orig: 264, 176
+  offset: 0, 0
+  index: -1
+xierhun_22
+  rotate: false
+  xy: 216, 32
+  size: 36, 49
+  orig: 36, 49
+  offset: 0, 0
+  index: -1
+xierhun_23
+  rotate: false
+  xy: 154, 33
+  size: 60, 48
+  orig: 60, 48
+  offset: 0, 0
+  index: -1
+xierhun_24
+  rotate: true
+  xy: 426, 210
+  size: 95, 69
+  orig: 95, 69
+  offset: 0, 0
+  index: -1
+xierhun_25
+  rotate: false
+  xy: 254, 36
+  size: 40, 48
+  orig: 40, 49
+  offset: 0, 1
+  index: -1
+xierhun_26
+  rotate: false
+  xy: 214, 144
+  size: 54, 44
+  orig: 54, 44
+  offset: 0, 0
+  index: -1
+xierhun_27
+  rotate: true
+  xy: 141, 2
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+xierhun_28
+  rotate: true
+  xy: 80, 9
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+xierhun_29
+  rotate: true
+  xy: 271, 101
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+xierhun_3
+  rotate: true
+  xy: 420, 410
+  size: 100, 86
+  orig: 100, 86
+  offset: 0, 0
+  index: -1
+xierhun_30
+  rotate: true
+  xy: 224, 190
+  size: 25, 53
+  orig: 25, 53
+  offset: 0, 0
+  index: -1
+xierhun_31
+  rotate: false
+  xy: 247, 86
+  size: 22, 56
+  orig: 22, 56
+  offset: 0, 0
+  index: -1
+xierhun_32
+  rotate: false
+  xy: 189, 8
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+xierhun_33
+  rotate: false
+  xy: 265, 12
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+xierhun_34
+  rotate: true
+  xy: 310, 146
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+xierhun_35
+  rotate: true
+  xy: 348, 128
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+xierhun_4
+  rotate: false
+  xy: 154, 83
+  size: 58, 128
+  orig: 58, 128
+  offset: 0, 0
+  index: -1
+xierhun_5
+  rotate: true
+  xy: 154, 213
+  size: 119, 68
+  orig: 120, 68
+  offset: 0, 0
+  index: -1
+xierhun_6
+  rotate: true
+  xy: 2, 2
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+xierhun_7
+  rotate: false
+  xy: 348, 154
+  size: 62, 97
+  orig: 62, 98
+  offset: 0, 1
+  index: -1
+xierhun_8
+  rotate: false
+  xy: 362, 253
+  size: 62, 113
+  orig: 62, 114
+  offset: 0, 1
+  index: -1
+xierhun_9
+  rotate: false
+  xy: 426, 307
+  size: 68, 101
+  orig: 69, 101
+  offset: 1, 0
+  index: -1

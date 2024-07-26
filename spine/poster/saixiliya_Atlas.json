@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "saixiliya_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 7671998947667428752
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -4841345368418183036
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -8745994057342136598
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

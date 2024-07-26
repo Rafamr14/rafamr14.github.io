@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "beijuji_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 818138320317002725
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 6194686956922178620
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

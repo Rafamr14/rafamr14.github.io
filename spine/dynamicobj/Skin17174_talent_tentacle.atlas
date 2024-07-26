@@ -1,0 +1,27 @@
+
+Skin17174_talent_tentacle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+taa1
+  rotate: false
+  xy: 141, 57
+  size: 117, 454
+  orig: 117, 454
+  offset: 0, 0
+  index: -1
+taa2
+  rotate: false
+  xy: 1, 1
+  size: 139, 510
+  orig: 139, 510
+  offset: 0, 0
+  index: -1
+taa3
+  rotate: false
+  xy: 259, 221
+  size: 70, 290
+  orig: 70, 290
+  offset: 0, 0
+  index: -1

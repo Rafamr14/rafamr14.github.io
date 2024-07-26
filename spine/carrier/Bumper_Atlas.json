@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Bumper_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 3959776473709634227
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 151634043864612655
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

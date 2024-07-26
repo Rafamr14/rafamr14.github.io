@@ -1,0 +1,48 @@
+
+NPC_2420.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cc_0
+  rotate: false
+  xy: 1725, 1764
+  size: 242, 242
+  orig: 242, 242
+  offset: 0, 0
+  index: -1
+cc_1
+  rotate: false
+  xy: 838, 516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+cc_13
+  rotate: false
+  xy: 838, 2
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+cc_2
+  rotate: false
+  xy: 2, 1030
+  size: 1721, 976
+  orig: 1721, 976
+  offset: 0, 0
+  index: -1
+cc_2A
+  rotate: false
+  xy: 2, 102
+  size: 834, 926
+  orig: 834, 926
+  offset: 0, 0
+  index: -1
+heiying
+  rotate: false
+  xy: 1352, 928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

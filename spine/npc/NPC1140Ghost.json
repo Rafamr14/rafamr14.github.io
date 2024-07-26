@@ -1,0 +1,96 @@
+{
+  "m_Shader": {
+    "m_FileID": 1,
+    "m_PathID": -4592411235195785929,
+    "Name": "miHoYo/NPC_770Shadow",
+    "IsNull": false
+  },
+  "m_SavedProperties": {
+    "m_TexEnvs": {
+      "_MainTex": {
+        "m_Texture": {
+          "m_FileID": 0,
+          "m_PathID": 0,
+          "Name": "",
+          "IsNull": true
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      },
+      "_Projection": {
+        "m_Texture": {
+          "m_FileID": 10,
+          "m_PathID": -5901163468875183869,
+          "Name": "NPC_770Ghost",
+          "IsNull": false
+        },
+        "m_Scale": {
+          "X": 1.0,
+          "Y": 1.0
+        },
+        "m_Offset": {
+          "X": 0.0,
+          "Y": 0.0
+        }
+      }
+    },
+    "m_Ints": null,
+    "m_Floats": {
+      "_AlphaRatio": 1.0,
+      "_Amount": 1.0,
+      "_Bottom": 0.0,
+      "_Cutoff": 0.1,
+      "_Illuminate": 0.5,
+      "_Left": -100.0,
+      "_Right": 100.0,
+      "_StartAmout": 0.1,
+      "_Top": 100.0
+    },
+    "m_Colors": {
+      "_Black": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0,
+        "a": 1.0
+      },
+      "_Color": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_DissColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      },
+      "_Emission": {
+        "r": 0.4,
+        "g": 0.4,
+        "b": 0.4,
+        "a": 1.0
+      },
+      "_TintColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.3137255
+      },
+      "_TransColor": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 1.0
+      }
+    }
+  },
+  "m_Name": "NPC1140Ghost",
+  "Name": "NPC1140Ghost"
+}

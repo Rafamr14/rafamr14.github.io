@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Figure_1543_xr_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -5079648439240844171
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8756044443030066545
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

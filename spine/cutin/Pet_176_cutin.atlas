@@ -1,0 +1,181 @@
+
+Pet_176_cutin.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yugan_0
+  rotate: false
+  xy: 1, 1
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+yugan_1
+  rotate: false
+  xy: 307, 129
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+yugan_10
+  rotate: false
+  xy: 449, 174
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+yugan_11
+  rotate: false
+  xy: 307, 94
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+yugan_12
+  rotate: true
+  xy: 290, 213
+  size: 94, 68
+  orig: 94, 68
+  offset: 0, 0
+  index: -1
+yugan_13
+  rotate: false
+  xy: 276, 308
+  size: 85, 36
+  orig: 85, 36
+  offset: 0, 0
+  index: -1
+yugan_14
+  rotate: false
+  xy: 448, 277
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+yugan_15
+  rotate: false
+  xy: 449, 221
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+yugan_16
+  rotate: false
+  xy: 448, 459
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+yugan_17
+  rotate: false
+  xy: 448, 411
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+yugan_18
+  rotate: false
+  xy: 132, 45
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+yugan_19
+  rotate: true
+  xy: 359, 178
+  size: 83, 89
+  orig: 83, 89
+  offset: 0, 0
+  index: -1
+yugan_2
+  rotate: false
+  xy: 290, 177
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+yugan_20
+  rotate: true
+  xy: 200, 159
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+yugan_21
+  rotate: false
+  xy: 307, 54
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+yugan_22
+  rotate: true
+  xy: 132, 8
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+yugan_23
+  rotate: false
+  xy: 1, 284
+  size: 274, 227
+  orig: 274, 227
+  offset: 0, 0
+  index: -1
+yugan_24
+  rotate: false
+  xy: 276, 345
+  size: 171, 166
+  orig: 171, 166
+  offset: 0, 0
+  index: -1
+yugan_3
+  rotate: false
+  xy: 285, 40
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+yugan_4
+  rotate: false
+  xy: 1, 144
+  size: 198, 139
+  orig: 198, 139
+  offset: 0, 0
+  index: -1
+yugan_5
+  rotate: true
+  xy: 448, 344
+  size: 66, 61
+  orig: 66, 61
+  offset: 0, 0
+  index: -1
+yugan_6
+  rotate: false
+  xy: 1, 31
+  size: 130, 112
+  orig: 130, 112
+  offset: 0, 0
+  index: -1
+yugan_7
+  rotate: false
+  xy: 218, 67
+  size: 88, 91
+  orig: 88, 91
+  offset: 0, 0
+  index: -1
+yugan_8
+  rotate: false
+  xy: 218, 34
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+yugan_9
+  rotate: true
+  xy: 362, 262
+  size: 82, 85
+  orig: 82, 85
+  offset: 0, 0
+  index: -1

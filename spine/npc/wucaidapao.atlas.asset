@@ -1,0 +1,90 @@
+
+wucaidapao.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wucaidapao_0
+  rotate: false
+  xy: 99, 43
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+wucaidapao_1
+  rotate: true
+  xy: 2, 2
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+wucaidapao_10
+  rotate: false
+  xy: 224, 82
+  size: 27, 41
+  orig: 27, 41
+  offset: 0, 0
+  index: -1
+wucaidapao_11
+  rotate: false
+  xy: 123, 166
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+wucaidapao_2
+  rotate: false
+  xy: 2, 156
+  size: 119, 98
+  orig: 119, 98
+  offset: 0, 0
+  index: -1
+wucaidapao_3
+  rotate: false
+  xy: 213, 156
+  size: 37, 98
+  orig: 37, 98
+  offset: 0, 0
+  index: -1
+wucaidapao_4
+  rotate: false
+  xy: 148, 113
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+wucaidapao_5
+  rotate: true
+  xy: 99, 91
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+wucaidapao_6
+  rotate: false
+  xy: 209, 125
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+wucaidapao_7
+  rotate: false
+  xy: 187, 67
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+wucaidapao_8
+  rotate: false
+  xy: 2, 54
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+wucaidapao_9
+  rotate: true
+  xy: 150, 53
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1

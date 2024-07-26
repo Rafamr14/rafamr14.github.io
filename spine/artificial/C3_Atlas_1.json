@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "C3_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8499752245450507586
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -8240071519860603247
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

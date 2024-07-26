@@ -1,0 +1,13 @@
+
+chushou.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chushou
+  rotate: false
+  xy: 2, 2
+  size: 73, 249
+  orig: 73, 249
+  offset: 0, 0
+  index: -1

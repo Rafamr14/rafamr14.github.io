@@ -1,0 +1,293 @@
+
+skin_17166_pet.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BigGhost1_0
+  rotate: false
+  xy: 1356, 787
+  size: 187, 185
+  orig: 187, 185
+  offset: 0, 0
+  index: -1
+BigGhost1_1
+  rotate: true
+  xy: 1421, 974
+  size: 243, 240
+  orig: 243, 240
+  offset: 0, 0
+  index: -1
+BigGhost1_10
+  rotate: false
+  xy: 2, 988
+  size: 1031, 874
+  orig: 1031, 874
+  offset: 0, 0
+  index: -1
+BigGhost1_11
+  rotate: false
+  xy: 2, 439
+  size: 668, 547
+  orig: 668, 547
+  offset: 0, 0
+  index: -1
+BigGhost1_12
+  rotate: false
+  xy: 927, 700
+  size: 274, 273
+  orig: 274, 273
+  offset: 0, 0
+  index: -1
+BigGhost1_13
+  rotate: true
+  xy: 672, 563
+  size: 423, 253
+  orig: 423, 253
+  offset: 0, 0
+  index: -1
+BigGhost1_14
+  rotate: true
+  xy: 1833, 1484
+  size: 378, 178
+  orig: 378, 178
+  offset: 0, 0
+  index: -1
+BigGhost1_15
+  rotate: true
+  xy: 1624, 902
+  size: 70, 30
+  orig: 70, 30
+  offset: 0, 0
+  index: -1
+BigGhost1_16
+  rotate: false
+  xy: 824, 501
+  size: 92, 60
+  orig: 92, 60
+  offset: 0, 0
+  index: -1
+BigGhost1_17
+  rotate: true
+  xy: 1978, 1342
+  size: 140, 68
+  orig: 140, 68
+  offset: 0, 0
+  index: -1
+BigGhost1_18
+  rotate: true
+  xy: 1630, 1241
+  size: 90, 38
+  orig: 90, 38
+  offset: 0, 0
+  index: -1
+BigGhost1_19
+  rotate: false
+  xy: 1035, 1333
+  size: 642, 240
+  orig: 642, 240
+  offset: 0, 0
+  index: -1
+BigGhost1_2
+  rotate: false
+  xy: 1035, 1219
+  size: 593, 112
+  orig: 593, 112
+  offset: 0, 0
+  index: -1
+BigGhost1_20
+  rotate: false
+  xy: 1405, 748
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+BigGhost1_21
+  rotate: true
+  xy: 1679, 1343
+  size: 230, 112
+  orig: 230, 112
+  offset: 0, 0
+  index: -1
+BigGhost1_23
+  rotate: false
+  xy: 2, 1864
+  size: 2020, 182
+  orig: 2020, 182
+  offset: 0, 0
+  index: -1
+BigGhost1_3
+  rotate: true
+  xy: 1545, 782
+  size: 190, 77
+  orig: 190, 77
+  offset: 0, 0
+  index: -1
+BigGhost1_4
+  rotate: true
+  xy: 634, 67
+  size: 370, 108
+  orig: 370, 108
+  offset: 0, 0
+  index: -1
+BigGhost1_5
+  rotate: false
+  xy: 634, 2
+  size: 135, 63
+  orig: 135, 63
+  offset: 0, 0
+  index: -1
+BigGhost1_6
+  rotate: false
+  xy: 1035, 1575
+  size: 796, 287
+  orig: 796, 287
+  offset: 0, 0
+  index: -1
+BigGhost1_7
+  rotate: false
+  xy: 1203, 717
+  size: 151, 256
+  orig: 151, 256
+  offset: 0, 0
+  index: -1
+BigGhost1_8
+  rotate: false
+  xy: 2, 11
+  size: 554, 426
+  orig: 554, 426
+  offset: 0, 0
+  index: -1
+BigGhost1_9
+  rotate: true
+  xy: 1035, 975
+  size: 242, 384
+  orig: 242, 384
+  offset: 0, 0
+  index: -1
+BigGhost2_1
+  rotate: true
+  xy: 558, 8
+  size: 429, 74
+  orig: 429, 74
+  offset: 0, 0
+  index: -1
+BigGhost2_2
+  rotate: false
+  xy: 927, 627
+  size: 318, 71
+  orig: 318, 71
+  offset: 0, 0
+  index: -1
+BigGhost2_3
+  rotate: true
+  xy: 2013, 1492
+  size: 370, 33
+  orig: 370, 33
+  offset: 0, 0
+  index: -1
+BigGhost2_4
+  rotate: false
+  xy: 927, 571
+  size: 330, 54
+  orig: 330, 54
+  offset: 0, 0
+  index: -1
+BigGhost2_5
+  rotate: true
+  xy: 1793, 1379
+  size: 194, 38
+  orig: 194, 38
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_0
+  rotate: false
+  xy: 672, 439
+  size: 150, 122
+  orig: 150, 122
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_1
+  rotate: true
+  xy: 744, 135
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_2
+  rotate: false
+  xy: 1793, 1347
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_4
+  rotate: true
+  xy: 744, 231
+  size: 206, 65
+  orig: 206, 65
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_5
+  rotate: false
+  xy: 1833, 1372
+  size: 143, 110
+  orig: 143, 110
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_6
+  rotate: false
+  xy: 1624, 870
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_7
+  rotate: false
+  xy: 1356, 729
+  size: 47, 56
+  orig: 47, 56
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion1
+  rotate: true
+  xy: 2024, 1993
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion2
+  rotate: false
+  xy: 744, 97
+  size: 51, 36
+  orig: 51, 36
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion3_1
+  rotate: false
+  xy: 824, 457
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion3_2
+  rotate: false
+  xy: 1203, 702
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion3_3
+  rotate: false
+  xy: 1630, 1226
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+Skin_17166_Pet_emotion3_4
+  rotate: false
+  xy: 824, 442
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,46 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 8302033850027404168
+  },
+  "m_Name": "CarrierV2_2005_SkeletonData",
+  "atlasAssets": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7693804831515595919
+    }
+  ],
+  "scale": 0.3,
+  "skeletonJSON": {
+    "m_FileID": 0,
+    "m_PathID": 7733913806342242539
+  },
+  "fromAnimation": [
+    "ws_move",
+    "ws_move",
+    "my_move",
+    "my_move"
+  ],
+  "toAnimation": [
+    "ws_move",
+    "ws_born",
+    "my_move",
+    "my_born"
+  ],
+  "duration": [
+    0.2,
+    0.2,
+    0.2,
+    0.2
+  ],
+  "defaultMix": 0.0,
+  "controller": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  }
+}

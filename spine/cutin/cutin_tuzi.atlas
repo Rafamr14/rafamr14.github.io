@@ -1,0 +1,76 @@
+
+cutin_tuzi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cutin_tuzi_0
+  rotate: false
+  xy: 151, 267
+  size: 154, 128
+  orig: 154, 128
+  offset: 0, 0
+  index: -1
+cutin_tuzi_1
+  rotate: true
+  xy: 2, 52
+  size: 157, 126
+  orig: 157, 126
+  offset: 0, 0
+  index: -1
+cutin_tuzi_10
+  rotate: false
+  xy: 130, 192
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+cutin_tuzi_2
+  rotate: false
+  xy: 625, 882
+  size: 200, 125
+  orig: 200, 125
+  offset: 0, 0
+  index: -1
+cutin_tuzi_4
+  rotate: false
+  xy: 2, 397
+  size: 621, 610
+  orig: 621, 610
+  offset: 0, 0
+  index: -1
+cutin_tuzi_5
+  rotate: false
+  xy: 2, 211
+  size: 147, 184
+  orig: 147, 184
+  offset: 0, 0
+  index: -1
+cutin_tuzi_6
+  rotate: false
+  xy: 151, 229
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+cutin_tuzi_7
+  rotate: false
+  xy: 2, 2
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+cutin_tuzi_8
+  rotate: false
+  xy: 827, 959
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+cutin_tuzi_9
+  rotate: false
+  xy: 625, 771
+  size: 112, 109
+  orig: 112, 109
+  offset: 0, 0
+  index: -1

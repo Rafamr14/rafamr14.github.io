@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Figure_1846_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 9012007559968921067
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 1739229660007779153
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

@@ -1,0 +1,97 @@
+
+longdan.atlas.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+longdan_0
+  rotate: true
+  xy: 387, 271
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+longdan_1
+  rotate: false
+  xy: 481, 271
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+longdan_2
+  rotate: false
+  xy: 393, 127
+  size: 98, 142
+  orig: 98, 142
+  offset: 0, 0
+  index: -1
+longdan_3
+  rotate: false
+  xy: 393, 1
+  size: 103, 124
+  orig: 103, 124
+  offset: 0, 0
+  index: -1
+longdan_4
+  rotate: false
+  xy: 467, 334
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+longdan_5
+  rotate: false
+  xy: 285, 453
+  size: 31, 58
+  orig: 31, 58
+  offset: 0, 0
+  index: -1
+longdan_6
+  rotate: false
+  xy: 292, 237
+  size: 93, 145
+  orig: 93, 145
+  offset: 0, 0
+  index: -1
+longdan_7
+  rotate: true
+  xy: 227, 237
+  size: 37, 63
+  orig: 37, 63
+  offset: 0, 0
+  index: -1
+longdan_8
+  rotate: false
+  xy: 387, 322
+  size: 78, 129
+  orig: 78, 130
+  offset: 0, 1
+  index: -1
+longdan_9
+  rotate: false
+  xy: 481, 296
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+longdan_10
+  rotate: true
+  xy: 227, 1
+  size: 234, 164
+  orig: 235, 164
+  offset: 1, 0
+  index: -1
+longdan_11
+  rotate: false
+  xy: 1, 1
+  size: 224, 282
+  orig: 224, 282
+  offset: 0, 0
+  index: -1
+longdan_12
+  rotate: true
+  xy: 1, 285
+  size: 224, 282
+  orig: 224, 282
+  offset: 0, 0
+  index: -1

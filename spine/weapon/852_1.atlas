@@ -1,0 +1,20 @@
+
+852_1.png
+size: 419,123
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 348, 121
+  orig: 383, 158
+  offset: 35, 7
+  index: -1
+rpg_2
+  rotate: true
+  xy: 350, 59
+  size: 63, 68
+  orig: 237, 68
+  offset: 0, 0
+  index: -1

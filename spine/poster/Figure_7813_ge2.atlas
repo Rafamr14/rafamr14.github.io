@@ -1,0 +1,41 @@
+
+Figure_7813_ge2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gugu_7
+  rotate: false
+  xy: 2, 282
+  size: 296, 276
+  orig: 296, 276
+  offset: 0, 0
+  index: -1
+gugu_8_1
+  rotate: false
+  xy: 2, 560
+  size: 400, 187
+  orig: 400, 187
+  offset: 0, 0
+  index: -1
+gugu_8_2
+  rotate: false
+  xy: 2, 212
+  size: 41, 68
+  orig: 41, 68
+  offset: 0, 0
+  index: -1
+gugu_8_3
+  rotate: false
+  xy: 300, 496
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+gugu_9
+  rotate: true
+  xy: 404, 568
+  size: 179, 345
+  orig: 179, 345
+  offset: 0, 0
+  index: -1

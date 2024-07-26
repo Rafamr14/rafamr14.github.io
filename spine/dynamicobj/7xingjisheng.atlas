@@ -1,0 +1,76 @@
+
+7xingjisheng.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jisheng_0
+  rotate: false
+  xy: 151, 158
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+jisheng_1
+  rotate: false
+  xy: 2, 155
+  size: 147, 99
+  orig: 147, 99
+  offset: 0, 0
+  index: -1
+jisheng_2
+  rotate: false
+  xy: 151, 182
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+jisheng_3
+  rotate: false
+  xy: 151, 212
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+jisheng_4
+  rotate: false
+  xy: 2, 45
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+jisheng_5
+  rotate: true
+  xy: 2, 2
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+jisheng_6
+  rotate: false
+  xy: 218, 221
+  size: 18, 33
+  orig: 18, 33
+  offset: 0, 0
+  index: -1
+jisheng_7
+  rotate: false
+  xy: 112, 123
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+jisheng_8
+  rotate: false
+  xy: 2, 102
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+jisheng_9
+  rotate: false
+  xy: 63, 112
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1

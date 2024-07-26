@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "CheckMate1_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -6560231868401817998
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -7627616120068411089
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

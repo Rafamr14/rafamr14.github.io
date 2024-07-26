@@ -1,0 +1,349 @@
+
+Npc_98081.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hat_add
+  rotate: false
+  xy: 2, 354
+  size: 176, 202
+  orig: 176, 202
+  offset: 0, 0
+  index: -1
+tmz_boss_1
+  rotate: false
+  xy: 725, 933
+  size: 161, 45
+  orig: 161, 45
+  offset: 0, 0
+  index: -1
+tmz_boss_10
+  rotate: false
+  xy: 2, 740
+  size: 225, 320
+  orig: 225, 320
+  offset: 0, 0
+  index: -1
+tmz_boss_11
+  rotate: false
+  xy: 974, 1419
+  size: 168, 94
+  orig: 168, 94
+  offset: 0, 0
+  index: -1
+tmz_boss_13
+  rotate: false
+  xy: 1445, 1874
+  size: 276, 170
+  orig: 276, 170
+  offset: 0, 0
+  index: -1
+tmz_boss_14
+  rotate: false
+  xy: 1445, 1763
+  size: 223, 109
+  orig: 223, 109
+  offset: 0, 0
+  index: -1
+tmz_boss_15
+  rotate: false
+  xy: 351, 758
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+tmz_boss_16
+  rotate: true
+  xy: 974, 1515
+  size: 250, 154
+  orig: 250, 154
+  offset: 0, 0
+  index: -1
+tmz_boss_17
+  rotate: false
+  xy: 2, 1062
+  size: 361, 338
+  orig: 361, 338
+  offset: 0, 0
+  index: -1
+tmz_boss_18
+  rotate: false
+  xy: 598, 1095
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+tmz_boss_19
+  rotate: true
+  xy: 2, 2
+  size: 175, 151
+  orig: 175, 151
+  offset: 0, 0
+  index: -1
+tmz_boss_2
+  rotate: false
+  xy: 2, 1402
+  size: 637, 363
+  orig: 637, 363
+  offset: 0, 0
+  index: -1
+tmz_boss_20
+  rotate: false
+  xy: 1138, 1793
+  size: 305, 251
+  orig: 305, 251
+  offset: 0, 0
+  index: -1
+tmz_boss_21
+  rotate: false
+  xy: 891, 1033
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+tmz_boss_22
+  rotate: false
+  xy: 229, 732
+  size: 120, 83
+  orig: 120, 83
+  offset: 0, 0
+  index: -1
+tmz_boss_23
+  rotate: true
+  xy: 1911, 1700
+  size: 153, 115
+  orig: 153, 115
+  offset: 0, 0
+  index: -1
+tmz_boss_24
+  rotate: false
+  xy: 1113, 1324
+  size: 66, 93
+  orig: 66, 93
+  offset: 0, 0
+  index: -1
+tmz_boss_25
+  rotate: false
+  xy: 225, 620
+  size: 102, 110
+  orig: 102, 110
+  offset: 0, 0
+  index: -1
+tmz_boss_26
+  rotate: true
+  xy: 842, 794
+  size: 137, 94
+  orig: 137, 94
+  offset: 0, 0
+  index: -1
+tmz_boss_27
+  rotate: true
+  xy: 229, 817
+  size: 243, 94
+  orig: 243, 94
+  offset: 0, 0
+  index: -1
+tmz_boss_28
+  rotate: false
+  xy: 961, 1063
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+tmz_boss_29
+  rotate: false
+  xy: 1113, 1262
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+tmz_boss_3
+  rotate: false
+  xy: 641, 1420
+  size: 331, 345
+  orig: 331, 345
+  offset: 0, 0
+  index: -1
+tmz_boss_30
+  rotate: false
+  xy: 1047, 983
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+tmz_boss_31
+  rotate: true
+  xy: 555, 948
+  size: 145, 168
+  orig: 145, 168
+  offset: 0, 0
+  index: -1
+tmz_boss_32
+  rotate: false
+  xy: 725, 980
+  size: 164, 152
+  orig: 164, 152
+  offset: 0, 0
+  index: -1
+tmz_boss_33
+  rotate: false
+  xy: 2, 179
+  size: 162, 173
+  orig: 162, 173
+  offset: 0, 0
+  index: -1
+tmz_boss_34
+  rotate: false
+  xy: 513, 807
+  size: 170, 139
+  orig: 170, 139
+  offset: 0, 0
+  index: -1
+tmz_boss_4
+  rotate: true
+  xy: 365, 1111
+  size: 289, 231
+  orig: 289, 231
+  offset: 0, 0
+  index: -1
+tmz_boss_5
+  rotate: false
+  xy: 225, 558
+  size: 94, 60
+  orig: 94, 60
+  offset: 0, 0
+  index: -1
+tmz_boss_6
+  rotate: true
+  xy: 1053, 1057
+  size: 86, 78
+  orig: 86, 78
+  offset: 0, 0
+  index: -1
+tmz_boss_7
+  rotate: false
+  xy: 891, 964
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+tmz_boss_8
+  rotate: true
+  xy: 968, 977
+  size: 84, 77
+  orig: 84, 77
+  offset: 0, 0
+  index: -1
+tmz_boss_9
+  rotate: false
+  xy: 468, 775
+  size: 42, 53
+  orig: 42, 53
+  offset: 0, 0
+  index: -1
+tmz_boss_Bom1_1
+  rotate: false
+  xy: 685, 786
+  size: 155, 145
+  orig: 155, 145
+  offset: 0, 0
+  index: -1
+tmz_boss_Bom1_2
+  rotate: false
+  xy: 1670, 1782
+  size: 47, 90
+  orig: 47, 90
+  offset: 0, 0
+  index: -1
+tmz_boss_Bom1_6
+  rotate: false
+  xy: 2, 1767
+  size: 1134, 277
+  orig: 1134, 277
+  offset: 0, 0
+  index: -1
+tmz_boss_face1
+  rotate: false
+  xy: 1723, 1760
+  size: 186, 132
+  orig: 186, 132
+  offset: 0, 0
+  index: -1
+tmz_boss_face10
+  rotate: false
+  xy: 736, 1134
+  size: 187, 133
+  orig: 187, 133
+  offset: 0, 0
+  index: -1
+tmz_boss_face11
+  rotate: false
+  xy: 2, 558
+  size: 221, 180
+  orig: 221, 180
+  offset: 0, 0
+  index: -1
+tmz_boss_face12
+  rotate: false
+  xy: 365, 981
+  size: 188, 128
+  orig: 188, 128
+  offset: 0, 0
+  index: -1
+tmz_boss_face2
+  rotate: true
+  xy: 1911, 1855
+  size: 189, 135
+  orig: 189, 135
+  offset: 0, 0
+  index: -1
+tmz_boss_face3
+  rotate: true
+  xy: 180, 369
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+tmz_boss_face4
+  rotate: true
+  xy: 598, 1213
+  size: 187, 136
+  orig: 187, 136
+  offset: 0, 0
+  index: -1
+tmz_boss_face5
+  rotate: false
+  xy: 924, 1279
+  size: 187, 138
+  orig: 187, 138
+  offset: 0, 0
+  index: -1
+tmz_boss_face6
+  rotate: false
+  xy: 1723, 1894
+  size: 186, 150
+  orig: 186, 150
+  offset: 0, 0
+  index: -1
+tmz_boss_face7
+  rotate: false
+  xy: 325, 830
+  size: 186, 149
+  orig: 186, 149
+  offset: 0, 0
+  index: -1
+tmz_boss_face8
+  rotate: false
+  xy: 925, 1145
+  size: 185, 132
+  orig: 185, 132
+  offset: 0, 0
+  index: -1
+tmz_boss_face9
+  rotate: false
+  xy: 736, 1269
+  size: 186, 149
+  orig: 186, 149
+  offset: 0, 0
+  index: -1

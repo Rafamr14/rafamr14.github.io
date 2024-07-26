@@ -1,0 +1,20 @@
+
+20047_1.png
+size: 347,101
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 5
+  size: 300, 95
+  orig: 383, 158
+  offset: 77, 29
+  index: -1
+rpg_2
+  rotate: true
+  xy: 302, 1
+  size: 99, 44
+  orig: 237, 68
+  offset: 0, 12
+  index: -1

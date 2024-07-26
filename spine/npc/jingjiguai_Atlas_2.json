@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "jingjiguai_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -8327558501376302516
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 7252864094893675477
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

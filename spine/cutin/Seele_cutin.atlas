@@ -1,0 +1,160 @@
+
+Seele_cutin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xier_0
+  rotate: true
+  xy: 959, 1793
+  size: 213, 157
+  orig: 213, 157
+  offset: 0, 0
+  index: -1
+xier_1
+  rotate: true
+  xy: 1118, 1793
+  size: 196, 258
+  orig: 196, 258
+  offset: 0, 0
+  index: -1
+xier_2
+  rotate: true
+  xy: 788, 1793
+  size: 253, 169
+  orig: 253, 169
+  offset: 0, 0
+  index: -1
+xier_3
+  rotate: false
+  xy: 1135, 860
+  size: 278, 367
+  orig: 278, 367
+  offset: 0, 0
+  index: -1
+xier_4
+  rotate: false
+  xy: 1711, 1288
+  size: 296, 163
+  orig: 296, 163
+  offset: 0, 0
+  index: -1
+xier_5
+  rotate: false
+  xy: 1711, 860
+  size: 312, 426
+  orig: 312, 426
+  offset: 0, 0
+  index: -1
+xier_6
+  rotate: true
+  xy: 1644, 1764
+  size: 258, 379
+  orig: 258, 379
+  offset: 0, 0
+  index: -1
+xier_7
+  rotate: true
+  xy: 787, 843
+  size: 146, 346
+  orig: 146, 346
+  offset: 0, 0
+  index: -1
+xier_8
+  rotate: true
+  xy: 318, 1845
+  size: 196, 468
+  orig: 196, 468
+  offset: 0, 0
+  index: -1
+xier_9
+  rotate: true
+  xy: 1, 1896
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+xier_10
+  rotate: true
+  xy: 1192, 1229
+  size: 533, 517
+  orig: 533, 517
+  offset: 0, 0
+  index: -1
+xier_13
+  rotate: true
+  xy: 697, 1232
+  size: 559, 493
+  orig: 563, 493
+  offset: 0, 0
+  index: -1
+xier_14
+  rotate: false
+  xy: 1, 1
+  size: 1144, 421
+  orig: 1145, 421
+  offset: 1, 0
+  index: -1
+xier_15a
+  rotate: true
+  xy: 1147, 1
+  size: 857, 884
+  orig: 857, 884
+  offset: 0, 0
+  index: -1
+xier_16
+  rotate: false
+  xy: 297, 1232
+  size: 398, 611
+  orig: 398, 611
+  offset: 0, 0
+  index: -1
+xier_17
+  rotate: false
+  xy: 1, 1232
+  size: 294, 662
+  orig: 294, 662
+  offset: 0, 0
+  index: -1
+xier_18
+  rotate: false
+  xy: 1, 424
+  size: 1144, 417
+  orig: 1144, 417
+  offset: 0, 0
+  index: -1
+xier_19
+  rotate: false
+  xy: 121, 1896
+  size: 195, 122
+  orig: 195, 122
+  offset: 0, 0
+  index: -1
+xier_20
+  rotate: false
+  xy: 1, 843
+  size: 784, 387
+  orig: 784, 387
+  offset: 0, 0
+  index: -1
+xier_21
+  rotate: false
+  xy: 1378, 1764
+  size: 264, 267
+  orig: 264, 269
+  offset: 0, 2
+  index: -1
+xier_22
+  rotate: true
+  xy: 1415, 860
+  size: 70, 157
+  orig: 70, 157
+  offset: 0, 0
+  index: -1
+xier_23
+  rotate: true
+  xy: 787, 991
+  size: 213, 332
+  orig: 213, 332
+  offset: 0, 0
+  index: -1

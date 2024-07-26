@@ -1,0 +1,69 @@
+
+squareBox.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bb_1
+  rotate: true
+  xy: 125, 2
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+bb_10
+  rotate: false
+  xy: 2, 160
+  size: 222, 174
+  orig: 222, 174
+  offset: 0, 0
+  index: -1
+bb_8
+  rotate: false
+  xy: 226, 155
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+bb_9
+  rotate: false
+  xy: 226, 272
+  size: 238, 118
+  orig: 238, 118
+  offset: 0, 0
+  index: -1
+lwh_21
+  rotate: false
+  xy: 349, 148
+  size: 107, 122
+  orig: 107, 122
+  offset: 0, 0
+  index: -1
+lwh_40
+  rotate: false
+  xy: 125, 87
+  size: 83, 71
+  orig: 83, 71
+  offset: 0, 0
+  index: -1
+lwh_43
+  rotate: false
+  xy: 2, 43
+  size: 121, 115
+  orig: 121, 115
+  offset: 0, 0
+  index: -1
+lwh_44
+  rotate: false
+  xy: 226, 392
+  size: 238, 118
+  orig: 238, 118
+  offset: 0, 0
+  index: -1
+lwh_45
+  rotate: false
+  xy: 2, 336
+  size: 222, 174
+  orig: 222, 174
+  offset: 0, 0
+  index: -1

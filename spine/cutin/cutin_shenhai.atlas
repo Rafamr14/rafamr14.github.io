@@ -1,0 +1,251 @@
+
+cutin_shenhai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shcutin_10
+  rotate: false
+  xy: 474, 52
+  size: 51, 167
+  orig: 51, 167
+  offset: 0, 0
+  index: -1
+shcutin_12
+  rotate: true
+  xy: 673, 239
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+shcutin_13
+  rotate: false
+  xy: 629, 156
+  size: 42, 17
+  orig: 42, 17
+  offset: 0, 0
+  index: -1
+shcutin_14
+  rotate: false
+  xy: 737, 523
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+shcutin_15
+  rotate: false
+  xy: 737, 507
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+shcutin_16
+  rotate: false
+  xy: 881, 485
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+shcutin_17
+  rotate: false
+  xy: 430, 687
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+shcutin_18
+  rotate: false
+  xy: 515, 507
+  size: 220, 205
+  orig: 220, 205
+  offset: 0, 0
+  index: -1
+shcutin_19
+  rotate: true
+  xy: 515, 399
+  size: 106, 290
+  orig: 106, 290
+  offset: 0, 0
+  index: -1
+shcutin_1_1
+  rotate: false
+  xy: 539, 19
+  size: 72, 50
+  orig: 72, 50
+  offset: 0, 0
+  index: -1
+shcutin_1_2
+  rotate: false
+  xy: 613, 20
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+shcutin_1_3
+  rotate: true
+  xy: 737, 57
+  size: 91, 68
+  orig: 91, 68
+  offset: 0, 0
+  index: -1
+shcutin_2
+  rotate: false
+  xy: 771, 658
+  size: 246, 339
+  orig: 246, 339
+  offset: 0, 0
+  index: -1
+shcutin_20
+  rotate: true
+  xy: 967, 483
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+shcutin_21
+  rotate: true
+  xy: 248, 7
+  size: 212, 224
+  orig: 212, 224
+  offset: 0, 0
+  index: -1
+shcutin_22
+  rotate: false
+  xy: 527, 71
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+shcutin_23
+  rotate: false
+  xy: 807, 408
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+shcutin_24
+  rotate: true
+  xy: 684, 230
+  size: 167, 120
+  orig: 167, 120
+  offset: 0, 0
+  index: -1
+shcutin_25
+  rotate: false
+  xy: 531, 175
+  size: 140, 80
+  orig: 140, 80
+  offset: 0, 0
+  index: -1
+shcutin_26
+  rotate: true
+  xy: 2, 7
+  size: 206, 244
+  orig: 206, 244
+  offset: 0, 0
+  index: -1
+shcutin_27
+  rotate: false
+  xy: 807, 468
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+shcutin_28
+  rotate: true
+  xy: 2, 215
+  size: 470, 236
+  orig: 470, 236
+  offset: 0, 0
+  index: -1
+shcutin_29
+  rotate: false
+  xy: 531, 257
+  size: 151, 140
+  orig: 151, 140
+  offset: 0, 0
+  index: -1
+shcutin_30
+  rotate: true
+  xy: 875, 550
+  size: 106, 131
+  orig: 106, 131
+  offset: 0, 0
+  index: -1
+shcutin_31
+  rotate: false
+  xy: 474, 2
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+shcutin_32
+  rotate: false
+  xy: 737, 544
+  size: 136, 112
+  orig: 136, 112
+  offset: 0, 0
+  index: -1
+shcutin_33
+  rotate: false
+  xy: 240, 221
+  size: 289, 175
+  orig: 289, 175
+  offset: 0, 0
+  index: -1
+shcutin_34
+  rotate: false
+  xy: 430, 714
+  size: 339, 283
+  orig: 339, 283
+  offset: 0, 0
+  index: -1
+shcutin_35
+  rotate: false
+  xy: 2, 687
+  size: 426, 310
+  orig: 426, 310
+  offset: 0, 0
+  index: -1
+shcutin_4
+  rotate: false
+  xy: 881, 510
+  size: 84, 38
+  orig: 84, 38
+  offset: 0, 0
+  index: -1
+shcutin_5
+  rotate: false
+  xy: 673, 150
+  size: 123, 78
+  orig: 123, 78
+  offset: 0, 0
+  index: -1
+shcutin_6
+  rotate: true
+  xy: 629, 71
+  size: 77, 106
+  orig: 77, 106
+  offset: 0, 0
+  index: -1
+shcutin_7
+  rotate: false
+  xy: 240, 398
+  size: 273, 287
+  orig: 273, 287
+  offset: 0, 0
+  index: -1
+shcutin_8
+  rotate: false
+  xy: 737, 666
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+shcutin_9
+  rotate: true
+  xy: 681, 20
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1

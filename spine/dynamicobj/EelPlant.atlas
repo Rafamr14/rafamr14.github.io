@@ -1,0 +1,41 @@
+
+EelPlant.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+my_24
+  rotate: false
+  xy: 2, 153
+  size: 176, 273
+  orig: 176, 273
+  offset: 0, 0
+  index: -1
+my_26
+  rotate: false
+  xy: 2, 428
+  size: 491, 284
+  orig: 491, 284
+  offset: 0, 0
+  index: -1
+my_27
+  rotate: false
+  xy: 180, 305
+  size: 85, 121
+  orig: 85, 121
+  offset: 0, 0
+  index: -1
+my_28
+  rotate: false
+  xy: 495, 554
+  size: 110, 158
+  orig: 110, 158
+  offset: 0, 0
+  index: -1
+my_29
+  rotate: false
+  xy: 2, 2
+  size: 104, 149
+  orig: 104, 149
+  offset: 0, 0
+  index: -1

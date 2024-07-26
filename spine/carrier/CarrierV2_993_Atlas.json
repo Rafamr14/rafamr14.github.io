@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "CarrierV2_993_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 8269074226647674782
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -1220713414069536131
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

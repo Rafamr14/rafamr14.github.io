@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "Renouyi_Q_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -7714936483889402536
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": -2002455815198802365
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

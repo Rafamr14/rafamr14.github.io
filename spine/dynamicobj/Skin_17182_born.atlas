@@ -1,0 +1,76 @@
+
+Skin_17182_born.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hz_1
+  rotate: false
+  xy: 1, 497
+  size: 480, 484
+  orig: 480, 484
+  offset: 0, 0
+  index: -1
+hz_10
+  rotate: false
+  xy: 1, 187
+  size: 434, 309
+  orig: 434, 309
+  offset: 0, 0
+  index: -1
+hz_2
+  rotate: false
+  xy: 1, 1
+  size: 343, 185
+  orig: 343, 185
+  offset: 0, 0
+  index: -1
+hz_3
+  rotate: false
+  xy: 760, 455
+  size: 43, 118
+  orig: 43, 118
+  offset: 0, 0
+  index: -1
+hz_4
+  rotate: true
+  xy: 826, 679
+  size: 124, 123
+  orig: 124, 123
+  offset: 0, 0
+  index: -1
+hz_5
+  rotate: false
+  xy: 436, 224
+  size: 256, 214
+  orig: 256, 214
+  offset: 0, 0
+  index: -1
+hz_6
+  rotate: false
+  xy: 436, 20
+  size: 254, 203
+  orig: 254, 203
+  offset: 0, 0
+  index: -1
+hz_7
+  rotate: false
+  xy: 482, 574
+  size: 343, 229
+  orig: 343, 229
+  offset: 0, 0
+  index: -1
+hz_8
+  rotate: false
+  xy: 482, 439
+  size: 277, 134
+  orig: 277, 134
+  offset: 0, 0
+  index: -1
+hz_9
+  rotate: false
+  xy: 482, 804
+  size: 434, 177
+  orig: 434, 177
+  offset: 0, 0
+  index: -1

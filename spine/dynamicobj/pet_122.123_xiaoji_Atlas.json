@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "pet_122.123_xiaoji_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -9181141121055370942
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 4006920772390287388
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

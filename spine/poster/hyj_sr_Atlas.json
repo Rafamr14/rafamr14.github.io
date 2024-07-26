@@ -1,0 +1,28 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "hyj_sr_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": -1912483151442321745
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 2513520486303650890
+    },
+    {
+      "m_FileID": 0,
+      "m_PathID": -4159010867400894667
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

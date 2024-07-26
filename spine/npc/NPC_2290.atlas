@@ -1,0 +1,286 @@
+
+NPC_2290.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+nf2_10
+  rotate: true
+  xy: 237, 234
+  size: 109, 175
+  orig: 109, 175
+  offset: 0, 0
+  index: -1
+nf2_11
+  rotate: true
+  xy: 237, 345
+  size: 95, 219
+  orig: 95, 219
+  offset: 0, 0
+  index: -1
+nf2_12
+  rotate: false
+  xy: 612, 282
+  size: 149, 97
+  orig: 149, 97
+  offset: 0, 0
+  index: -1
+nf2_13
+  rotate: false
+  xy: 235, 118
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1
+nf2_14
+  rotate: false
+  xy: 763, 263
+  size: 149, 102
+  orig: 149, 102
+  offset: 0, 0
+  index: -1
+nf2_15
+  rotate: false
+  xy: 2, 240
+  size: 233, 200
+  orig: 233, 200
+  offset: 0, 0
+  index: -1
+nf2_16
+  rotate: true
+  xy: 414, 234
+  size: 50, 131
+  orig: 50, 131
+  offset: 0, 0
+  index: -1
+nf2_17
+  rotate: false
+  xy: 884, 557
+  size: 136, 103
+  orig: 136, 103
+  offset: 0, 0
+  index: -1
+nf2_18
+  rotate: false
+  xy: 2, 69
+  size: 156, 169
+  orig: 156, 169
+  offset: 0, 0
+  index: -1
+nf2_19
+  rotate: false
+  xy: 767, 489
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+nf2_2
+  rotate: true
+  xy: 914, 324
+  size: 100, 108
+  orig: 100, 108
+  offset: 0, 0
+  index: -1
+nf2_20
+  rotate: false
+  xy: 615, 161
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+nf2_21
+  rotate: true
+  xy: 767, 566
+  size: 157, 115
+  orig: 157, 115
+  offset: 0, 0
+  index: -1
+nf2_22
+  rotate: true
+  xy: 160, 2
+  size: 109, 97
+  orig: 109, 97
+  offset: 0, 0
+  index: -1
+nf2_23
+  rotate: false
+  xy: 615, 211
+  size: 77, 69
+  orig: 77, 69
+  offset: 0, 0
+  index: -1
+nf2_24
+  rotate: false
+  xy: 767, 367
+  size: 108, 120
+  orig: 108, 120
+  offset: 0, 0
+  index: -1
+nf2_25
+  rotate: false
+  xy: 663, 526
+  size: 102, 197
+  orig: 102, 197
+  offset: 0, 0
+  index: -1
+nf2_26
+  rotate: false
+  xy: 72, 4
+  size: 86, 63
+  orig: 86, 63
+  offset: 0, 0
+  index: -1
+nf2_27
+  rotate: true
+  xy: 2, 2
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+nf2_28
+  rotate: false
+  xy: 386, 127
+  size: 88, 105
+  orig: 88, 105
+  offset: 0, 0
+  index: -1
+nf2_29
+  rotate: false
+  xy: 884, 662
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1
+nf2_3
+  rotate: true
+  xy: 914, 231
+  size: 91, 106
+  orig: 91, 106
+  offset: 0, 0
+  index: -1
+nf2_30
+  rotate: true
+  xy: 553, 149
+  size: 83, 60
+  orig: 83, 60
+  offset: 0, 0
+  index: -1
+nf2_31
+  rotate: false
+  xy: 476, 138
+  size: 75, 94
+  orig: 75, 94
+  offset: 0, 0
+  index: -1
+nf2_32
+  rotate: false
+  xy: 638, 89
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+nf2_33
+  rotate: false
+  xy: 2, 733
+  size: 482, 289
+  orig: 482, 289
+  offset: 0, 0
+  index: -1
+nf2_34
+  rotate: false
+  xy: 2, 442
+  size: 482, 289
+  orig: 482, 289
+  offset: 0, 0
+  index: -1
+nf2_35
+  rotate: false
+  xy: 547, 234
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+nf2_36
+  rotate: false
+  xy: 396, 19
+  size: 85, 106
+  orig: 85, 106
+  offset: 0, 0
+  index: -1
+nf2_37
+  rotate: true
+  xy: 259, 6
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+nf2_38
+  rotate: true
+  xy: 884, 426
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+nf2_39
+  rotate: true
+  xy: 486, 392
+  size: 129, 155
+  orig: 129, 155
+  offset: 0, 0
+  index: -1
+nf2_4
+  rotate: false
+  xy: 160, 113
+  size: 73, 125
+  orig: 73, 125
+  offset: 0, 0
+  index: -1
+nf2_40
+  rotate: false
+  xy: 486, 523
+  size: 175, 200
+  orig: 175, 200
+  offset: 0, 0
+  index: -1
+nf2_41
+  rotate: true
+  xy: 871, 806
+  size: 216, 151
+  orig: 216, 151
+  offset: 0, 0
+  index: -1
+nf2_5
+  rotate: false
+  xy: 483, 49
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+nf2_6
+  rotate: false
+  xy: 643, 381
+  size: 122, 140
+  orig: 122, 140
+  offset: 0, 0
+  index: -1
+nf2_7
+  rotate: true
+  xy: 568, 70
+  size: 77, 68
+  orig: 77, 68
+  offset: 0, 0
+  index: -1
+nf2_8
+  rotate: false
+  xy: 486, 725
+  size: 383, 297
+  orig: 383, 297
+  offset: 0, 0
+  index: -1
+nf2_9
+  rotate: true
+  xy: 458, 286
+  size: 104, 152
+  orig: 104, 152
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+Npc_2130.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+die
+  rotate: false
+  xy: 2, 364
+  size: 211, 208
+  orig: 211, 208
+  offset: 0, 0
+  index: -1
+tuanzi11
+  rotate: true
+  xy: 1337, 1461
+  size: 104, 71
+  orig: 104, 71
+  offset: 0, 0
+  index: -1
+tuanzi13
+  rotate: false
+  xy: 104, 271
+  size: 97, 91
+  orig: 97, 91
+  offset: 0, 0
+  index: -1
+tuanzi13a
+  rotate: false
+  xy: 1413, 1612
+  size: 108, 79
+  orig: 108, 79
+  offset: 0, 0
+  index: -1
+tuanzi14
+  rotate: true
+  xy: 2, 2
+  size: 79, 47
+  orig: 79, 47
+  offset: 0, 0
+  index: -1
+tuanzi15
+  rotate: false
+  xy: 2, 83
+  size: 70, 127
+  orig: 70, 127
+  offset: 0, 0
+  index: -1
+tuanzi16
+  rotate: false
+  xy: 1337, 1567
+  size: 74, 124
+  orig: 74, 124
+  offset: 0, 0
+  index: -1
+tuanzi17
+  rotate: true
+  xy: 326, 677
+  size: 172, 36
+  orig: 172, 36
+  offset: 0, 0
+  index: -1
+tuanzi18
+  rotate: false
+  xy: 599, 1416
+  size: 359, 275
+  orig: 359, 275
+  offset: 0, 0
+  index: -1
+tuanzi18a
+  rotate: false
+  xy: 2, 851
+  size: 373, 304
+  orig: 373, 304
+  offset: 0, 0
+  index: -1
+tuanzi2
+  rotate: false
+  xy: 1523, 1612
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+tuanzi20
+  rotate: false
+  xy: 2, 574
+  size: 322, 275
+  orig: 322, 275
+  offset: 0, 0
+  index: -1
+tuanzi21
+  rotate: false
+  xy: 599, 1176
+  size: 316, 238
+  orig: 316, 238
+  offset: 0, 0
+  index: -1
+tuanzi23
+  rotate: false
+  xy: 960, 1445
+  size: 271, 246
+  orig: 271, 246
+  offset: 0, 0
+  index: -1
+tuanzi24
+  rotate: true
+  xy: 377, 861
+  size: 294, 204
+  orig: 294, 204
+  offset: 0, 0
+  index: -1
+tuanzi25
+  rotate: false
+  xy: 104, 223
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+tuanzi3
+  rotate: false
+  xy: 1233, 1534
+  size: 102, 157
+  orig: 102, 157
+  offset: 0, 0
+  index: -1
+tuanzi4
+  rotate: false
+  xy: 2, 212
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+tuanzi6
+  rotate: false
+  xy: 1233, 1455
+  size: 102, 77
+  orig: 102, 77
+  offset: 0, 0
+  index: -1
+tuanzi7
+  rotate: true
+  xy: 215, 396
+  size: 176, 68
+  orig: 176, 68
+  offset: 0, 0
+  index: -1
+tuanzi9
+  rotate: false
+  xy: 2, 1157
+  size: 595, 534
+  orig: 595, 534
+  offset: 0, 0
+  index: -1

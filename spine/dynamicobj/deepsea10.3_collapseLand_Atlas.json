@@ -1,0 +1,24 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 1008803689438726606
+  },
+  "m_Name": "deepsea10.3_collapseLand_Atlas",
+  "atlasFile": {
+    "m_FileID": 0,
+    "m_PathID": 2511126540873398258
+  },
+  "materials": [
+    {
+      "m_FileID": 0,
+      "m_PathID": 8409701169531010796
+    }
+  ],
+  "isMulti": 0,
+  "extraAtlasAssets": []
+}

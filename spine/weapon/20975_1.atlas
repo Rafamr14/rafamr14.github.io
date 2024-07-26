@@ -1,0 +1,20 @@
+
+20975_1.png
+size: 332,107
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 304, 105
+  orig: 383, 158
+  offset: 30, 27
+  index: -1
+rpg_2
+  rotate: true
+  xy: 306, 53
+  size: 53, 25
+  orig: 383, 158
+  offset: 300, 76
+  index: -1

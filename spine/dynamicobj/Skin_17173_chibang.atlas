@@ -1,0 +1,83 @@
+
+Skin_17173_chibang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a46
+  rotate: false
+  xy: 1, 526
+  size: 458, 497
+  orig: 458, 497
+  offset: 0, 0
+  index: -1
+a47
+  rotate: false
+  xy: 1, 200
+  size: 362, 325
+  orig: 362, 325
+  offset: 0, 0
+  index: -1
+a48
+  rotate: false
+  xy: 460, 582
+  size: 239, 441
+  orig: 239, 441
+  offset: 0, 0
+  index: -1
+a49
+  rotate: false
+  xy: 364, 198
+  size: 120, 327
+  orig: 120, 327
+  offset: 0, 0
+  index: -1
+chibang
+  rotate: true
+  xy: 313, 139
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+th1
+  rotate: true
+  xy: 700, 739
+  size: 284, 323
+  orig: 284, 323
+  offset: 0, 0
+  index: -1
+th2
+  rotate: false
+  xy: 700, 514
+  size: 255, 92
+  orig: 255, 92
+  offset: 0, 0
+  index: -1
+th3
+  rotate: false
+  xy: 485, 205
+  size: 181, 147
+  orig: 181, 147
+  offset: 0, 0
+  index: -1
+th4
+  rotate: true
+  xy: 1, 46
+  size: 153, 311
+  orig: 153, 311
+  offset: 0, 0
+  index: -1
+th5
+  rotate: true
+  xy: 485, 353
+  size: 228, 182
+  orig: 228, 182
+  offset: 0, 0
+  index: -1
+th6
+  rotate: true
+  xy: 700, 607
+  size: 131, 306
+  orig: 131, 306
+  offset: 0, 0
+  index: -1
