@@ -340,7 +340,7 @@
                 .catch(error => console.error('Error al cargar los archivos de UI: ', error));
         }
         function cargarOpcionesDesdeJsonPlayer() {
-            fetch('data/player.json')
+            fetch('data/Player.json')
                 .then(response => response.json())
                 .then(data => {
                     cargarOpciones(modelSelectorPlayer, data.files, cargarPlayer);
