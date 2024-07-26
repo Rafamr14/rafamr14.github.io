@@ -29,6 +29,7 @@
             flex-grow: 1;
             width: 100%;
             min-height: 0;
+            z-index: 1;
         }
 
         .spine-widget {
@@ -49,7 +50,7 @@
             display: flex;
             flex-direction: column;
             overflow-y: auto;
-            max-height: 400px; /* Ajusta este valor según sea necesario */
+            max-height: 90vh;
             gap: 10px;
             justify-content: flex-start;
             padding: 10px;
@@ -75,35 +76,58 @@
             color: white;
         }
 
+        #sidebar {
+            transition: transform 0.3s ease;
+        }
+
+        #sidebar.collapsed {
+            transform: translateX(-100%);
+        }
+
+        .navbar {
+            z-index: 2;
+        }
+
     </style>
     <script src="lib/spine-widget.js"></script>
 </head>
 <body>
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">Honkai Gakuen 2 Spine/Live2D</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-            <ul class="navbar-nav ms-auto">
-                <li class="nav-item">
-                    <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./spine.html">Spine</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="./live2d.html">Live2D</a>
-                </li>
-            </ul>
+        <div class="row w-100">
+            <div class="col-2 d-flex align-items-center">
+                <button id="toggleSidebar" class="btn btn-secondary">Toggle Sidebar</button>
+            </div>
+            <div class="col-8 text-center">
+                <a class="navbar-brand mx-auto" href="#">Honkai Gakuen 2 Spine/Live2D</a>
+            </div>
+            <div class="col-2">
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav ms-auto">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="./index.html">Inicio</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./spine.html">Spine</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="./live2d.html">Live2D</a>
+                        </li>
+                        <li class="nav-item">
+
+                        </li>
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </nav>
+
+
 <div class="container-fluid h-100">
     <div class="row h-100">
-        <!-- Sidebar -->
-        <div class="col-md-3 col-lg-2 d-md-block bg-light sidebar sticky-top">
+        <!-- Left Sidebar -->
+        <div id="sidebar" class="col-md-3 col-lg-2 d-md-block bg-light sidebar sticky-top">
             <div class="position-sticky pt-3">
                 <div class="sidebar-section">
                     <h4>Spineres/Poster</h4>
@@ -149,8 +173,6 @@
                     <h4>Spineres/Player</h4>
                     <select id="modelSelectorPlayer" class="form-select"></select>
                 </div>
-                <div id="animacionBotones" class="sidebar-section mt-3">
-                </div>
                 <div class="sidebar-section mt-3">
                     <input type="button" value="Clean" id="btnLimpiar" class="btn btn-primary">
                 </div>
@@ -158,7 +180,8 @@
                 <input type="range" min="1" max="20" value="1" class="slider" id="sliderTamanoCanvas">
             </div>
         </div>
-        <div class="col-md-9 ms-sm-auto col-lg-10 px-md-4 flex-grow-1">
+        <!-- Main Content -->
+        <div class="col-md-6 ms-sm-auto col-lg-8 px-md-4 flex-grow-1">
             <div id="widget-container" class="widget-container">
                 <div id="spine-widget-spine" class="spine-widget mt-4"></div>
                 <div id="spine-widget-cutin" class="spine-widget mt-4"></div>
@@ -171,6 +194,11 @@
                 <div id="spine-widget-skin" class="spine-widget mt-4"></div>
                 <div id="spine-widget-ui" class="spine-widget mt-4"></div>
                 <div id="spine-widget-player" class="spine-widget mt-4"></div>
+            </div>
+        </div>
+        <!-- Right Sidebar for Animation Buttons -->
+        <div class="col-md-3 col-lg-2 d-md-block bg-light sidebar sticky-top">
+            <div class="position-sticky pt-3" id="animacionBotones">
             </div>
         </div>
     </div>
@@ -215,6 +243,10 @@
         let modelSelectorUI = document.getElementById("modelSelectorUI");
         let modelSelectorPlayer = document.getElementById("modelSelectorPlayer");
         let sliderTamanoCanvas = document.getElementById("sliderTamanoCanvas");
+
+        document.getElementById("toggleSidebar").addEventListener("click", function() {
+            document.getElementById("sidebar").classList.toggle("collapsed");
+        });
 
         function cargarOpcionesDesdeJsonSpine() {
             fetch('data/poster.json')
