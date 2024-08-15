@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <title>Honkai Gakuen 2 Spine Viewer</title>
+    <script src="https://unpkg.com/mithril/mithril.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"></head>
+    <link rel="stylesheet" href="../css/spine.css">
+    <script src="./lib/spine-widget.js"></script>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+        <div class="row w-100">
+            <div class="col-2 d-flex align-items-center">
+                <button id="toggleSidebar" class="btn btn-secondary">Toggle Sidebar</button>
+            </div>
+            <div class="col-8 text-center">
+                <a class="navbar-brand mx-auto" href="#">Honkai Gakuen 2 Spine/Live2D - BETA</a>
+            </div>
+            <div class="col-2 d-flex align-items-center justify-content-end">
+                <a class="nav-link" href="./live2d.html">Live2D</a>
+                <a class="nav-link p-2" href="./spine.html">Spine</a>
+                <button id="toggleTheme" class="btn btn-secondary">Day Mode</button>
+            </div>
+        </div>
+    </div>
+</nav>
+<div class="container-fluid h-100">
+    <div class="row h-100">
+        <!-- Left Sidebar -->
+        <div id="sidebar" class="col-md-3 col-lg-2 d-md-block sidebar sticky-top">
+            <div class="position-sticky pt-3">
+                <div class="sidebar-section">
+                    <h4>Spineres/Poster</h4>
+                    <select id="modelSelectorSpine" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Cutin</h4>
+                    <select id="modelSelectorCutIn" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Artificial</h4>
+                    <select id="modelSelectorArtificial" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Faction</h4>
+                    <select id="modelSelectorFaction" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Crossfaction</h4>
+                    <select id="modelSelectorCrossfaction" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/NPC</h4>
+                    <select id="modelSelectorNPC" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Carrier</h4>
+                    <select id="modelSelectorCarrier" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Pet</h4>
+                    <select id="modelSelectorPet" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Skin</h4>
+                    <select id="modelSelectorSkin" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/UI</h4>
+                    <select id="modelSelectorUI" class="form-select"></select>
+                </div>
+                <div class="sidebar-section">
+                    <h4>Spineres/Player</h4>
+                    <select id="modelSelectorPlayer" class="form-select"></select>
+                </div>
+                <div class="sidebar-section mt-3">
+                    <input type="button" value="Clean" id="btnLimpiar" class="btn btn-primary">
+                </div>
+                <label for="sliderTamanoCanvas">Resize the model</label>
+                <input type="range" min="1" max="20" value="1" class="slider" id="sliderTamanoCanvas">
+            </div>
+        </div>
+        <!-- Main Content -->
+        <div class="col-md-6 ms-sm-auto col-lg-8 px-md-4 flex-grow-1">
+            <div id="widget-container" class="widget-container">
+                <div id="spine-widget-spine" class="spine-widget mt-4"></div>
+                <div id="spine-widget-cutin" class="spine-widget mt-4"></div>
+                <div id="spine-widget-artificial" class="spine-widget mt-4"></div>
+                <div id="spine-widget-crossfaction" class="spine-widget mt-4"></div>
+                <div id="spine-widget-faction" class="spine-widget mt-4"></div>
+                <div id="spine-widget-npc" class="spine-widget mt-4"></div>
+                <div id="spine-widget-carrier" class="spine-widget mt-4"></div>
+                <div id="spine-widget-pet" class="spine-widget mt-4"></div>
+                <div id="spine-widget-skin" class="spine-widget mt-4"></div>
+                <div id="spine-widget-ui" class="spine-widget mt-4"></div>
+                <div id="spine-widget-Player" class="spine-widget mt-4"></div>
+            </div>
+        </div>
+        <!-- Right Sidebar -->
+        <div class="col-md-3 col-lg-2 d-md-block sidebar sticky-top">
+            <div class="position-sticky pt-3">
+                <div class="sidebar-section">
+                    <h4>Select Skin</h4>
+                    <select id="skinSelector" class="form-select"></select>
+                </div>
+                <div id="animacionBotones"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="./js/spine.js"></script>
+<script src="./js/move.js"></script>
+<script src="./js/mouse.js"></script>
+</body>
+</html>

@@ -1,0 +1,41 @@
+
+NPC_2690_s2_fork.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xz_0
+  rotate: false
+  xy: 61, 33
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+xz_1
+  rotate: false
+  xy: 2, 2
+  size: 57, 368
+  orig: 57, 368
+  offset: 0, 0
+  index: -1
+xz_2
+  rotate: false
+  xy: 184, 151
+  size: 150, 97
+  orig: 150, 97
+  offset: 0, 0
+  index: -1
+xz_3
+  rotate: false
+  xy: 184, 250
+  size: 176, 120
+  orig: 176, 120
+  offset: 0, 0
+  index: -1
+xz_4
+  rotate: false
+  xy: 61, 122
+  size: 121, 248
+  orig: 121, 248
+  offset: 0, 0
+  index: -1
