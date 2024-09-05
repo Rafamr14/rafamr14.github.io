@@ -1,0 +1,83 @@
+
+TreasureChest.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wjx_0
+  rotate: false
+  xy: 2, 35
+  size: 377, 276
+  orig: 377, 276
+  offset: 0, 0
+  index: -1
+wjx_0a
+  rotate: true
+  xy: 810, 621
+  size: 401, 165
+  orig: 401, 165
+  offset: 0, 0
+  index: -1
+wjx_1
+  rotate: false
+  xy: 408, 170
+  size: 377, 276
+  orig: 377, 276
+  offset: 0, 0
+  index: -1
+wjx_2
+  rotate: false
+  xy: 418, 448
+  size: 390, 234
+  orig: 390, 234
+  offset: 0, 0
+  index: -1
+wjx_3
+  rotate: false
+  xy: 810, 393
+  size: 182, 226
+  orig: 182, 226
+  offset: 0, 0
+  index: -1
+wjx_4
+  rotate: false
+  xy: 787, 165
+  size: 223, 226
+  orig: 223, 226
+  offset: 0, 0
+  index: -1
+wjx_5
+  rotate: false
+  xy: 381, 2
+  size: 146, 161
+  orig: 146, 161
+  offset: 0, 0
+  index: -1
+wjx_6
+  rotate: false
+  xy: 529, 6
+  size: 128, 162
+  orig: 128, 162
+  offset: 0, 0
+  index: -1
+wjx_7
+  rotate: false
+  xy: 418, 684
+  size: 390, 338
+  orig: 390, 338
+  offset: 0, 0
+  index: -1
+wjx_7a
+  rotate: false
+  xy: 2, 659
+  size: 414, 363
+  orig: 414, 363
+  offset: 0, 0
+  index: -1
+wjx_8
+  rotate: false
+  xy: 2, 313
+  size: 404, 344
+  orig: 404, 344
+  offset: 0, 0
+  index: -1

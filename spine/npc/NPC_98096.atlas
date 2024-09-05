@@ -1,0 +1,174 @@
+
+NPC_98096.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mo_0
+  rotate: true
+  xy: 412, 633
+  size: 114, 49
+  orig: 114, 49
+  offset: 0, 0
+  index: -1
+mo_1
+  rotate: false
+  xy: 94, 396
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+mo_10
+  rotate: true
+  xy: 808, 957
+  size: 61, 89
+  orig: 61, 89
+  offset: 0, 0
+  index: -1
+mo_11
+  rotate: false
+  xy: 2, 183
+  size: 59, 119
+  orig: 59, 119
+  offset: 0, 0
+  index: -1
+mo_12
+  rotate: false
+  xy: 711, 956
+  size: 95, 62
+  orig: 95, 62
+  offset: 0, 0
+  index: -1
+mo_13
+  rotate: false
+  xy: 412, 880
+  size: 79, 138
+  orig: 79, 138
+  offset: 0, 0
+  index: -1
+mo_14
+  rotate: false
+  xy: 2, 449
+  size: 90, 151
+  orig: 90, 151
+  offset: 0, 0
+  index: -1
+mo_15
+  rotate: false
+  xy: 493, 930
+  size: 110, 88
+  orig: 110, 88
+  offset: 0, 0
+  index: -1
+mo_16
+  rotate: false
+  xy: 164, 506
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+mo_17
+  rotate: false
+  xy: 899, 941
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+mo_18
+  rotate: true
+  xy: 2, 92
+  size: 89, 59
+  orig: 89, 59
+  offset: 0, 0
+  index: -1
+mo_19
+  rotate: false
+  xy: 94, 466
+  size: 68, 134
+  orig: 68, 134
+  offset: 0, 0
+  index: -1
+mo_2
+  rotate: true
+  xy: 164, 405
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+mo_20
+  rotate: false
+  xy: 2, 304
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+mo_21
+  rotate: true
+  xy: 493, 855
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+mo_22
+  rotate: false
+  xy: 357, 515
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+mo_23
+  rotate: true
+  xy: 605, 947
+  size: 71, 104
+  orig: 71, 104
+  offset: 0, 0
+  index: -1
+mo_3
+  rotate: false
+  xy: 164, 452
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+mo_4
+  rotate: false
+  xy: 266, 507
+  size: 89, 93
+  orig: 89, 93
+  offset: 0, 0
+  index: -1
+mo_5
+  rotate: false
+  xy: 2, 2
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+mo_6
+  rotate: false
+  xy: 2, 602
+  size: 408, 416
+  orig: 408, 416
+  offset: 0, 0
+  index: -1
+mo_7
+  rotate: false
+  xy: 412, 749
+  size: 64, 129
+  orig: 64, 129
+  offset: 0, 0
+  index: -1
+mo_8
+  rotate: false
+  xy: 575, 873
+  size: 44, 55
+  orig: 44, 55
+  offset: 0, 0
+  index: -1
+mo_9
+  rotate: false
+  xy: 478, 776
+  size: 79, 77
+  orig: 79, 77
+  offset: 0, 0
+  index: -1

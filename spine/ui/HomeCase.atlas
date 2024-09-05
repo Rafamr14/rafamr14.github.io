@@ -1,0 +1,118 @@
+
+HomeCase.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 433, 428
+  size: 379, 226
+  orig: 379, 226
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 433, 200
+  size: 379, 226
+  orig: 379, 226
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 814, 257
+  size: 397, 206
+  orig: 397, 206
+  offset: 0, 0
+  index: -1
+jzx_0
+  rotate: false
+  xy: 2, 382
+  size: 429, 273
+  orig: 429, 273
+  offset: 0, 0
+  index: -1
+jzx_1
+  rotate: false
+  xy: 814, 100
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+jzx_10
+  rotate: true
+  xy: 874, 695
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1
+jzx_11
+  rotate: false
+  xy: 443, 656
+  size: 429, 363
+  orig: 429, 363
+  offset: 0, 0
+  index: -1
+jzx_12
+  rotate: false
+  xy: 2, 657
+  size: 439, 362
+  orig: 439, 362
+  offset: 0, 0
+  index: -1
+jzx_2
+  rotate: true
+  xy: 2, 24
+  size: 174, 155
+  orig: 174, 155
+  offset: 0, 0
+  index: -1
+jzx_3
+  rotate: true
+  xy: 159, 49
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+jzx_4
+  rotate: true
+  xy: 312, 24
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+jzx_5
+  rotate: false
+  xy: 2, 208
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
+jzx_6
+  rotate: true
+  xy: 159, 225
+  size: 155, 172
+  orig: 155, 172
+  offset: 0, 0
+  index: -1
+jzx_7
+  rotate: false
+  xy: 465, 28
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+jzx_8
+  rotate: true
+  xy: 617, 48
+  size: 150, 170
+  orig: 150, 170
+  offset: 0, 0
+  index: -1
+jzx_9
+  rotate: true
+  xy: 874, 858
+  size: 161, 147
+  orig: 161, 147
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+Equip_21079.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mf_1
+  rotate: true
+  xy: 83, 32
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+mf_2
+  rotate: true
+  xy: 2, 2
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+mf_3
+  rotate: false
+  xy: 271, 70
+  size: 48, 56
+  orig: 48, 56
+  offset: 0, 0
+  index: -1
+mf_4
+  rotate: true
+  xy: 193, 51
+  size: 75, 76
+  orig: 75, 76
+  offset: 0, 0
+  index: -1
+mf_5
+  rotate: false
+  xy: 109, 51
+  size: 82, 75
+  orig: 82, 75
+  offset: 0, 0
+  index: -1
+mf_6
+  rotate: false
+  xy: 2, 62
+  size: 105, 64
+  orig: 105, 64
+  offset: 0, 0
+  index: -1
+mf_7
+  rotate: true
+  xy: 2, 27
+  size: 33, 79
+  orig: 33, 79
+  offset: 0, 0
+  index: -1

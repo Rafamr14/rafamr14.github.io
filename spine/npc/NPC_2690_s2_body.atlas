@@ -1,0 +1,125 @@
+
+NPC_2690_s2_body.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xz_16
+  rotate: false
+  xy: 160, 18
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+xz_17
+  rotate: false
+  xy: 273, 57
+  size: 88, 43
+  orig: 88, 43
+  offset: 0, 0
+  index: -1
+xz_18
+  rotate: false
+  xy: 174, 58
+  size: 97, 42
+  orig: 97, 42
+  offset: 0, 0
+  index: -1
+xz_19
+  rotate: false
+  xy: 2, 25
+  size: 103, 49
+  orig: 103, 49
+  offset: 0, 0
+  index: -1
+xz_22
+  rotate: false
+  xy: 174, 102
+  size: 192, 161
+  orig: 192, 161
+  offset: 0, 0
+  index: -1
+xz_23
+  rotate: true
+  xy: 368, 52
+  size: 211, 104
+  orig: 211, 104
+  offset: 0, 0
+  index: -1
+xz_24
+  rotate: true
+  xy: 429, 398
+  size: 110, 44
+  orig: 110, 44
+  offset: 0, 0
+  index: -1
+xz_25
+  rotate: true
+  xy: 429, 287
+  size: 109, 43
+  orig: 109, 43
+  offset: 0, 0
+  index: -1
+xz_27
+  rotate: true
+  xy: 474, 286
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+xz_30
+  rotate: true
+  xy: 2, 2
+  size: 21, 49
+  orig: 21, 49
+  offset: 0, 0
+  index: -1
+xz_31
+  rotate: true
+  xy: 475, 400
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+xz_33
+  rotate: false
+  xy: 2, 76
+  size: 170, 187
+  orig: 170, 187
+  offset: 0, 0
+  index: -1
+xz_34
+  rotate: false
+  xy: 2, 265
+  size: 425, 243
+  orig: 425, 243
+  offset: 0, 0
+  index: -1
+yan1
+  rotate: true
+  xy: 251, 17
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+yan2
+  rotate: true
+  xy: 107, 31
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+yan3
+  rotate: true
+  xy: 475, 460
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+yan4
+  rotate: true
+  xy: 474, 346
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1

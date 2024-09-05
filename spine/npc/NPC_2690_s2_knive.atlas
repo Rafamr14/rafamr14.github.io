@@ -1,0 +1,41 @@
+
+NPC_2690_s2_knive.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xz_5
+  rotate: false
+  xy: 353, 359
+  size: 95, 87
+  orig: 95, 87
+  offset: 0, 0
+  index: -1
+xz_6
+  rotate: false
+  xy: 2, 58
+  size: 48, 388
+  orig: 48, 388
+  offset: 0, 0
+  index: -1
+xz_7
+  rotate: false
+  xy: 175, 228
+  size: 150, 97
+  orig: 150, 97
+  offset: 0, 0
+  index: -1
+xz_8
+  rotate: false
+  xy: 175, 327
+  size: 176, 119
+  orig: 176, 119
+  offset: 0, 0
+  index: -1
+xz_9
+  rotate: false
+  xy: 52, 135
+  size: 121, 311
+  orig: 121, 311
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+NPC_98085.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mf_1
+  rotate: false
+  xy: 2, 28
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+mf_2
+  rotate: false
+  xy: 167, 320
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+mf_3
+  rotate: true
+  xy: 374, 389
+  size: 95, 112
+  orig: 95, 112
+  offset: 0, 0
+  index: -1
+mf_4
+  rotate: false
+  xy: 2, 53
+  size: 150, 151
+  orig: 150, 151
+  offset: 0, 0
+  index: -1
+mf_5
+  rotate: false
+  xy: 2, 206
+  size: 163, 149
+  orig: 163, 149
+  offset: 0, 0
+  index: -1
+mf_6
+  rotate: false
+  xy: 2, 357
+  size: 210, 127
+  orig: 210, 127
+  offset: 0, 0
+  index: -1
+mf_7
+  rotate: true
+  xy: 214, 418
+  size: 66, 158
+  orig: 66, 158
+  offset: 0, 0
+  index: -1

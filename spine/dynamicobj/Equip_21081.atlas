@@ -1,0 +1,111 @@
+
+Equip_21081.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dl_0
+  rotate: true
+  xy: 226, 124
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+dl_1
+  rotate: false
+  xy: 96, 40
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+dl_10
+  rotate: false
+  xy: 2, 167
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+dl_14
+  rotate: false
+  xy: 96, 2
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+dl_15
+  rotate: false
+  xy: 268, 209
+  size: 63, 45
+  orig: 63, 45
+  offset: 0, 0
+  index: -1
+dl_16
+  rotate: false
+  xy: 164, 95
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+dl_17
+  rotate: false
+  xy: 2, 78
+  size: 160, 87
+  orig: 160, 87
+  offset: 0, 0
+  index: -1
+dl_2
+  rotate: false
+  xy: 2, 23
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+dl_3
+  rotate: false
+  xy: 153, 65
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+dl_4
+  rotate: false
+  xy: 164, 83
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+dl_5
+  rotate: false
+  xy: 268, 185
+  size: 15, 22
+  orig: 15, 22
+  offset: 0, 0
+  index: -1
+dl_6
+  rotate: false
+  xy: 333, 236
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+dl_7
+  rotate: false
+  xy: 2, 7
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+dl_8
+  rotate: false
+  xy: 164, 173
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+dl_9
+  rotate: true
+  xy: 148, 2
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+NPC_2690.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bt_10a
+  rotate: false
+  xy: 220, 55
+  size: 70, 339
+  orig: 70, 339
+  offset: 0, 0
+  index: -1
+bt_10b
+  rotate: false
+  xy: 2, 127
+  size: 216, 267
+  orig: 216, 267
+  offset: 0, 0
+  index: -1
+bt_11
+  rotate: false
+  xy: 2, 812
+  size: 714, 210
+  orig: 714, 210
+  offset: 0, 0
+  index: -1
+bt_12
+  rotate: false
+  xy: 482, 480
+  size: 183, 97
+  orig: 183, 97
+  offset: 0, 0
+  index: -1
+bt_13
+  rotate: true
+  xy: 434, 6
+  size: 75, 38
+  orig: 75, 38
+  offset: 0, 0
+  index: -1
+bt_13b
+  rotate: true
+  xy: 808, 178
+  size: 50, 38
+  orig: 50, 38
+  offset: 0, 0
+  index: -1
+bt_14
+  rotate: true
+  xy: 667, 484
+  size: 101, 146
+  orig: 101, 146
+  offset: 0, 0
+  index: -1
+bt_15
+  rotate: false
+  xy: 956, 604
+  size: 55, 113
+  orig: 55, 113
+  offset: 0, 0
+  index: -1
+bt_16
+  rotate: false
+  xy: 2, 669
+  size: 456, 141
+  orig: 456, 141
+  offset: 0, 0
+  index: -1
+bt_17
+  rotate: false
+  xy: 986, 970
+  size: 34, 52
+  orig: 34, 52
+  offset: 0, 0
+  index: -1
+bt_18
+  rotate: false
+  xy: 943, 719
+  size: 51, 86
+  orig: 51, 86
+  offset: 0, 0
+  index: -1
+bt_19
+  rotate: false
+  xy: 484, 278
+  size: 86, 200
+  orig: 86, 200
+  offset: 0, 0
+  index: -1
+bt_20
+  rotate: false
+  xy: 2, 2
+  size: 132, 123
+  orig: 132, 123
+  offset: 0, 0
+  index: -1
+bt_21
+  rotate: false
+  xy: 674, 327
+  size: 115, 155
+  orig: 115, 155
+  offset: 0, 0
+  index: -1
+bt_22
+  rotate: true
+  xy: 284, 451
+  size: 216, 196
+  orig: 216, 196
+  offset: 0, 0
+  index: -1
+bt_23
+  rotate: false
+  xy: 572, 303
+  size: 100, 175
+  orig: 100, 175
+  offset: 0, 0
+  index: -1
+bt_24
+  rotate: true
+  xy: 815, 485
+  size: 114, 140
+  orig: 114, 140
+  offset: 0, 0
+  index: -1
+bt_25
+  rotate: true
+  xy: 801, 601
+  size: 116, 153
+  orig: 116, 153
+  offset: 0, 0
+  index: -1
+bt_27
+  rotate: false
+  xy: 852, 393
+  size: 88, 90
+  orig: 88, 90
+  offset: 0, 0
+  index: -1
+bt_29
+  rotate: false
+  xy: 663, 587
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1
+bt_31
+  rotate: false
+  xy: 531, 110
+  size: 83, 166
+  orig: 83, 166
+  offset: 0, 0
+  index: -1
+bt_32
+  rotate: false
+  xy: 852, 341
+  size: 96, 50
+  orig: 96, 50
+  offset: 0, 0
+  index: -1
+bt_33
+  rotate: false
+  xy: 616, 138
+  size: 98, 163
+  orig: 98, 163
+  offset: 0, 0
+  index: -1
+bt_34
+  rotate: false
+  xy: 336, 274
+  size: 146, 175
+  orig: 146, 175
+  offset: 0, 0
+  index: -1
+bt_35
+  rotate: false
+  xy: 482, 579
+  size: 179, 126
+  orig: 179, 126
+  offset: 0, 0
+  index: -1
+bt_36
+  rotate: false
+  xy: 336, 83
+  size: 129, 189
+  orig: 129, 189
+  offset: 0, 0
+  index: -1
+bt_37
+  rotate: true
+  xy: 762, 719
+  size: 86, 179
+  orig: 86, 179
+  offset: 0, 0
+  index: -1
+bt_38
+  rotate: false
+  xy: 791, 339
+  size: 59, 143
+  orig: 59, 143
+  offset: 0, 0
+  index: -1
+bt_39
+  rotate: false
+  xy: 808, 230
+  size: 39, 107
+  orig: 39, 107
+  offset: 0, 0
+  index: -1
+bt_40
+  rotate: true
+  xy: 292, 2
+  size: 79, 140
+  orig: 79, 140
+  offset: 0, 0
+  index: -1
+bt_41
+  rotate: false
+  xy: 467, 97
+  size: 62, 175
+  orig: 62, 175
+  offset: 0, 0
+  index: -1
+bt_42
+  rotate: false
+  xy: 716, 171
+  size: 90, 154
+  orig: 90, 154
+  offset: 0, 0
+  index: -1
+bt_6a
+  rotate: false
+  xy: 292, 84
+  size: 42, 365
+  orig: 42, 365
+  offset: 0, 0
+  index: -1
+bt_6b
+  rotate: true
+  xy: 460, 707
+  size: 103, 300
+  orig: 103, 300
+  offset: 0, 0
+  index: -1
+bt_7a
+  rotate: false
+  xy: 136, 22
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+bt_7b
+  rotate: true
+  xy: 762, 807
+  size: 50, 240
+  orig: 50, 240
+  offset: 0, 0
+  index: -1
+bt_8
+  rotate: false
+  xy: 2, 396
+  size: 280, 271
+  orig: 280, 271
+  offset: 0, 0
+  index: -1
+bt_9
+  rotate: true
+  xy: 718, 859
+  size: 163, 266
+  orig: 163, 266
+  offset: 0, 0
+  index: -1
+bt_9a
+  rotate: false
+  xy: 957, 491
+  size: 47, 111
+  orig: 47, 111
+  offset: 0, 0
+  index: -1

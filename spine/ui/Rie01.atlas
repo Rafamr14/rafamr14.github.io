@@ -1,0 +1,125 @@
+
+Rie01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ptxh_0
+  rotate: false
+  xy: 2, 18
+  size: 153, 227
+  orig: 153, 227
+  offset: 0, 0
+  index: -1
+ptxh_1
+  rotate: true
+  xy: 377, 697
+  size: 323, 306
+  orig: 323, 306
+  offset: 0, 0
+  index: -1
+ptxh_10
+  rotate: true
+  xy: 305, 52
+  size: 193, 267
+  orig: 193, 267
+  offset: 0, 0
+  index: -1
+ptxh_11
+  rotate: true
+  xy: 339, 263
+  size: 363, 346
+  orig: 363, 346
+  offset: 0, 0
+  index: -1
+ptxh_14
+  rotate: false
+  xy: 574, 5
+  size: 186, 256
+  orig: 186, 256
+  offset: 0, 0
+  index: -1
+ptxh_15
+  rotate: false
+  xy: 927, 163
+  size: 95, 162
+  orig: 95, 162
+  offset: 0, 0
+  index: -1
+ptxh_16
+  rotate: true
+  xy: 762, 230
+  size: 95, 163
+  orig: 95, 163
+  offset: 0, 0
+  index: -1
+ptxh_18
+  rotate: false
+  xy: 2, 628
+  size: 373, 392
+  orig: 373, 392
+  offset: 0, 0
+  index: -1
+ptxh_19
+  rotate: true
+  xy: 2, 247
+  size: 379, 335
+  orig: 379, 335
+  offset: 0, 0
+  index: -1
+ptxh_2
+  rotate: true
+  xy: 913, 85
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+ptxh_3
+  rotate: false
+  xy: 762, 4
+  size: 149, 157
+  orig: 149, 157
+  offset: 0, 0
+  index: -1
+ptxh_4
+  rotate: false
+  xy: 157, 29
+  size: 146, 216
+  orig: 146, 216
+  offset: 0, 0
+  index: -1
+ptxh_5
+  rotate: true
+  xy: 377, 640
+  size: 55, 122
+  orig: 55, 122
+  offset: 0, 0
+  index: -1
+ptxh_6
+  rotate: true
+  xy: 913, 5
+  size: 78, 104
+  orig: 78, 104
+  offset: 0, 0
+  index: -1
+ptxh_7
+  rotate: true
+  xy: 501, 641
+  size: 54, 122
+  orig: 54, 122
+  offset: 0, 0
+  index: -1
+ptxh_8
+  rotate: false
+  xy: 687, 668
+  size: 333, 352
+  orig: 333, 352
+  offset: 0, 0
+  index: -1
+ptxh_9
+  rotate: true
+  xy: 687, 327
+  size: 339, 294
+  orig: 339, 294
+  offset: 0, 0
+  index: -1

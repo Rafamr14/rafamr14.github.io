@@ -1,0 +1,20 @@
+
+NPC_2690_s2_stab.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xz_1
+  rotate: true
+  xy: 33, 218
+  size: 34, 221
+  orig: 34, 221
+  offset: 0, 0
+  index: -1
+xz_6
+  rotate: false
+  xy: 2, 19
+  size: 29, 233
+  orig: 29, 233
+  offset: 0, 0
+  index: -1
