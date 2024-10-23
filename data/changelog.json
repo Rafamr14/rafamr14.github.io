@@ -11,5 +11,19 @@
             "<ul><strong>Poster</strong><li>Figure_1828</li><li>Figure_1940</li><li>Figure_1941</li><li>Figure_1943</li><li>Figure_1944</li><li>Figure_1946</li><li>Figure_1947</li><li>Figure_1961</li><li>Figure_1963</li><li>Figure_1968</li><li>Figure_1983</li><li>figure_1827</li></ul>",
             "<ul><strong>Artificial</strong><li>Figure_1942</li><li>Figure_19422</li></ul>"
         ]
+    },
+    {
+        "version": "11_5",
+        "files": [
+            "<ul><strong>Npc</strong><li>NPC_10103</li><li>NPC_10202</li><li>NPC_10303</li><li>NPC_10802</li><li>NPC_11502</li><li>NPC_11602</li><li>NPC_11702</li><li>NPC_98086</li><li>NPC_98087</li><li>NPC_98088</li><li>NPC_98089</li><li>NPC_98090</li><li>NPC_98091</li><li>NPC_98092</li><li>NPC_98093</li><li>NPC_98094</li><li>NPC_98095</li><li>NPC_98097</li></ul>",
+            "<ul><strong>Dynamicobj</strong><li>Equip_21084</li><li>Equip_21088</li><li>Skin_17197</li><li>Skin_17198_Factory</li><li>hun_qiyana</li><li>hun_yayi</li></ul>",
+            "<ul><strong>Equipmentskin</strong><li>Custom-50013-1</li><li>Custom-50013-2</li><li>Custom-50013-3</li><li>Custom-50013-4</li></ul>",
+            "<ul><strong>Pet</strong><li>Pet_232</li></ul>",
+            "<ul><strong>Skin</strong><li>Skin_17198_run</li></ul>",
+            "<ul><strong>Ui</strong><li>GeneralLuckyDraw</li></ul>",
+            "<ul><strong>Weapon</strong><li>21084</li><li>21085</li><li>21086</li><li>21087</li><li>21088</li><li>21089</li><li>21090</li><li>21091</li></ul>",
+            "<ul><strong>Cutin</strong><li>Delisha_cutin</li><li>Pet_232_cutin</li><li>Skin_17119</li><li>Skin_17140</li><li>Skin_17197_cutin</li><li>Skin_17198_cutin</li><li>cutin_bachongying</li><li>cutin_theresa</li><li>cutin_theresa_xiunv</li><li>theresa_skin4_cutin</li></ul>",
+            "<ul><strong>Poster</strong><li>Figure_1737 </li><li>Figure_1945</li><li>Figure_1955</li><li>Figure_1957</li><li>Figure_2000</li><li>Figure_2001</li><li>Figure_2002</li><li>Figure_2003</li><li>Figure_2004</li><li>figure_1950</li><li>figure_1951</li><li>figure_1952</li><li>figure_1953</li><li>figure_1954</li><li>figure_1956</li><li>figure_1959_1</li><li>figure_1959_2</li><li>figure_1960</li><li>figure_1962</li><li>figure_1967</li><li>figure_1978</li></ul>"
+        ]
     }
 ]
