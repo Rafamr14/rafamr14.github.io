@@ -13,14 +13,14 @@ repeat: none
   index: -1
 1
   rotate: true
-  xy: 154, 891
+  xy: 320, 1205
   size: 73, 75
   orig: 73, 75
   offset: 0, 0
   index: -1
 1_eye_idle
   rotate: true
-  xy: 554, 1093
+  xy: 211, 1240
   size: 64, 75
   orig: 64, 75
   offset: 0, 0
@@ -40,8 +40,8 @@ repeat: none
   offset: 0, 0
   index: -1
 acc_special_angry
-  rotate: true
-  xy: 894, 1094
+  rotate: false
+  xy: 1000, 989
   size: 60, 66
   orig: 60, 66
   offset: 0, 0
@@ -62,21 +62,21 @@ bg
   index: -1
 bjn61
   rotate: false
-  xy: 233, 844
+  xy: 146, 892
   size: 90, 125
   orig: 90, 125
   offset: 0, 0
   index: -1
 bjn62
-  rotate: true
-  xy: 156, 752
+  rotate: false
+  xy: 325, 851
   size: 137, 75
   orig: 137, 75
   offset: 0, 0
   index: -1
 bjn63
   rotate: false
-  xy: 1, 752
+  xy: 845, 953
   size: 153, 66
   orig: 153, 66
   offset: 0, 0
@@ -97,7 +97,7 @@ body_hand_angry_L
   index: -1
 body_hand_angry_R
   rotate: false
-  xy: 396, 1157
+  xy: 848, 1204
   size: 49, 48
   orig: 49, 48
   offset: 0, 0
@@ -111,28 +111,28 @@ body_hand_angry_R1
   index: -1
 body_hand_angry_R2
   rotate: false
-  xy: 451, 1101
+  xy: 134, 1255
   size: 72, 50
   orig: 72, 50
   offset: 0, 0
   index: -1
 body_hand_angry_R11
   rotate: true
-  xy: 143, 1090
+  xy: 150, 752
   size: 70, 86
   orig: 70, 86
   offset: 0, 0
   index: -1
 body_hand_cry_L
   rotate: false
-  xy: 680, 954
+  xy: 1249, 1075
   size: 51, 38
   orig: 51, 38
   offset: 0, 0
   index: -1
 body_hand_fear_L
   rotate: true
-  xy: 448, 1153
+  xy: 1, 1307
   size: 68, 71
   orig: 68, 71
   offset: 0, 0
@@ -145,50 +145,50 @@ body_hand_fear_R
   offset: 0, 0
   index: -1
 body_hand_give_L
-  rotate: true
-  xy: 1005, 989
+  rotate: false
+  xy: 455, 1314
   size: 61, 54
   orig: 61, 54
   offset: 0, 0
   index: -1
 body_hand_greet_R
   rotate: false
-  xy: 818, 1021
+  xy: 319, 1280
   size: 74, 74
   orig: 74, 74
   offset: 0, 0
   index: -1
 body_hand_happy_L
   rotate: false
-  xy: 61, 1260
+  xy: 395, 1326
   size: 57, 47
   orig: 57, 47
   offset: 0, 0
   index: -1
 body_hand_idle_L
   rotate: false
-  xy: 680, 906
+  xy: 680, 1034
   size: 51, 46
   orig: 51, 46
   offset: 0, 0
   index: -1
 body_hand_idle_R
   rotate: false
-  xy: 771, 1186
+  xy: 900, 1142
   size: 63, 61
   orig: 63, 61
   offset: 0, 0
   index: -1
 body_hand_injured_L
   rotate: false
-  xy: 296, 1356
+  xy: 74, 1345
   size: 58, 48
   orig: 58, 48
   offset: 0, 0
   index: -1
 body_hand_reach_L
   rotate: true
-  xy: 367, 1322
+  xy: 73, 1395
   size: 52, 59
   orig: 52, 59
   offset: 0, 0
@@ -216,21 +216,21 @@ book
   index: -1
 bou2
   rotate: true
-  xy: 807, 1138
+  xy: 900, 1094
   size: 46, 65
   orig: 46, 65
   offset: 0, 0
   index: -1
 bou4
   rotate: true
-  xy: 807, 1097
+  xy: 651, 1157
   size: 39, 66
   orig: 39, 66
   offset: 0, 0
   index: -1
 bou5
   rotate: true
-  xy: 324, 1066
+  xy: 320, 1142
   size: 61, 94
   orig: 61, 94
   offset: 0, 0
@@ -243,15 +243,15 @@ bou6
   offset: 0, 0
   index: -1
 bou7
-  rotate: false
-  xy: 303, 1266
+  rotate: true
+  xy: 692, 965
   size: 67, 39
   orig: 67, 39
   offset: 0, 0
   index: -1
 bou8
-  rotate: false
-  xy: 1, 1175
+  rotate: true
+  xy: 238, 968
   size: 120, 83
   orig: 120, 83
   offset: 0, 0
@@ -272,21 +272,21 @@ bou10
   index: -1
 bou11
   rotate: false
-  xy: 51, 1355
+  xy: 965, 1150
   size: 47, 44
   orig: 47, 44
   offset: 0, 0
   index: -1
 bou12
   rotate: false
-  xy: 553, 1159
+  xy: 208, 1306
   size: 71, 42
   orig: 71, 42
   offset: 0, 0
   index: -1
 bou13
   rotate: true
-  xy: 59, 1309
+  xy: 1182, 1121
   size: 44, 49
   orig: 44, 49
   offset: 0, 0
@@ -300,7 +300,7 @@ bou14
   index: -1
 bou15
   rotate: false
-  xy: 420, 1066
+  xy: 288, 1240
   size: 29, 47
   orig: 29, 47
   offset: 0, 0
@@ -313,8 +313,8 @@ bou16
   offset: 0, 0
   index: -1
 bou17
-  rotate: true
-  xy: 193, 1237
+  rotate: false
+  xy: 1033, 1141
   size: 49, 38
   orig: 49, 38
   offset: 0, 0
@@ -335,119 +335,119 @@ bou20
   index: -1
 bou21
   rotate: true
-  xy: 559, 958
+  xy: 555, 1078
   size: 28, 119
   orig: 28, 119
   offset: 0, 0
   index: -1
 bou22
   rotate: false
-  xy: 377, 1207
+  xy: 134, 1377
   size: 69, 64
   orig: 69, 64
   offset: 0, 0
   index: -1
 bou24
   rotate: true
-  xy: 525, 1101
+  xy: 288, 1289
   size: 47, 26
   orig: 47, 26
   offset: 0, 0
   index: -1
 bou25
   rotate: true
-  xy: 655, 1069
+  xy: 134, 1186
   size: 67, 75
   orig: 67, 75
   offset: 0, 0
   index: -1
 bou26
   rotate: true
-  xy: 559, 988
+  xy: 555, 1108
   size: 28, 116
   orig: 28, 116
   offset: 0, 0
   index: -1
 bou27
-  rotate: false
-  xy: 631, 1138
+  rotate: true
+  xy: 397, 1208
   size: 72, 57
   orig: 72, 57
   offset: 0, 0
   index: -1
 bou28
   rotate: true
-  xy: 460, 900
+  xy: 460, 940
   size: 124, 97
   orig: 124, 97
   offset: 0, 0
   index: -1
 bou29
   rotate: true
-  xy: 1918, 924
+  xy: 1917, 1061
   size: 146, 127
   orig: 146, 127
   offset: 0, 0
   index: -1
 clo_arm_down_L
   rotate: true
-  xy: 920, 953
+  xy: 235, 1090
   size: 73, 83
   orig: 73, 83
   offset: 0, 0
   index: -1
 clo_arm_down_R
   rotate: true
-  xy: 733, 1006
+  xy: 235, 1165
   size: 73, 83
   orig: 73, 83
   offset: 0, 0
   index: -1
 clo_arm_up_L
   rotate: true
-  xy: 134, 1162
+  xy: 136, 1111
   size: 73, 97
   orig: 73, 97
   offset: 0, 0
   index: -1
 clo_arm_up_R
   rotate: true
-  xy: 733, 931
+  xy: 456, 1066
   size: 73, 97
   orig: 73, 97
   offset: 0, 0
   index: -1
 clo_body_up
   rotate: false
-  xy: 1911, 1275
+  xy: 325, 928
   size: 133, 121
   orig: 133, 121
   offset: 0, 0
   index: -1
 clo_feet_L
   rotate: false
-  xy: 559, 1018
+  xy: 555, 1138
   size: 94, 73
   orig: 94, 73
   offset: 0, 0
   index: -1
 clo_feet_R
   rotate: false
-  xy: 458, 1026
+  xy: 456, 1141
   size: 94, 73
   orig: 94, 73
   offset: 0, 0
   index: -1
 clo_leg_down_L
   rotate: true
-  xy: 325, 975
+  xy: 323, 1051
   size: 89, 131
   orig: 89, 131
   offset: 0, 0
   index: -1
 clo_leg_down_R
-  rotate: false
-  xy: 233, 1063
+  rotate: true
+  xy: 1, 1148
   size: 89, 131
   orig: 89, 131
   offset: 0, 0
@@ -503,7 +503,7 @@ clo_wrist_R
   index: -1
 die_s
   rotate: true
-  xy: 735, 745
+  xy: 733, 903
   size: 144, 110
   orig: 144, 110
   offset: 0, 0
@@ -748,91 +748,91 @@ feature_eye_yun
   index: -1
 feature_mouth_angry
   rotate: false
-  xy: 705, 1193
+  xy: 998, 1057
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_cry
   rotate: false
-  xy: 626, 1197
+  xy: 651, 1198
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_die
   rotate: false
-  xy: 690, 1242
+  xy: 552, 1213
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_fear
   rotate: false
-  xy: 521, 1203
+  xy: 456, 1216
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_greet
   rotate: false
-  xy: 624, 1246
+  xy: 784, 1204
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_happy
   rotate: false
-  xy: 448, 1223
+  xy: 715, 1227
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_idle
   rotate: false
-  xy: 512, 1252
+  xy: 779, 1253
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_injured
   rotate: false
-  xy: 448, 1272
+  xy: 616, 1247
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_injured_s
   rotate: false
-  xy: 512, 1301
+  xy: 520, 1262
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_shy
   rotate: false
-  xy: 372, 1273
+  xy: 456, 1265
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_spe
   rotate: false
-  xy: 303, 1307
+  xy: 680, 1276
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_think
   rotate: false
-  xy: 232, 1333
+  xy: 584, 1296
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
   index: -1
 feature_mouth_yun
   rotate: false
-  xy: 436, 1321
+  xy: 520, 1311
   size: 62, 47
   orig: 62, 47
   offset: 0, 0
@@ -846,14 +846,14 @@ hanzhu
   index: -1
 n22
   rotate: true
-  xy: 559, 906
+  xy: 559, 1026
   size: 50, 119
   orig: 50, 119
   offset: 0, 0
   index: -1
 n25
   rotate: true
-  xy: 1, 820
+  xy: 845, 1021
   size: 71, 151
   orig: 71, 151
   offset: 0, 0
@@ -881,7 +881,7 @@ n28
   index: -1
 n29
   rotate: true
-  xy: 1, 1114
+  xy: 559, 965
   size: 59, 131
   orig: 59, 131
   offset: 0, 0
@@ -895,7 +895,7 @@ n210
   index: -1
 n229a
   rotate: false
-  xy: 1, 1008
+  xy: 1, 977
   size: 140, 104
   orig: 140, 104
   offset: 0, 0
@@ -923,7 +923,7 @@ n234
   index: -1
 n235
   rotate: true
-  xy: 325, 851
+  xy: 1, 1083
   size: 63, 133
   orig: 63, 133
   offset: 0, 0
@@ -944,7 +944,7 @@ n263
   index: -1
 n277
   rotate: false
-  xy: 832, 953
+  xy: 150, 824
   size: 86, 66
   orig: 86, 66
   offset: 0, 0
@@ -972,7 +972,7 @@ n280
   index: -1
 n281
   rotate: true
-  xy: 1, 893
+  xy: 1, 862
   size: 113, 143
   orig: 113, 143
   offset: 0, 0
@@ -1007,7 +1007,7 @@ penwu
   index: -1
 read_hand
   rotate: true
-  xy: 233, 1265
+  xy: 830, 1094
   size: 66, 68
   orig: 66, 68
   offset: 0, 0
@@ -1019,9 +1019,51 @@ rpg_2
   orig: 372, 106
   offset: 0, -95
   index: -1
+st1
+  rotate: true
+  xy: 416, 1142
+  size: 64, 38
+  orig: 64, 38
+  offset: 0, 0
+  index: -1
+st2
+  rotate: false
+  xy: 1, 752
+  size: 147, 108
+  orig: 147, 108
+  offset: 0, 0
+  index: -1
+st3
+  rotate: false
+  xy: 1191, 1075
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+st4
+  rotate: false
+  xy: 733, 1049
+  size: 95, 68
+  orig: 95, 68
+  offset: 0, 0
+  index: -1
+st5
+  rotate: false
+  xy: 1918, 924
+  size: 128, 83
+  orig: 128, 83
+  offset: 0, 0
+  index: -1
+st6
+  rotate: true
+  xy: 735, 745
+  size: 156, 110
+  orig: 156, 110
+  offset: 0, 0
+  index: -1
 txx2
   rotate: false
-  xy: 146, 966
+  xy: 238, 844
   size: 85, 122
   orig: 85, 122
   offset: 0, 0
@@ -1035,7 +1077,7 @@ txx3
   index: -1
 txx4
   rotate: false
-  xy: 1, 1304
+  xy: 76, 1295
   size: 56, 48
   orig: 56, 48
   offset: 0, 0
@@ -1049,14 +1091,14 @@ txx5
   index: -1
 txx6
   rotate: false
-  xy: 120, 1307
+  xy: 1128, 1114
   size: 52, 48
   orig: 52, 48
   offset: 0, 0
   index: -1
 txx8
   rotate: false
-  xy: 174, 1351
+  xy: 1249, 1115
   size: 49, 44
   orig: 49, 44
   offset: 0, 0
@@ -1070,14 +1112,14 @@ txx9
   index: -1
 txx10
   rotate: false
-  xy: 1, 1354
+  xy: 1126, 1164
   size: 48, 47
   orig: 48, 47
   offset: 0, 0
   index: -1
 txx11
   rotate: true
-  xy: 1915, 1124
+  xy: 1915, 1209
   size: 149, 131
   orig: 149, 131
   offset: 0, 0
@@ -1105,35 +1147,35 @@ wo_2
   index: -1
 wqs1
   rotate: true
-  xy: 305, 1199
+  xy: 206, 1350
   size: 65, 70
   orig: 65, 70
   offset: 0, 0
   index: -1
 wqs2
   rotate: false
-  xy: 324, 1129
+  xy: 134, 1307
   size: 70, 68
   orig: 70, 68
   offset: 0, 0
   index: -1
 wqs3
   rotate: false
-  xy: 233, 971
+  xy: 143, 1019
   size: 90, 90
   orig: 90, 90
   offset: 0, 0
   index: -1
 wqs4
   rotate: true
-  xy: 233, 1196
+  xy: 1, 1377
   size: 67, 70
   orig: 67, 70
   offset: 0, 0
   index: -1
 wqs5
   rotate: false
-  xy: 894, 1028
+  xy: 732, 1119
   size: 66, 64
   orig: 66, 64
   offset: 0, 0
@@ -1147,14 +1189,14 @@ wqs6
   index: -1
 wqs7
   rotate: false
-  xy: 123, 1237
+  xy: 1, 1446
   size: 68, 68
   orig: 68, 68
   offset: 0, 0
   index: -1
 wqs8
-  rotate: false
-  xy: 100, 1357
+  rotate: true
+  xy: 1084, 1141
   size: 44, 40
   orig: 44, 40
   offset: 0, 0
@@ -1168,21 +1210,21 @@ wqs9
   index: -1
 wqs10
   rotate: false
-  xy: 874, 1156
+  xy: 1062, 1075
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 wqs11
   rotate: false
-  xy: 1, 1260
+  xy: 395, 1282
   size: 58, 42
   orig: 58, 42
   offset: 0, 0
   index: -1
 wqs12
   rotate: false
-  xy: 225, 1382
+  xy: 1014, 1181
   size: 47, 37
   orig: 47, 37
   offset: 0, 0
@@ -1280,28 +1322,28 @@ zm2
   index: -1
 zm3
   rotate: false
-  xy: 146, 1397
+  xy: 1063, 1187
   size: 44, 37
   orig: 44, 37
   offset: 0, 0
   index: -1
 zm4
   rotate: false
-  xy: 576, 1266
+  xy: 965, 1196
   size: 45, 44
   orig: 45, 44
   offset: 0, 0
   index: -1
 zm5
   rotate: false
-  xy: 100, 1399
+  xy: 1012, 1220
   size: 37, 37
   orig: 37, 37
   offset: 0, 0
   index: -1
 zm6
   rotate: false
-  xy: 732, 1081
+  xy: 1, 1239
   size: 73, 66
   orig: 73, 66
   offset: 0, 0
@@ -1315,7 +1357,7 @@ zm7
   index: -1
 zm8
   rotate: false
-  xy: 705, 1149
+  xy: 967, 1106
   size: 64, 42
   orig: 64, 42
   offset: 0, 0
@@ -1371,14 +1413,14 @@ zm18
   index: -1
 zm19
   rotate: true
-  xy: 1917, 1072
+  xy: 1917, 1009
   size: 50, 130
   orig: 50, 130
   offset: 0, 0
   index: -1
 zm20
   rotate: true
-  xy: 325, 916
+  xy: 573, 906
   size: 57, 133
   orig: 57, 133
   offset: 0, 0
@@ -1406,7 +1448,7 @@ zm23a
   index: -1
 zm24
   rotate: false
-  xy: 733, 891
+  xy: 464, 900
   size: 107, 38
   orig: 107, 38
   offset: 0, 0
@@ -1427,7 +1469,7 @@ zm26
   index: -1
 zm28
   rotate: true
-  xy: 525, 1150
+  xy: 281, 1338
   size: 40, 26
   orig: 40, 26
   offset: 0, 0
@@ -1440,43 +1482,43 @@ zm29
   offset: 0, 0
   index: -1
 zm30
-  rotate: false
-  xy: 193, 1288
+  rotate: true
+  xy: 309, 1356
   size: 37, 61
   orig: 37, 61
   offset: 0, 0
   index: -1
 zm31
-  rotate: false
-  xy: 962, 1028
+  rotate: true
+  xy: 800, 1162
   size: 40, 63
   orig: 40, 63
   offset: 0, 0
   index: -1
 zm33
   rotate: true
-  xy: 420, 1115
+  xy: 800, 1119
   size: 40, 26
   orig: 40, 26
   offset: 0, 0
   index: -1
 zm34
   rotate: false
-  xy: 1004, 1052
+  xy: 76, 1239
   size: 56, 54
   orig: 56, 54
   offset: 0, 0
   index: -1
 zm35
-  rotate: false
-  xy: 585, 1203
+  rotate: true
+  xy: 1128, 1075
   size: 37, 61
   orig: 37, 61
   offset: 0, 0
   index: -1
 zm36
-  rotate: false
-  xy: 962, 1093
+  rotate: true
+  xy: 719, 1185
   size: 40, 63
   orig: 40, 63
   offset: 0, 0
@@ -1504,7 +1546,7 @@ zm40
   index: -1
 zm42
   rotate: false
-  xy: 677, 994
+  xy: 676, 1082
   size: 54, 73
   orig: 54, 73
   offset: 0, 0
