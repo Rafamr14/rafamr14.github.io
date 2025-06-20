@@ -1,0 +1,20 @@
+
+71.png
+size: 414,89
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 249, 87
+  orig: 383, 158
+  offset: 123, 29
+  index: -1
+rpg_2
+  rotate: false
+  xy: 251, 39
+  size: 162, 49
+  orig: 237, 68
+  offset: 0, 9
+  index: -1

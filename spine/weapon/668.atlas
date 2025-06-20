@@ -1,0 +1,20 @@
+
+668.png
+size: 362,225
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 113
+  size: 360, 111
+  orig: 360, 126
+  offset: 0, 15
+  index: -1
+dianju2
+  rotate: false
+  xy: 1, 1
+  size: 356, 111
+  orig: 360, 126
+  offset: 4, 15
+  index: -1

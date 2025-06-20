@@ -1,0 +1,20 @@
+
+92.png
+size: 146,273
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: true
+  xy: 1, 1
+  size: 271, 94
+  orig: 383, 158
+  offset: 112, 27
+  index: -1
+rpg_2
+  rotate: true
+  xy: 96, 131
+  size: 141, 49
+  orig: 237, 68
+  offset: 1, 9
+  index: -1

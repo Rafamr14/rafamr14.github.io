@@ -1,0 +1,20 @@
+
+20219.png
+size: 530,83
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 264, 81
+  orig: 360, 110
+  offset: 45, 18
+  index: -1
+dianju2
+  rotate: false
+  xy: 266, 2
+  size: 263, 80
+  orig: 360, 110
+  offset: 45, 18
+  index: -1

@@ -1,0 +1,20 @@
+
+20658.png
+size: 397,110
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 328, 108
+  orig: 383, 158
+  offset: 24, 29
+  index: -1
+rpg_2
+  rotate: true
+  xy: 330, 5
+  size: 104, 66
+  orig: 237, 68
+  offset: 4, 1
+  index: -1

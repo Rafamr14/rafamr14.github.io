@@ -1,0 +1,20 @@
+
+486.png
+size: 361,201
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 357, 99
+  orig: 360, 126
+  offset: 0, 20
+  index: -1
+dianju2
+  rotate: false
+  xy: 1, 101
+  size: 359, 99
+  orig: 360, 126
+  offset: 0, 20
+  index: -1

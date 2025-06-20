@@ -1,0 +1,265 @@
+
+NPC_2750.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0Light_0
+  rotate: 180
+  xy: 317, 1121
+  size: 615, 599
+  orig: 615, 599
+  offset: 0, 0
+  index: -1
+0Light_1
+  rotate: 180
+  xy: 803, 1016
+  size: 689, 589
+  orig: 689, 589
+  offset: 0, 0
+  index: -1
+1Gun_0
+  rotate: false
+  xy: 2, 1707
+  size: 888, 339
+  orig: 890, 341
+  offset: 1, 1
+  index: -1
+2JJ_0
+  rotate: true
+  xy: 892, 1711
+  size: 187, 237
+  orig: 187, 237
+  offset: 0, 0
+  index: -1
+2JJ_1
+  rotate: true
+  xy: 1156, 917
+  size: 233, 292
+  orig: 235, 295
+  offset: 1, 2
+  index: -1
+2JJ_10
+  rotate: false
+  xy: 1678, 1682
+  size: 282, 364
+  orig: 284, 366
+  offset: 1, 1
+  index: -1
+2JJ_11
+  rotate: 270
+  xy: 483, 922
+  size: 218, 316
+  orig: 218, 316
+  offset: 0, 0
+  index: -1
+2JJ_12
+  rotate: false
+  xy: 1474, 871
+  size: 331, 186
+  orig: 331, 186
+  offset: 0, 0
+  index: -1
+2JJ_13
+  rotate: false
+  xy: 1734, 742
+  size: 177, 176
+  orig: 179, 178
+  offset: 1, 1
+  index: -1
+2JJ_14
+  rotate: 180
+  xy: 2, 844
+  size: 229, 250
+  orig: 229, 250
+  offset: 0, 0
+  index: -1
+2JJ_15
+  rotate: false
+  xy: 2, 1098
+  size: 225, 305
+  orig: 227, 307
+  offset: 1, 1
+  index: -1
+2JJ_16
+  rotate: 180
+  xy: 250, 1473
+  size: 286, 232
+  orig: 286, 232
+  offset: 0, 0
+  index: -1
+2JJ_2
+  rotate: false
+  xy: 218, 885
+  size: 258, 233
+  orig: 258, 233
+  offset: 0, 0
+  index: -1
+2JJ_3
+  rotate: false
+  xy: 1834, 1253
+  size: 211, 305
+  orig: 211, 305
+  offset: 0, 0
+  index: -1
+2JJ_4
+  rotate: false
+  xy: 794, 832
+  size: 323, 181
+  orig: 323, 181
+  offset: 0, 0
+  index: -1
+2JJ_5
+  rotate: false
+  xy: 2, 1405
+  size: 246, 300
+  orig: 248, 302
+  offset: 1, 1
+  index: -1
+2JJ_6
+  rotate: false
+  xy: 649, 735
+  size: 171, 171
+  orig: 174, 174
+  offset: 2, 2
+  index: -1
+2JJ_7
+  rotate: true
+  xy: 1808, 920
+  size: 222, 238
+  orig: 224, 240
+  offset: 1, 1
+  index: -1
+2JJ_8
+  rotate: 270
+  xy: 1309, 733
+  size: 198, 251
+  orig: 198, 251
+  offset: 0, 0
+  index: -1
+2JJ_9
+  rotate: true
+  xy: 1324, 1058
+  size: 393, 517
+  orig: 393, 517
+  offset: 0, 0
+  index: -1
+2JJ_AircraftB_0
+  rotate: false
+  xy: 829, 1443
+  size: 1026, 603
+  orig: 1039, 603
+  offset: 0, 0
+  index: -1
+2JJ_HandB_0
+  rotate: false
+  xy: 1078, 747
+  size: 175, 168
+  orig: 178, 170
+  offset: 2, 1
+  index: -1
+2JJ_HandB_1
+  rotate: false
+  xy: 1186, 1961
+  size: 152, 85
+  orig: 155, 88
+  offset: 2, 1
+  index: -1
+2JJ_HandF_0
+  rotate: true
+  xy: 1496, 1840
+  size: 206, 178
+  orig: 210, 180
+  offset: 2, 1
+  index: -1
+2JJ_HandF_1
+  rotate: false
+  xy: 469, 742
+  size: 178, 178
+  orig: 185, 180
+  offset: 2, 1
+  index: -1
+2JJ_Light_0
+  rotate: false
+  xy: 1962, 1856
+  size: 43, 70
+  orig: 47, 75
+  offset: 2, 3
+  index: -1
+2JJ_Light_1
+  rotate: false
+  xy: 1297, 1917
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+2JJ_Light_2
+  rotate: false
+  xy: 1398, 1924
+  size: 96, 55
+  orig: 102, 61
+  offset: 3, 3
+  index: -1
+2JJ_Light_3
+  rotate: false
+  xy: 1962, 1928
+  size: 59, 55
+  orig: 63, 60
+  offset: 2, 3
+  index: -1
+2JJ_Light_4
+  rotate: false
+  xy: 1340, 1977
+  size: 108, 69
+  orig: 108, 69
+  offset: 0, 0
+  index: -1
+2JJ_Light_4_2
+  rotate: false
+  xy: 924, 1643
+  size: 105, 68
+  orig: 105, 68
+  offset: 0, 0
+  index: -1
+2JJ_Light_5
+  rotate: false
+  xy: 1962, 1985
+  size: 67, 61
+  orig: 73, 66
+  offset: 3, 3
+  index: -1
+2JJ_Light_6
+  rotate: false
+  xy: 1501, 1786
+  size: 95, 52
+  orig: 102, 56
+  offset: 4, 2
+  index: -1
+2JJ_Light_7
+  rotate: false
+  xy: 2023, 1905
+  size: 22, 78
+  orig: 25, 83
+  offset: 1, 2
+  index: -1
+2JJ_Light_8
+  rotate: false
+  xy: 1340, 1927
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+2JJ_Light_9
+  rotate: false
+  xy: 1450, 1991
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+2JJ_Light_9_2
+  rotate: false
+  xy: 1132, 1988
+  size: 36, 58
+  orig: 36, 58
+  offset: 0, 0
+  index: -1

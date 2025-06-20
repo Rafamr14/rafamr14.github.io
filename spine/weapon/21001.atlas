@@ -1,0 +1,20 @@
+
+21001.png
+size: 330,207
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 326, 102
+  orig: 360, 126
+  offset: 5, 15
+  index: -1
+dianju2
+  rotate: false
+  xy: 1, 104
+  size: 328, 102
+  orig: 360, 126
+  offset: 5, 15
+  index: -1

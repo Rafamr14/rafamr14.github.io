@@ -1,0 +1,153 @@
+
+Npc_2790.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GLZ_S_11
+  rotate: true
+  xy: 250, 3
+  size: 137, 169
+  orig: 137, 169
+  offset: 0, 0
+  index: -1
+GLZ_S_12
+  rotate: true
+  xy: 303, 647
+  size: 165, 157
+  orig: 165, 157
+  offset: 0, 0
+  index: -1
+GLZ_S_13
+  rotate: false
+  xy: 371, 499
+  size: 157, 146
+  orig: 165, 146
+  offset: 0, 0
+  index: -1
+GLZ_S_14
+  rotate: false
+  xy: 2, 12
+  size: 305, 200
+  orig: 305, 200
+  offset: 0, 0
+  index: -1
+GLZ_S_16
+  rotate: false
+  xy: 268, 487
+  size: 179, 161
+  orig: 179, 161
+  offset: 0, 0
+  index: -1
+GLZ_S_17
+  rotate: false
+  xy: 2, 511
+  size: 125, 137
+  orig: 125, 137
+  offset: 0, 0
+  index: -1
+GLZ_S_18
+  rotate: false
+  xy: 364, 349
+  size: 156, 136
+  orig: 156, 136
+  offset: 0, 0
+  index: -1
+GLZ_S_2
+  rotate: 270
+  xy: 219, 139
+  size: 253, 232
+  orig: 253, 232
+  offset: 0, 0
+  index: -1
+GLZ_S_20
+  rotate: 180
+  xy: 426, 172
+  size: 121, 123
+  orig: 121, 123
+  offset: 0, 0
+  index: -1
+GLZ_S_21
+  rotate: false
+  xy: 462, 754
+  size: 121, 132
+  orig: 121, 132
+  offset: 0, 0
+  index: -1
+GLZ_S_22
+  rotate: false
+  xy: 495, 360
+  size: 81, 147
+  orig: 81, 147
+  offset: 0, 0
+  index: -1
+GLZ_S_23
+  rotate: true
+  xy: 477, 258
+  size: 89, 125
+  orig: 89, 125
+  offset: 0, 0
+  index: -1
+GLZ_S_24
+  rotate: true
+  xy: 410, 888
+  size: 126, 120
+  orig: 130, 122
+  offset: 1, 1
+  index: -1
+GLZ_S_26
+  rotate: false
+  xy: 422, 8
+  size: 101, 158
+  orig: 101, 158
+  offset: 0, 0
+  index: -1
+GLZ_S_27
+  rotate: false
+  xy: 511, 19
+  size: 81, 134
+  orig: 81, 134
+  offset: 0, 0
+  index: -1
+GLZ_S_3
+  rotate: false
+  xy: 2, 650
+  size: 299, 364
+  orig: 301, 366
+  offset: 1, 1
+  index: -1
+GLZ_S_4
+  rotate: true
+  xy: 303, 814
+  size: 200, 105
+  orig: 202, 107
+  offset: 1, 1
+  index: -1
+GLZ_S_6
+  rotate: false
+  xy: 530, 869
+  size: 82, 92
+  orig: 82, 92
+  offset: 0, 0
+  index: -1
+GLZ_S_7
+  rotate: false
+  xy: 501, 526
+  size: 66, 164
+  orig: 66, 164
+  offset: 0, 0
+  index: -1
+GLZ_S_8
+  rotate: 270
+  xy: 401, 694
+  size: 119, 140
+  orig: 119, 140
+  offset: 0, 0
+  index: -1
+GLZ_S_9
+  rotate: true
+  xy: 2, 182
+  size: 466, 326
+  orig: 466, 326
+  offset: 0, 0
+  index: -1

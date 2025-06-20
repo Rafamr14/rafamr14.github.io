@@ -1,0 +1,20 @@
+
+20423.png
+size: 288,223
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 112
+  size: 286, 110
+  orig: 360, 110
+  offset: 36, 0
+  index: -1
+dianju2
+  rotate: false
+  xy: 1, 1
+  size: 286, 110
+  orig: 360, 110
+  offset: 36, 0
+  index: -1

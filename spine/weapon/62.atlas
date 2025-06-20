@@ -1,0 +1,20 @@
+
+62.png
+size: 671,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 334, 126
+  orig: 360, 126
+  offset: 9, 0
+  index: -1
+dianju2
+  rotate: false
+  xy: 336, 1
+  size: 334, 126
+  orig: 360, 126
+  offset: 9, 0
+  index: -1

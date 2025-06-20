@@ -1,0 +1,125 @@
+
+Npc_2800.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GLZ_P_10
+  rotate: true
+  xy: 532, 582
+  size: 440, 335
+  orig: 440, 335
+  offset: 0, 0
+  index: -1
+GLZ_P_11
+  rotate: false
+  xy: 2, 167
+  size: 398, 167
+  orig: 400, 167
+  offset: 1, 0
+  index: -1
+GLZ_P_12
+  rotate: 180
+  xy: 402, 148
+  size: 305, 181
+  orig: 305, 181
+  offset: 0, 0
+  index: -1
+GLZ_P_13
+  rotate: false
+  xy: 2, 336
+  size: 543, 686
+  orig: 543, 686
+  offset: 0, 0
+  index: -1
+GLZ_P_15
+  rotate: false
+  xy: 2, 902
+  size: 93, 120
+  orig: 93, 120
+  offset: 0, 0
+  index: -1
+GLZ_P_16
+  rotate: true
+  xy: 367, 84
+  size: 95, 108
+  orig: 95, 108
+  offset: 0, 0
+  index: -1
+GLZ_P_17
+  rotate: false
+  xy: 924, 140
+  size: 97, 116
+  orig: 97, 116
+  offset: 0, 0
+  index: -1
+GLZ_P_18
+  rotate: false
+  xy: 952, 312
+  size: 70, 86
+  orig: 70, 86
+  offset: 0, 0
+  index: -1
+GLZ_P_19
+  rotate: true
+  xy: 869, 650
+  size: 154, 140
+  orig: 155, 143
+  offset: 0, 3
+  index: -1
+GLZ_P_2
+  rotate: true
+  xy: 433, 330
+  size: 250, 290
+  orig: 250, 290
+  offset: 0, 0
+  index: -1
+GLZ_P_20
+  rotate: false
+  xy: 695, 69
+  size: 215, 124
+  orig: 215, 124
+  offset: 0, 0
+  index: -1
+GLZ_P_3
+  rotate: false
+  xy: 725, 441
+  size: 92, 140
+  orig: 92, 140
+  offset: 0, 0
+  index: -1
+GLZ_P_4
+  rotate: false
+  xy: 481, 595
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+GLZ_P_5
+  rotate: 180
+  xy: 2, 677
+  size: 146, 217
+  orig: 146, 217
+  offset: 0, 0
+  index: -1
+GLZ_P_6
+  rotate: true
+  xy: 853, 806
+  size: 217, 135
+  orig: 217, 135
+  offset: 0, 0
+  index: -1
+GLZ_P_7
+  rotate: false
+  xy: 826, 382
+  size: 196, 236
+  orig: 196, 236
+  offset: 0, 0
+  index: -1
+GLZ_P_8
+  rotate: false
+  xy: 721, 190
+  size: 214, 199
+  orig: 233, 199
+  offset: 19, 0
+  index: -1

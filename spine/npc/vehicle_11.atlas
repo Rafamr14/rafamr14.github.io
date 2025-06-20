@@ -1,0 +1,62 @@
+
+vehicle_11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c_1
+  rotate: false
+  xy: 667, 295
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+c_0
+  rotate: false
+  xy: 667, 295
+  size: 218, 218
+  orig: 218, 218
+  offset: 0, 0
+  index: -1
+ccc_0
+  rotate: false
+  xy: 2, 295
+  size: 221, 218
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+ccc_2
+  rotate: false
+  xy: 2, 295
+  size: 221, 218
+  orig: 221, 221
+  offset: 0, 0
+  index: -1
+ccc_1
+  rotate: false
+  xy: 446, 295
+  size: 219, 218
+  orig: 221, 221
+  offset: 2, 2
+  index: -1
+ccc_3
+  rotate: false
+  xy: 225, 294
+  size: 219, 219
+  orig: 221, 221
+  offset: 1, 1
+  index: -1
+ccc_4
+  rotate: false
+  xy: 2, 515
+  size: 951, 449
+  orig: 985, 453
+  offset: 17, 4
+  index: -1
+heiying
+  rotate: true
+  xy: 887, 424
+  size: 89, 77
+  orig: 100, 100
+  offset: 5, 10
+  index: -1

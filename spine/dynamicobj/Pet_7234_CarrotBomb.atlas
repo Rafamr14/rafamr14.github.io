@@ -1,0 +1,41 @@
+
+Pet_7234_CarrotBomb.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+syt_166
+  rotate: true
+  xy: 394, 253
+  size: 172, 29
+  orig: 172, 29
+  offset: 0, 0
+  index: -1
+syt_167
+  rotate: true
+  xy: 191, 208
+  size: 217, 81
+  orig: 217, 81
+  offset: 0, 0
+  index: -1
+syt_168
+  rotate: false
+  xy: 2, 212
+  size: 187, 212
+  orig: 187, 212
+  offset: 0, 0
+  index: -1
+syt_169
+  rotate: false
+  xy: 330, 310
+  size: 62, 114
+  orig: 62, 114
+  offset: 0, 0
+  index: -1
+syt_170
+  rotate: true
+  xy: 274, 235
+  size: 189, 54
+  orig: 189, 54
+  offset: 0, 0
+  index: -1

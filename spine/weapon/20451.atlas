@@ -1,0 +1,20 @@
+
+20451.png
+size: 467,113
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 338, 111
+  orig: 383, 158
+  offset: 16, 38
+  index: -1
+rpg_2
+  rotate: false
+  xy: 340, 54
+  size: 126, 58
+  orig: 237, 68
+  offset: 7, 6
+  index: -1

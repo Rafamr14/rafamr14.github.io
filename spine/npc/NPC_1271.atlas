@@ -1,0 +1,202 @@
+
+NPC_1271.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+qipao
+  rotate: false
+  xy: 1013, 1015
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xiaolong_0
+  rotate: false
+  xy: 379, 228
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+xiaolong_1
+  rotate: false
+  xy: 957, 468
+  size: 59, 152
+  orig: 59, 152
+  offset: 0, 0
+  index: -1
+xiaolong_10
+  rotate: false
+  xy: 317, 110
+  size: 71, 77
+  orig: 71, 77
+  offset: 0, 0
+  index: -1
+xiaolong_11
+  rotate: false
+  xy: 242, 109
+  size: 73, 78
+  orig: 73, 78
+  offset: 0, 0
+  index: -1
+xiaolong_12
+  rotate: false
+  xy: 539, 284
+  size: 93, 205
+  orig: 93, 205
+  offset: 0, 0
+  index: -1
+xiaolong_13
+  rotate: false
+  xy: 449, 166
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xiaolong_14
+  rotate: false
+  xy: 390, 149
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1
+xiaolong_15
+  rotate: false
+  xy: 2, 687
+  size: 666, 329
+  orig: 666, 329
+  offset: 0, 0
+  index: -1
+xiaolong_16
+  rotate: false
+  xy: 136, 22
+  size: 109, 73
+  orig: 109, 73
+  offset: 0, 0
+  index: -1
+xiaolong_17
+  rotate: true
+  xy: 2, 28
+  size: 93, 132
+  orig: 93, 132
+  offset: 0, 0
+  index: -1
+xiaolong_18
+  rotate: false
+  xy: 2, 275
+  size: 163, 143
+  orig: 163, 143
+  offset: 0, 0
+  index: -1
+xiaolong_19
+  rotate: true
+  xy: 155, 97
+  size: 150, 85
+  orig: 150, 85
+  offset: 0, 0
+  index: -1
+xiaolong_2
+  rotate: false
+  xy: 2, 420
+  size: 306, 265
+  orig: 306, 265
+  offset: 0, 0
+  index: -1
+xiaolong_20
+  rotate: false
+  xy: 320, 26
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+xiaolong_21
+  rotate: false
+  xy: 247, 29
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+xiaolong_22
+  rotate: false
+  xy: 247, 29
+  size: 71, 78
+  orig: 71, 78
+  offset: 0, 0
+  index: -1
+xiaolong_23
+  rotate: false
+  xy: 539, 491
+  size: 113, 194
+  orig: 113, 194
+  offset: 0, 0
+  index: -1
+xiaolong_24
+  rotate: true
+  xy: 435, 15
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+xiaolong_25
+  rotate: false
+  xy: 435, 75
+  size: 57, 72
+  orig: 57, 72
+  offset: 0, 0
+  index: -1
+xiaolong_26
+  rotate: false
+  xy: 310, 303
+  size: 207, 154
+  orig: 207, 154
+  offset: 0, 0
+  index: -1
+xiaolong_3
+  rotate: false
+  xy: 654, 472
+  size: 301, 148
+  orig: 301, 148
+  offset: 0, 0
+  index: -1
+xiaolong_4
+  rotate: false
+  xy: 260, 189
+  size: 117, 112
+  orig: 117, 112
+  offset: 0, 0
+  index: -1
+xiaolong_5
+  rotate: false
+  xy: 310, 459
+  size: 227, 226
+  orig: 227, 226
+  offset: 0, 0
+  index: -1
+xiaolong_6
+  rotate: true
+  xy: 670, 622
+  size: 394, 341
+  orig: 394, 341
+  offset: 0, 0
+  index: -1
+xiaolong_7
+  rotate: false
+  xy: 2, 123
+  size: 151, 150
+  orig: 151, 150
+  offset: 0, 0
+  index: -1
+xiaolong_8
+  rotate: true
+  xy: 167, 249
+  size: 169, 91
+  orig: 169, 91
+  offset: 0, 0
+  index: -1
+xiaolong_9
+  rotate: false
+  xy: 380, 23
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1

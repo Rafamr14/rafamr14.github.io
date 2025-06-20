@@ -1,0 +1,20 @@
+
+915.png
+size: 458,105
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 317, 103
+  orig: 383, 158
+  offset: 66, 24
+  index: -1
+rpg_2
+  rotate: false
+  xy: 319, 36
+  size: 138, 68
+  orig: 237, 68
+  offset: 0, 0
+  index: -1

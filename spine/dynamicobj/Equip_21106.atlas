@@ -1,0 +1,48 @@
+
+Equip_21106.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_2
+  rotate: false
+  xy: 2, 627
+  size: 404, 307
+  orig: 406, 309
+  offset: 1, 1
+  index: -1
+pt_3
+  rotate: false
+  xy: 2, 32
+  size: 314, 284
+  orig: 316, 287
+  offset: 1, 1
+  index: -1
+pt_4
+  rotate: true
+  xy: 318, 2
+  size: 314, 284
+  orig: 316, 287
+  offset: 1, 1
+  index: -1
+pt_5
+  rotate: false
+  xy: 2, 318
+  size: 404, 307
+  orig: 406, 309
+  offset: 1, 1
+  index: -1
+pt_6
+  rotate: true
+  xy: 408, 620
+  size: 314, 284
+  orig: 316, 287
+  offset: 1, 1
+  index: -1
+pt_7
+  rotate: false
+  xy: 408, 334
+  size: 314, 284
+  orig: 316, 287
+  offset: 1, 1
+  index: -1

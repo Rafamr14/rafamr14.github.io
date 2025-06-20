@@ -1,0 +1,20 @@
+
+670.png
+size: 359,111
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+rpg_1
+  rotate: false
+  xy: 1, 1
+  size: 319, 109
+  orig: 383, 158
+  offset: 63, 16
+  index: -1
+rpg_2
+  rotate: true
+  xy: 321, 45
+  size: 65, 37
+  orig: 237, 68
+  offset: 13, 14
+  index: -1

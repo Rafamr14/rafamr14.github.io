@@ -1,0 +1,41 @@
+
+Figure_1779.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1779
+  rotate: false
+  xy: 2, 182
+  size: 1634, 1790
+  orig: 2048, 2048
+  offset: 168, 135
+  index: -1
+1779_002
+  rotate: false
+  xy: 2, 2
+  size: 857, 178
+  orig: 1024, 512
+  offset: 106, 176
+  index: -1
+1779_003
+  rotate: false
+  xy: 861, 2
+  size: 857, 178
+  orig: 1024, 512
+  offset: 106, 176
+  index: -1
+1779_004
+  rotate: true
+  xy: 1638, 1115
+  size: 857, 178
+  orig: 1024, 512
+  offset: 106, 176
+  index: -1
+1779_005
+  rotate: true
+  xy: 1638, 256
+  size: 857, 178
+  orig: 1024, 512
+  offset: 106, 176
+  index: -1

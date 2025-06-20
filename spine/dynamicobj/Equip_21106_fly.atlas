@@ -1,0 +1,34 @@
+
+Equip_21106_fly.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pt_10
+  rotate: true
+  xy: 368, 240
+  size: 279, 84
+  orig: 281, 86
+  offset: 1, 1
+  index: -1
+pt_12
+  rotate: false
+  xy: 2, 228
+  size: 300, 101
+  orig: 302, 103
+  offset: 1, 1
+  index: -1
+pt_8
+  rotate: true
+  xy: 454, 327
+  size: 192, 65
+  orig: 194, 68
+  offset: 1, 1
+  index: -1
+pt_9
+  rotate: false
+  xy: 2, 331
+  size: 364, 188
+  orig: 366, 190
+  offset: 1, 1
+  index: -1

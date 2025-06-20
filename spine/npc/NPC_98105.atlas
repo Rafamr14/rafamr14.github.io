@@ -1,0 +1,307 @@
+
+NPC_98105.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bm_1
+  rotate: true
+  xy: 416, 570
+  size: 452, 308
+  orig: 452, 308
+  offset: 0, 0
+  index: -1
+bm_10
+  rotate: false
+  xy: 262, 266
+  size: 103, 90
+  orig: 103, 90
+  offset: 0, 0
+  index: -1
+bm_11
+  rotate: false
+  xy: 531, 478
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+bm_12
+  rotate: false
+  xy: 574, 253
+  size: 87, 98
+  orig: 87, 98
+  offset: 0, 0
+  index: -1
+bm_13
+  rotate: false
+  xy: 416, 686
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+bm_14
+  rotate: false
+  xy: 889, 826
+  size: 108, 196
+  orig: 108, 196
+  offset: 0, 0
+  index: -1
+bm_15
+  rotate: true
+  xy: 856, 417
+  size: 86, 163
+  orig: 86, 163
+  offset: 0, 0
+  index: -1
+bm_16
+  rotate: false
+  xy: 795, 622
+  size: 57, 30
+  orig: 57, 30
+  offset: 0, 0
+  index: -1
+bm_17
+  rotate: true
+  xy: 164, 283
+  size: 119, 96
+  orig: 119, 96
+  offset: 0, 0
+  index: -1
+bm_18
+  rotate: false
+  xy: 367, 268
+  size: 105, 88
+  orig: 105, 88
+  offset: 0, 0
+  index: -1
+bm_19
+  rotate: false
+  xy: 47, 405
+  size: 77, 78
+  orig: 77, 78
+  offset: 0, 0
+  index: -1
+bm_2
+  rotate: 270
+  xy: 695, 790
+  size: 233, 192
+  orig: 244, 192
+  offset: 0, 0
+  index: -1
+bm_20
+  rotate: true
+  xy: 490, 353
+  size: 85, 174
+  orig: 85, 174
+  offset: 0, 0
+  index: -1
+bm_21
+  rotate: false
+  xy: 2, 418
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+bm_22
+  rotate: true
+  xy: 666, 414
+  size: 89, 188
+  orig: 89, 188
+  offset: 0, 0
+  index: -1
+bm_23
+  rotate: true
+  xy: 2, 330
+  size: 72, 160
+  orig: 72, 160
+  offset: 0, 0
+  index: -1
+bm_24
+  rotate: false
+  xy: 739, 235
+  size: 74, 61
+  orig: 74, 61
+  offset: 0, 0
+  index: -1
+bm_25
+  rotate: false
+  xy: 99, 600
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+bm_26
+  rotate: false
+  xy: 830, 261
+  size: 94, 79
+  orig: 94, 79
+  offset: 0, 0
+  index: -1
+bm_27
+  rotate: false
+  xy: 92, 241
+  size: 58, 87
+  orig: 58, 87
+  offset: 0, 0
+  index: -1
+bm_28
+  rotate: false
+  xy: 416, 938
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+bm_29
+  rotate: true
+  xy: 186, 440
+  size: 136, 346
+  orig: 136, 346
+  offset: 0, 0
+  index: -1
+bm_3
+  rotate: false
+  xy: 795, 505
+  size: 198, 96
+  orig: 198, 96
+  offset: 0, 0
+  index: -1
+bm_30
+  rotate: 180
+  xy: 360, 543
+  size: 76, 91
+  orig: 76, 91
+  offset: 0, 0
+  index: -1
+bm_31
+  rotate: false
+  xy: 2, 558
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+bm_32
+  rotate: false
+  xy: 398, 366
+  size: 76, 72
+  orig: 76, 72
+  offset: 0, 0
+  index: -1
+bm_33
+  rotate: true
+  xy: 663, 228
+  size: 68, 74
+  orig: 68, 74
+  offset: 0, 0
+  index: -1
+bm_3_1
+  rotate: false
+  xy: 663, 298
+  size: 147, 39
+  orig: 147, 39
+  offset: 0, 0
+  index: -1
+bm_3_2
+  rotate: false
+  xy: 856, 342
+  size: 162, 73
+  orig: 162, 73
+  offset: 0, 0
+  index: -1
+bm_3_3
+  rotate: false
+  xy: 666, 339
+  size: 162, 73
+  orig: 162, 73
+  offset: 0, 0
+  index: -1
+bm_4
+  rotate: false
+  xy: 641, 654
+  size: 220, 110
+  orig: 220, 110
+  offset: 0, 0
+  index: -1
+bm_5
+  rotate: false
+  xy: 598, 492
+  size: 195, 160
+  orig: 195, 160
+  offset: 0, 0
+  index: -1
+bm_6
+  rotate: false
+  xy: 2, 643
+  size: 412, 379
+  orig: 412, 379
+  offset: 0, 0
+  index: -1
+bm_7
+  rotate: true
+  xy: 2, 479
+  size: 163, 357
+  orig: 163, 357
+  offset: 0, 0
+  index: -1
+bm_8
+  rotate: false
+  xy: 152, 228
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+bm_9
+  rotate: false
+  xy: 2, 268
+  size: 88, 60
+  orig: 88, 60
+  offset: 0, 0
+  index: -1
+light_1_1
+  rotate: false
+  xy: 495, 1006
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: true
+  xy: 126, 404
+  size: 119, 142
+  orig: 119, 142
+  offset: 0, 0
+  index: -1
+light_3
+  rotate: false
+  xy: 865, 603
+  size: 157, 190
+  orig: 157, 190
+  offset: 0, 0
+  index: -1
+light_4
+  rotate: false
+  xy: 474, 263
+  size: 98, 88
+  orig: 98, 88
+  offset: 0, 0
+  index: -1
+light_5
+  rotate: true
+  xy: 270, 358
+  size: 103, 126
+  orig: 103, 126
+  offset: 0, 0
+  index: -1
+light_6
+  rotate: false
+  xy: 926, 262
+  size: 94, 78
+  orig: 94, 78
+  offset: 0, 0
+  index: -1
+light_7
+  rotate: true
+  xy: 639, 990
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1

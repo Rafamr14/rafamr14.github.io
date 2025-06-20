@@ -1,0 +1,20 @@
+
+137.png
+size: 362,215
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dianju
+  rotate: false
+  xy: 1, 1
+  size: 358, 106
+  orig: 360, 126
+  offset: 1, 20
+  index: -1
+dianju2
+  rotate: false
+  xy: 1, 108
+  size: 360, 106
+  orig: 360, 126
+  offset: 0, 20
+  index: -1

@@ -1,0 +1,503 @@
+
+carrier_1067_mecha.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Front_Star_1
+  rotate: false
+  xy: 1101, 993
+  size: 508, 121
+  orig: 528, 529
+  offset: 10, 209
+  index: -1
+mecha_ArmL1_0
+  rotate: true
+  xy: 462, 1968
+  size: 78, 268
+  orig: 80, 270
+  offset: 1, 1
+  index: -1
+mecha_ArmL1_1
+  rotate: true
+  xy: 1244, 618
+  size: 137, 244
+  orig: 140, 246
+  offset: 1, 1
+  index: -1
+mecha_ArmL1_10
+  rotate: false
+  xy: 402, 910
+  size: 66, 141
+  orig: 68, 143
+  offset: 1, 1
+  index: -1
+mecha_ArmL1_11
+  rotate: false
+  xy: 644, 1126
+  size: 68, 149
+  orig: 69, 149
+  offset: 1, 0
+  index: -1
+mecha_ArmL1_12
+  rotate: true
+  xy: 1468, 442
+  size: 78, 268
+  orig: 80, 270
+  offset: 1, 1
+  index: -1
+mecha_ArmL1_2
+  rotate: false
+  xy: 470, 933
+  size: 172, 342
+  orig: 174, 342
+  offset: 1, 0
+  index: -1
+mecha_ArmL1_3
+  rotate: false
+  xy: 2, 957
+  size: 150, 355
+  orig: 154, 357
+  offset: 0, 1
+  index: -1
+mecha_ArmL1_4
+  rotate: false
+  xy: 462, 1866
+  size: 48, 100
+  orig: 48, 102
+  offset: 0, 2
+  index: -1
+mecha_ArmL1_5
+  rotate: false
+  xy: 806, 1998
+  size: 40, 48
+  orig: 46, 50
+  offset: 1, 0
+  index: -1
+mecha_ArmL1_6
+  rotate: false
+  xy: 1430, 1980
+  size: 61, 66
+  orig: 66, 68
+  offset: 2, 1
+  index: -1
+mecha_ArmL1_7
+  rotate: true
+  xy: 1232, 373
+  size: 110, 173
+  orig: 111, 181
+  offset: 0, 1
+  index: -1
+mecha_ArmL1_8
+  rotate: false
+  xy: 1010, 1627
+  size: 45, 148
+  orig: 45, 149
+  offset: 0, 1
+  index: -1
+mecha_ArmL1_9
+  rotate: false
+  xy: 403, 352
+  size: 119, 174
+  orig: 122, 181
+  offset: 1, 5
+  index: -1
+mecha_Body_0
+  rotate: false
+  xy: 1317, 757
+  size: 238, 234
+  orig: 238, 234
+  offset: 0, 0
+  index: -1
+mecha_Body_0_1
+  rotate: false
+  xy: 818, 634
+  size: 226, 230
+  orig: 226, 230
+  offset: 0, 0
+  index: -1
+mecha_Body_1
+  rotate: false
+  xy: 462, 1563
+  size: 594, 483
+  orig: 594, 483
+  offset: 0, 0
+  index: -1
+mecha_ClawsFinger_0
+  rotate: false
+  xy: 1878, 863
+  size: 163, 138
+  orig: 165, 142
+  offset: 2, 4
+  index: -1
+mecha_ClawsFinger_1
+  rotate: true
+  xy: 1768, 513
+  size: 101, 254
+  orig: 102, 254
+  offset: 1, 0
+  index: -1
+mecha_ClawsFinger_2
+  rotate: false
+  xy: 2, 627
+  size: 112, 328
+  orig: 117, 337
+  offset: 4, 9
+  index: -1
+mecha_ClawsFinger_3
+  rotate: false
+  xy: 1892, 332
+  size: 107, 179
+  orig: 107, 181
+  offset: 0, 2
+  index: -1
+mecha_ClawsFinger_4
+  rotate: false
+  xy: 1557, 1372
+  size: 98, 265
+  orig: 98, 265
+  offset: 0, 0
+  index: -1
+mecha_ClawsFinger_5
+  rotate: true
+  xy: 1163, 1116
+  size: 267, 273
+  orig: 270, 274
+  offset: 1, 0
+  index: -1
+mecha_ClawsFinger_6
+  rotate: false
+  xy: 762, 1384
+  size: 75, 195
+  orig: 76, 204
+  offset: 0, 8
+  index: -1
+mecha_ClawsFinger_7
+  rotate: true
+  xy: 1490, 522
+  size: 112, 276
+  orig: 112, 276
+  offset: 0, 0
+  index: -1
+mecha_ClawsFinger_8
+  rotate: false
+  xy: 1813, 1003
+  size: 203, 305
+  orig: 203, 305
+  offset: 0, 0
+  index: -1
+mecha_ClawsLine_0
+  rotate: false
+  xy: 1153, 352
+  size: 355, 19
+  orig: 355, 19
+  offset: 0, 0
+  index: -1
+mecha_Claws_0
+  rotate: true
+  xy: 604, 503
+  size: 160, 189
+  orig: 162, 190
+  offset: 2, 0
+  index: -1
+mecha_Claws_1_1
+  rotate: false
+  xy: 839, 1304
+  size: 322, 314
+  orig: 322, 314
+  offset: 0, 0
+  index: -1
+mecha_Claws_1_2
+  rotate: false
+  xy: 1244, 485
+  size: 222, 131
+  orig: 222, 131
+  offset: 0, 0
+  index: -1
+mecha_Claws_1_3
+  rotate: false
+  xy: 795, 507
+  size: 238, 125
+  orig: 239, 125
+  offset: 1, 0
+  index: -1
+mecha_FuelLight_1
+  rotate: false
+  xy: 604, 665
+  size: 212, 204
+  orig: 217, 209
+  offset: 3, 3
+  index: -1
+mecha_Fuel_0
+  rotate: false
+  xy: 1828, 1696
+  size: 210, 350
+  orig: 210, 350
+  offset: 0, 0
+  index: -1
+mecha_Fuel_1
+  rotate: true
+  xy: 1057, 1620
+  size: 426, 371
+  orig: 426, 371
+  offset: 0, 0
+  index: -1
+mecha_LegL_0
+  rotate: false
+  xy: 1611, 1011
+  size: 198, 109
+  orig: 199, 146
+  offset: 1, 1
+  index: -1
+mecha_LegL_1
+  rotate: true
+  xy: 1100, 786
+  size: 205, 215
+  orig: 205, 216
+  offset: 0, 0
+  index: -1
+mecha_LegL_2
+  rotate: true
+  xy: 760, 1104
+  size: 198, 339
+  orig: 199, 340
+  offset: 0, 0
+  index: -1
+mecha_LegR1_0
+  rotate: false
+  xy: 403, 528
+  size: 199, 156
+  orig: 199, 157
+  offset: 0, 0
+  index: -1
+mecha_LegR1_1
+  rotate: false
+  xy: 732, 1985
+  size: 72, 61
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+mecha_LegR1_2
+  rotate: true
+  xy: 644, 871
+  size: 231, 246
+  orig: 233, 246
+  offset: 1, 0
+  index: -1
+mecha_LegR1_3
+  rotate: true
+  xy: 1163, 1385
+  size: 233, 392
+  orig: 234, 393
+  offset: 1, 0
+  index: -1
+mecha_Light1_0
+  rotate: false
+  xy: 524, 404
+  size: 97, 97
+  orig: 115, 115
+  offset: 9, 9
+  index: -1
+mecha_shoulderL1_0
+  rotate: true
+  xy: 1659, 1310
+  size: 335, 387
+  orig: 338, 389
+  offset: 1, 1
+  index: -1
+mecha_shoulderL2_0
+  rotate: false
+  xy: 509, 690
+  size: 92, 137
+  orig: 92, 137
+  offset: 0, 0
+  index: -1
+mecha_shoulderL2_1
+  rotate: false
+  xy: 943, 359
+  size: 281, 250
+  orig: 281, 250
+  offset: 0, 0
+  index: -1
+mecha_shoulderL2_2
+  rotate: false
+  xy: 762, 348
+  size: 195, 158
+  orig: 195, 158
+  offset: 0, 0
+  index: -1
+mecha_shoulderL3_0
+  rotate: true
+  xy: 1047, 611
+  size: 173, 195
+  orig: 175, 195
+  offset: 1, 0
+  index: -1
+mecha_shoulderL3_1
+  rotate: false
+  xy: 1438, 1315
+  size: 196, 55
+  orig: 197, 57
+  offset: 1, 1
+  index: -1
+mecha_shoulderL3_2
+  rotate: false
+  xy: 1738, 375
+  size: 152, 136
+  orig: 153, 138
+  offset: 0, 1
+  index: -1
+mecha_shoulderL3_3
+  rotate: true
+  xy: 2, 411
+  size: 214, 151
+  orig: 214, 151
+  offset: 0, 0
+  index: -1
+mecha_shoulderL3_4
+  rotate: 180
+  xy: 172, 1042
+  size: 296, 274
+  orig: 296, 274
+  offset: 0, 0
+  index: -1
+mecha_shoulderL3_5
+  rotate: false
+  xy: 582, 344
+  size: 275, 162
+  orig: 278, 166
+  offset: 3, 0
+  index: -1
+mecha_shoulderL3_6
+  rotate: true
+  xy: 1557, 636
+  size: 188, 213
+  orig: 189, 214
+  offset: 0, 1
+  index: -1
+mecha_shoulderL3_7
+  rotate: false
+  xy: 154, 825
+  size: 222, 214
+  orig: 222, 222
+  offset: 0, 1
+  index: -1
+mecha_shoulderL3_8
+  rotate: false
+  xy: 1527, 318
+  size: 163, 76
+  orig: 163, 76
+  offset: 0, 0
+  index: -1
+mecha_shoulderR1_0
+  rotate: false
+  xy: 2, 1556
+  size: 458, 490
+  orig: 472, 494
+  offset: 2, 4
+  index: -1
+mecha_shoulderR2_0
+  rotate: false
+  xy: 256, 364
+  size: 145, 110
+  orig: 146, 110
+  offset: 0, 0
+  index: -1
+mecha_shoulderR2_1
+  rotate: false
+  xy: 116, 623
+  size: 101, 200
+  orig: 106, 214
+  offset: 2, 11
+  index: -1
+mecha_shoulderR2_2
+  rotate: false
+  xy: 219, 616
+  size: 405, 316
+  orig: 412, 322
+  offset: 0, 6
+  index: -1
+mecha_shoulderR2_3
+  rotate: false
+  xy: 977, 316
+  size: 265, 220
+  orig: 275, 220
+  offset: 0, 0
+  index: -1
+mecha_shoulderR3_0
+  rotate: false
+  xy: 462, 1277
+  size: 296, 284
+  orig: 300, 287
+  offset: 2, 3
+  index: -1
+mecha_shoulderR3_1
+  rotate: false
+  xy: 892, 865
+  size: 206, 237
+  orig: 206, 237
+  offset: 0, 0
+  index: -1
+mecha_shoulderR3_10
+  rotate: false
+  xy: 2, 1314
+  size: 307, 240
+  orig: 310, 241
+  offset: 1, 1
+  index: -1
+mecha_shoulderR3_2
+  rotate: false
+  xy: 1772, 616
+  size: 189, 208
+  orig: 190, 208
+  offset: 0, 0
+  index: -1
+mecha_shoulderR3_3
+  rotate: false
+  xy: 1407, 388
+  size: 235, 52
+  orig: 237, 53
+  offset: 1, 1
+  index: -1
+mecha_shoulderR3_4
+  rotate: true
+  xy: 311, 1331
+  size: 223, 134
+  orig: 232, 134
+  offset: 1, 0
+  index: -1
+mecha_shoulderR3_5
+  rotate: 180
+  xy: 172, 469
+  size: 230, 165
+  orig: 230, 165
+  offset: 0, 0
+  index: -1
+mecha_shoulderR3_6
+  rotate: false
+  xy: 1430, 1639
+  size: 396, 408
+  orig: 396, 438
+  offset: 0, 30
+  index: -1
+mecha_shoulderR3_7
+  rotate: false
+  xy: 1611, 826
+  size: 265, 175
+  orig: 273, 178
+  offset: 0, 2
+  index: -1
+mecha_shoulderR3_8
+  rotate: false
+  xy: 1438, 1122
+  size: 373, 186
+  orig: 374, 188
+  offset: 0, 0
+  index: -1
+mecha_shoulderR3_9
+  rotate: false
+  xy: 56, 339
+  size: 198, 86
+  orig: 198, 86
+  offset: 0, 0
+  index: -1

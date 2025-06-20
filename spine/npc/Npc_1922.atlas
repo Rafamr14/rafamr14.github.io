@@ -1,0 +1,146 @@
+
+Npc_1922.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1920_16
+  rotate: false
+  xy: 927, 233
+  size: 95, 139
+  orig: 95, 139
+  offset: 0, 0
+  index: -1
+1920_17
+  rotate: false
+  xy: 2, 107
+  size: 122, 138
+  orig: 122, 138
+  offset: 0, 0
+  index: -1
+1920_18
+  rotate: false
+  xy: 404, 696
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+1920_19
+  rotate: false
+  xy: 2, 625
+  size: 419, 397
+  orig: 419, 397
+  offset: 0, 0
+  index: -1
+1920_20
+  rotate: false
+  xy: 2, 613
+  size: 69, 87
+  orig: 69, 87
+  offset: 0, 0
+  index: -1
+ak_0
+  rotate: false
+  xy: 814, 768
+  size: 185, 254
+  orig: 185, 254
+  offset: 0, 0
+  index: -1
+ak_1
+  rotate: false
+  xy: 2, 217
+  size: 313, 406
+  orig: 313, 406
+  offset: 0, 0
+  index: -1
+ak_11
+  rotate: false
+  xy: 280, 202
+  size: 454, 286
+  orig: 454, 286
+  offset: 0, 0
+  index: -1
+ak_12
+  rotate: false
+  xy: 736, 398
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+ak_13
+  rotate: false
+  xy: 159, 447
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+ak_14
+  rotate: false
+  xy: 385, 614
+  size: 427, 408
+  orig: 427, 408
+  offset: 0, 0
+  index: -1
+ak_15
+  rotate: true
+  xy: 743, 452
+  size: 303, 279
+  orig: 303, 279
+  offset: 0, 0
+  index: -1
+ak_16
+  rotate: 180
+  xy: 240, 424
+  size: 467, 263
+  orig: 467, 263
+  offset: 0, 0
+  index: -1
+ak_2
+  rotate: 180
+  xy: 788, 131
+  size: 233, 347
+  orig: 233, 347
+  offset: 0, 0
+  index: -1
+ak_3
+  rotate: true
+  xy: 193, 90
+  size: 138, 238
+  orig: 138, 238
+  offset: 0, 0
+  index: -1
+ak_4
+  rotate: true
+  xy: 342, 342
+  size: 131, 212
+  orig: 131, 212
+  offset: 0, 0
+  index: -1
+ak_5
+  rotate: true
+  xy: 589, 106
+  size: 206, 197
+  orig: 206, 197
+  offset: 0, 0
+  index: -1
+ak_6
+  rotate: false
+  xy: 62, 1007
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+ak_8
+  rotate: false
+  xy: 2, 975
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+ak_9
+  rotate: false
+  xy: 95, 1015
+  size: 25, 7
+  orig: 25, 7
+  offset: 0, 0
+  index: -1
